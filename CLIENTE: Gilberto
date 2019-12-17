@@ -1,263 +1,403 @@
-#EXTM3U
+ #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/A-fazenda-logo-620x360.jpg" group-title="A FAZENDA",A FAZENDA HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/60834
+http://quatv2.com:25461/Ag2OOL/mvntJq/60834
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/A-fazenda-logo-620x360.jpg" group-title="A FAZENDA",A FAZENDA HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/60835
+http://quatv2.com:25461/Ag2OOL/mvntJq/60835
 #EXTINF:-1 tvg-id="" tvg-name="A FAZENDA SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/A-fazenda-logo-620x360.jpg" group-title="A FAZENDA",A FAZENDA SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/60836
+http://quatv2.com:25461/Ag2OOL/mvntJq/60836
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP 4K ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SP 4K ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58885
+http://quatv2.com:25461/Ag2OOL/mvntJq/58885
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD  ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SP FHD  ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/6282
+http://quatv2.com:25461/Ag2OOL/mvntJq/6282
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO SP FHD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SP FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31234
+http://quatv2.com:25461/Ag2OOL/mvntJq/31234
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD ³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SP FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43461
+http://quatv2.com:25461/Ag2OOL/mvntJq/43461
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD  ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SP HD  ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/530
+http://quatv2.com:25461/Ag2OOL/mvntJq/530
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO SP HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SP HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/527
+http://quatv2.com:25461/Ag2OOL/mvntJq/527
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO SP SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SP SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/7506
+http://quatv2.com:25461/Ag2OOL/mvntJq/7506
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD  ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO RJ FHD  ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/17391
+http://quatv2.com:25461/Ag2OOL/mvntJq/17391
 #EXTINF:-1 tvg-id="Globo Brasilia" tvg-name="GLOBO RJ FHD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO RJ FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/58884
+http://quatv2.com:25461/Ag2OOL/mvntJq/58884
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD  ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO RJ HD  ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/4336
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K ¹" tvg-logo="http://1.bp.blogspot.com/-Md1K9Q2q5vk/TjBFugVsyII/AAAAAAAACOc/8A8-Z31LqJc/s320/espn-logo-online-ao-vivo-web.jpg" group-title="ESPORTES",ESPN 4K ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/60178
-#EXTINF:-1 tvg-id="ESPN (BR)" tvg-name="ESPN FHD ³" tvg-logo="http://1.bp.blogspot.com/-Md1K9Q2q5vk/TjBFugVsyII/AAAAAAAACOc/8A8-Z31LqJc/s320/espn-logo-online-ao-vivo-web.jpg" group-title="ESPORTES",ESPN FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43472
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD ¹" tvg-logo="http://1.bp.blogspot.com/-Md1K9Q2q5vk/TjBFugVsyII/AAAAAAAACOc/8A8-Z31LqJc/s320/espn-logo-online-ao-vivo-web.jpg" group-title="ESPORTES",ESPN HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58952
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD ²" tvg-logo="http://1.bp.blogspot.com/-Md1K9Q2q5vk/TjBFugVsyII/AAAAAAAACOc/8A8-Z31LqJc/s320/espn-logo-online-ao-vivo-web.jpg" group-title="ESPORTES",ESPN HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/409
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD ²" tvg-logo="http://1.bp.blogspot.com/-Md1K9Q2q5vk/TjBFugVsyII/AAAAAAAACOc/8A8-Z31LqJc/s320/espn-logo-online-ao-vivo-web.jpg" group-title="ESPORTES",ESPN SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/408
-#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="ESPN BRASIL FHD ¹" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/6323
-#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="ESPN BRASIL FHD ²" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31247
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43468
-#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="ESPN BRASIL HD ¹" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/2768
-#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="ESPN BRASIL HD ²" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/407
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL HD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43469
-#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN BRASIL SD ¹" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL SD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58809
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="ESPN BRASIL SD ²" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/406
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/espn_brasil-3f472c4433488eac04c043b6f7b933c4.jpg" group-title="ESPORTES",ESPN BRASIL SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/4332
-#EXTINF:-1 tvg-id="ESPN 2 (BR)" tvg-name="ESPN 2 FHD ¹" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="ESPORTES",ESPN 2 FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/31904
-#EXTINF:-1 tvg-id="ESPN 2 (BR)" tvg-name="ESPN 2 FHD ²" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="ESPORTES",ESPN 2 FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31196
-#EXTINF:-1 tvg-id="ESPN 2 (BR)" tvg-name="ESPN 2 FHD ³" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="ESPORTES",ESPN 2 FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43471
-#EXTINF:-1 tvg-id="ESPN 2 (BR)" tvg-name="ESPN 2 HD ¹" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="ESPORTES",ESPN 2 HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/55088
-#EXTINF:-1 tvg-id="ESPN 2 (BR)" tvg-name="ESPN 2 HD ²" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="ESPORTES",ESPN 2 HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/4426
-#EXTINF:-1 tvg-id="ESPN 2 (BR)" tvg-name="ESPN 2 HD ¹" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="ESPORTES",ESPN 2 HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/19228
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="ESPN 2 SD ²" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="ESPORTES",ESPN 2 SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/4425
-#EXTINF:-1 tvg-id="ESPN 2 (BR)" tvg-name="ESPN 2 SD ³" tvg-logo="https://4.bp.blogspot.com/-FV40qaNYhvc/WhIkUsb15rI/AAAAAAAAACM/8vIjddhfsb8ffPPPlBvjn_5hfzAXNO9DACLcBGAs/s1600/espannn2.jpg" group-title="ESPORTES",ESPN 2 SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/19386
-#EXTINF:-1 tvg-id="ESPN Extra (BR)" tvg-name="ESPN EXTRA FHD ¹" tvg-logo="https://raw.githubusercontent.com/igor-rangel7l/AddOn_IgorLista/master/Logos/Tv%20Online/thumbnail/EspnExtra.png" group-title="ESPORTES",ESPN EXTRA FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/8942
-#EXTINF:-1 tvg-id="ESPN Extra (BR)" tvg-name="ESPN EXTRA FHD ²" tvg-logo="https://goo.gl/SLpg1y?" group-title="ESPORTES",ESPN EXTRA FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/58965
+http://quatv2.com:25461/Ag2OOL/mvntJq/17392
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO RJ HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO RJ HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/4222
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO RJ SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/55057
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO RJ SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO RJ SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/12114
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO BRASILIA HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO BRASILIA HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/7516
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD ³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO BRASILIA HD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43459
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO BRASILIA SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO BRASILIA SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/7515
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA SD ³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO BRASILIA SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/19368
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO MINAS FHD ³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO MINAS FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/31233
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO MINAS HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/30858
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO MINAS HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO MINAS HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/7514
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO MINAS HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/19347
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD  ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO MINAS SD  ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/30859
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO MINAS SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO MINAS SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/7499
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS SD ³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO MINAS SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/19346
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO AMAZONAS SD ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Rede_Amaz%C3%B4nica.jpg" group-title="CANAIS REDE GLOBO",GLOBO AMAZONAS SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/55058
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO AMAZONAS SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Rede_Amaz%C3%B4nica.jpg" group-title="CANAIS REDE GLOBO",GLOBO AMAZONAS SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/44467
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO SERGIPE HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SERGIPE HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/55047
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO SERGIPE SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO SERGIPE SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/30541
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE FHD  ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO NORDESTE FHD  ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/43828
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO NORDESTE HD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO NORDESTE HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/7509
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD ³" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO NORDESTE HD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/19362
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE SD ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS REDE GLOBO",GLOBO NORDESTE SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/55059
+#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis" tvg-name="GLOBO NSC BLUMENAU HD *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS REDE GLOBO",GLOBO NSC BLUMENAU HD *
+http://quatv2.com:25461/Ag2OOL/mvntJq/59459
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO NSC TV BLUMENAU SC SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS REDE GLOBO",GLOBO NSC TV BLUMENAU SC SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/16403
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO NSC TV JOINVILE SD ²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="CANAIS REDE GLOBO",GLOBO NSC TV JOINVILE SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/55029
+#EXTINF:-1 tvg-id="TV Gazeta (BR)" tvg-name="GLOBO TV GAZETA SUL FHD  ¹" tvg-logo="http://s2.glbimg.com/vjyg02ZDEZUrXmFfUYy1YAgJGPI=/s.glbimg.com/og/rg/f/original/2014/01/14/vert_gazcom__emmov_n_11_01_2014001.jpg" group-title="CANAIS REDE GLOBO",GLOBO TV GAZETA SUL FHD  ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/17393
+#EXTINF:-1 tvg-id="TV Gazeta (BR)" tvg-name="GLOBO TV GAZETA SUL HD ¹" tvg-logo="http://s2.glbimg.com/vjyg02ZDEZUrXmFfUYy1YAgJGPI=/s.glbimg.com/og/rg/f/original/2014/01/14/vert_gazcom__emmov_n_11_01_2014001.jpg" group-title="CANAIS REDE GLOBO",GLOBO TV GAZETA SUL HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/17394
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO BAHIA SD ¹" tvg-logo="https://seeklogo.com/images/T/tv-oeste-rede-bahia-de-televisao-logo-0E4A322DB3-seeklogo.com.png" group-title="CANAIS REDE GLOBO",GLOBO BAHIA SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/55054
+#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA SD ³" tvg-logo="https://seeklogo.com/images/T/tv-oeste-rede-bahia-de-televisao-logo-0E4A322DB3-seeklogo.com.png" group-title="CANAIS REDE GLOBO",GLOBO BAHIA SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/19369
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO BAHIA SD ²" tvg-logo="https://seeklogo.com/images/T/tv-oeste-rede-bahia-de-televisao-logo-0E4A322DB3-seeklogo.com.png" group-title="CANAIS REDE GLOBO",GLOBO BAHIA SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/520
+#EXTINF:-1 tvg-id="Rpccuritiba.br" tvg-name="GLOBO RPC CURITIBA SD ¹" tvg-logo="https://seeklogo.com/images/R/rpc-parana-logo-B37CDA97D3-seeklogo.com.png" group-title="CANAIS REDE GLOBO",GLOBO RPC CURITIBA SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/55056
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOBO RPC CURITIBA SD ²" tvg-logo="https://seeklogo.com/images/R/rpc-parana-logo-B37CDA97D3-seeklogo.com.png" group-title="CANAIS REDE GLOBO",GLOBO RPC CURITIBA SD ²
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="RECORD RS FHD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/05/Rede-Record-Logo.jpg" group-title="CANAIS ABERTOS",RECORD RS FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43434
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD RS SD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/05/Rede-Record-Logo.jpg" group-title="CANAIS ABERTOS",RECORD RS SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43773
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="RECORD BRASILIA FHD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/05/Rede-Record-Logo.jpg" group-title="CANAIS ABERTOS",RECORD BRASILIA FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43440
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD BRASILIA SD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/05/Rede-Record-Logo.jpg" group-title="CANAIS ABERTOS",RECORD BRASILIA SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43777
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="RECORD ITAPOAN FHD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/05/Rede-Record-Logo.jpg" group-title="CANAIS ABERTOS",RECORD ITAPOAN FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43439
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="RECORD ITAPOAN SD ³" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/05/Rede-Record-Logo.jpg" group-title="CANAIS ABERTOS",RECORD ITAPOAN SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43438
+#EXTINF:-1 tvg-id="Tv Gazeta SP HD" tvg-name="RECORD VITORIA ES HD ¹" tvg-logo="https://4.bp.blogspot.com/-njl0j_tJ_j8/T9pJrd6srTI/AAAAAAAAMWo/69-3gYzq9uY/w1200-h630-p-k-no-nu/Logo+TV+Gazeta.png" group-title="CANAIS ABERTOS",RECORD VITORIA ES HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/57715
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD TV VITÓRIA *" tvg-logo="https://famososnaweb.com/wp-content/uploads/2014/05/Rede-Record-Logo.jpg" group-title="CANAIS ABERTOS",RECORD TV VITÓRIA *
+http://quatv2.com:25461/Ag2OOL/mvntJq/58943
+#EXTINF:-1 tvg-id="Rede Record (BR)" tvg-name="RECORD TV A CRITICA AMAZONAS HD ¹" tvg-logo="http://comercial.recordtv.com.br/files/2017/05/ACRITICA_AM.jpg" group-title="CANAIS ABERTOS",RECORD TV A CRITICA AMAZONAS HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/30669
+#EXTINF:-1 tvg-id="Record News (BR)" tvg-name="RECORD NEWS FHD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFYnUC-YCSHK87337wZLumqvQph11A9AAvSfUaxZlwOWBkCKi" group-title="NOTICIAS",RECORD NEWS FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/30666
+#EXTINF:-1 tvg-id="Record News (BR)" tvg-name="RECORD NEWS FHD ³" tvg-logo="https://tv.i.uol.com.br/televisao/2012/02/27/nova-logomarca-da-record-news-2012-1330350392176_300x300.jpg" group-title="NOTICIAS",RECORD NEWS FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43436
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="RECORD NEWS HD ²" tvg-logo="https://tv.i.uol.com.br/televisao/2012/02/27/nova-logomarca-da-record-news-2012-1330350392176_300x300.jpg" group-title="CANAIS ABERTOS",RECORD NEWS HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/552
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS SD ³" tvg-logo="https://tv.i.uol.com.br/televisao/2012/02/27/nova-logomarca-da-record-news-2012-1330350392176_300x300.jpg" group-title="NOTICIAS",RECORD NEWS SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/6281
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT HD ¹" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/7391
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT  HD ²" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT  HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/492
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT HD ³" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT HD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/57710
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT HD *" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT HD *
+http://quatv2.com:25461/Ag2OOL/mvntJq/58941
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD ¹" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58264
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="SBT SD ²" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/4216
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT SD ³" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/4159
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT BRASILIA FHD ²" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c58e812f5890bb17b7ea47f918a7d1df.png" group-title="CANAIS ABERTOS",SBT BRASILIA FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/59420
+http://quatv2.com:25461/Ag2OOL/mvntJq/43792
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="FOX SPORTS 4K ¹" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" group-title="ESPORTES",FOX SPORTS 4K ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58904
+#EXTINF:-1 tvg-id="Fox Sports (BR)" tvg-name="FOX SPORTS FHD  ¹" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" group-title="ESPORTES",FOX SPORTS FHD  ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/6322
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS FHD ²" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" group-title="ESPORTES",FOX SPORTS FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31250
+#EXTINF:-1 tvg-id="Fox Sports (BR)" tvg-name="FOX SPORTS FHD ³" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" group-title="ESPORTES",FOX SPORTS FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43464
+#EXTINF:-1 tvg-id="Fox Sports (BR)" tvg-name="FOX SPORTS HD  ¹" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" group-title="ESPORTES",FOX SPORTS HD  ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/19202
+#EXTINF:-1 tvg-id="Fox Sports (BR)" tvg-name="FOX SPORTS HD  ²" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" group-title="ESPORTES",FOX SPORTS HD  ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/401
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ²" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" group-title="ESPORTES",FOX SPORTS SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/400
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS SD ³" tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" group-title="ESPORTES",FOX SPORTS SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/19387
+#EXTINF:-1 tvg-id="Fox Sports 2 (BR)" tvg-name="FOX SPORTS 2 4K ¹" tvg-logo="https://cdn.blogcamp.com.br/2014/01/Fox-Sports.jpg" group-title="ESPORTES",FOX SPORTS 2 4K ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/59414
+#EXTINF:-1 tvg-id="Fox Sports 2 (BR)" tvg-name="FOX SPORTS 2 FHD  ¹" tvg-logo="https://cdn.blogcamp.com.br/2014/01/Fox-Sports.jpg" group-title="ESPORTES",FOX SPORTS 2 FHD  ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/6321
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD ¹" tvg-logo="https://cdn.blogcamp.com.br/2014/01/Fox-Sports.jpg" group-title="ESPORTES",FOX SPORTS 2 FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/31249
+#EXTINF:-1 tvg-id="Fox Sports 2 (BR)" tvg-name="FOX SPORTS 2 HD ¹" tvg-logo="https://cdn.blogcamp.com.br/2014/01/Fox-Sports.jpg" group-title="ESPORTES",FOX SPORTS 2 HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/399
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="FOX SPORTS 2 HD ²" tvg-logo="https://cdn.blogcamp.com.br/2014/01/Fox-Sports.jpg" group-title="ESPORTES",FOX SPORTS 2 HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/2760
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="FOX SPORTS 2 SD ²" tvg-logo="https://cdn.blogcamp.com.br/2014/01/Fox-Sports.jpg" group-title="ESPORTES",FOX SPORTS 2 SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/398
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS  2 SD ³" tvg-logo="https://cdn.blogcamp.com.br/2014/01/Fox-Sports.jpg" group-title="ESPORTES",FOX SPORTS  2 SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/4329
+#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE 4K ¹" tvg-logo="http://radiorama.com.br/marcas/canal-combate.jpg" group-title="ESPORTES",COMBATE 4K ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58876
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="COMBATE FHD  ¹" tvg-logo="http://radiorama.com.br/marcas/canal-combate.jpg" group-title="ESPORTES",COMBATE FHD  ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/6324
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD ²" tvg-logo="http://radiorama.com.br/marcas/canal-combate.jpg" group-title="ESPORTES",COMBATE FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31248
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="COMBATE HD ¹" tvg-logo="http://radiorama.com.br/marcas/canal-combate.jpg" group-title="ESPORTES",COMBATE HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/45199
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="COMBATE HD ²" tvg-logo="http://radiorama.com.br/marcas/canal-combate.jpg" group-title="ESPORTES",COMBATE HD ²
+#EXTINF:-1 tvg-id="TNT Series (BR)" tvg-name="TNT SERIES HD ²" tvg-logo="https://www.turner.com/s3fs-public/styles/square_thumbnail/public/image_mr/TNTSeries_Black_POR.jpg?itok=d3ucHLoA" group-title="FILMES E SERIES",TNT SERIES HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/366
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="TNT SERIES SD ²" tvg-logo="https://www.turner.com/s3fs-public/styles/square_thumbnail/public/image_mr/TNTSeries_Black_POR.jpg?itok=d3ucHLoA" group-title="FILMES E SERIES",TNT SERIES SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/365
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD ³" tvg-logo="https://www.turner.com/s3fs-public/styles/square_thumbnail/public/image_mr/TNTSeries_Black_POR.jpg?itok=d3ucHLoA" group-title="FILMES E SERIES",TNT SERIES SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/7927
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD ¹" tvg-logo="https://icon2.kisspng.com/20180418/tuq/kisspng-universal-pictures-universal-channel-television-ch-tv-shows-5ad6c86a0b8439.2672077515240254500472.jpg" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/8939
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD ²" tvg-logo="https://icon2.kisspng.com/20180418/tuq/kisspng-universal-pictures-universal-channel-television-ch-tv-shows-5ad6c86a0b8439.2672077515240254500472.jpg" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31212
+#EXTINF:-1 tvg-id="Universal Channel (BR)" tvg-name="UNIVERSAL CHANNEL FHD ³" tvg-logo="https://icon2.kisspng.com/20180418/tuq/kisspng-universal-pictures-universal-channel-television-ch-tv-shows-5ad6c86a0b8439.2672077515240254500472.jpg" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43423
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD ²" tvg-logo="https://icon2.kisspng.com/20180418/tuq/kisspng-universal-pictures-universal-channel-television-ch-tv-shows-5ad6c86a0b8439.2672077515240254500472.jpg" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/291
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="UNIVERSAL CHANNEL SD ²" tvg-logo="https://icon2.kisspng.com/20180418/tuq/kisspng-universal-pictures-universal-channel-television-ch-tv-shows-5ad6c86a0b8439.2672077515240254500472.jpg" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/290
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL SD ³" tvg-logo="https://icon2.kisspng.com/20180418/tuq/kisspng-universal-pictures-universal-channel-television-ch-tv-shows-5ad6c86a0b8439.2672077515240254500472.jpg" group-title="FILMES E SERIES",UNIVERSAL CHANNEL SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/19404
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD ¹" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/4845/brand.gif?itok=ZusuhjDq" group-title="FILMES E SERIES",WARNER CHANNEL FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/6355
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD ²" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/4845/brand.gif?itok=ZusuhjDq" group-title="FILMES E SERIES",WARNER CHANNEL FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31211
+#EXTINF:-1 tvg-id="Warner Channel (BR)" tvg-name="WARNER CHANNEL FHD ³" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/4845/brand.gif?itok=ZusuhjDq" group-title="FILMES E SERIES",WARNER CHANNEL FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43421
+#EXTINF:-1 tvg-id="Warner Channel (BR)" tvg-name="WARNER CHANNEL HD ¹" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/4845/brand.gif?itok=ZusuhjDq" group-title="FILMES E SERIES",WARNER CHANNEL HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/45240
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANEL HD ²" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/4845/brand.gif?itok=ZusuhjDq" group-title="FILMES E SERIES",WARNER CHANEL HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/4143
+#EXTINF:-1 tvg-id="NewChanel (BR)" tvg-name="WARNER CHANNEL SD ²" tvg-logo="" group-title="FILMES E SERIES",WARNER CHANNEL SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/60882
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD ³" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0005/4845/brand.gif?itok=ZusuhjDq" group-title="FILMES E SERIES",WARNER CHANNEL SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/7929
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET 4K ¹" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET 4K ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58915
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD ¹" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/60848
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD ²" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31198
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="ANIMAL PLANET HD ¹" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58962
+#EXTINF:-1 tvg-id="Animal Planet (BR)" tvg-name="ANIMAL PLANET HD ²" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/444
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD ¹" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58256
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="ANIMAL PLANET SD ²" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/443
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD ³" tvg-logo="https://seeklogo.com/images/A/animal-planet-new-logo-82F51876A3-seeklogo.com.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/4364
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="DISCOVERY CHANNEL 4K ¹" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL 4K ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58901
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="DISCOVERY CHANNEL FHD ¹" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/55008
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD ²" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31197
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="DISCOVERY CHANNEL FHD ³" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43481
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="DISCOVERY CHANNEL HD ¹" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/8941
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="DISCOVERY CHANNEL HD ²" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/440
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL SD ¹" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58423
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISCOVERY CHANNEL SD ²" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/439
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD ³" tvg-logo="https://eaudiencia.files.wordpress.com/2009/09/discoveryfeature300.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/4360
+#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="DISCOVERY CIVILIZATION HD ¹" tvg-logo="https://4.bp.blogspot.com/-gQ9tNkbCm-c/Wcpv71jvbRI/AAAAAAAACW4/Rog5sk22oLUN3xIMkWPEuqOOVcdT8mDswCLcBGAs/s1600/images.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58963
+#EXTINF:-1 tvg-id="DiscoveryCivilization.br" tvg-name="DISCOVERY CIVILIZATION SD ¹" tvg-logo="https://4.bp.blogspot.com/-gQ9tNkbCm-c/Wcpv71jvbRI/AAAAAAAACW4/Rog5sk22oLUN3xIMkWPEuqOOVcdT8mDswCLcBGAs/s1600/images.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58261
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISCOVERY CIVILIZATION SD ²" tvg-logo="https://4.bp.blogspot.com/-gQ9tNkbCm-c/Wcpv71jvbRI/AAAAAAAACW4/Rog5sk22oLUN3xIMkWPEuqOOVcdT8mDswCLcBGAs/s1600/images.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/437
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="DISCOVERY H&H FHD ¹" tvg-logo="https://i.imgur.com/HRrzUyz.jpg?1" group-title="DOCUMENTÁRIOS",DISCOVERY H&H FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58422
+#EXTINF:-1 tvg-id="Discovery Home Health HD" tvg-name="DISCOVERY H&H HD ¹" tvg-logo="https://i.imgur.com/HRrzUyz.jpg?1" group-title="DOCUMENTÁRIOS",DISCOVERY H&H HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58964
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD ²" tvg-logo="https://i.imgur.com/HRrzUyz.jpg?1" group-title="DOCUMENTÁRIOS",DISCOVERY H&H HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/436
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-name="DISCOVERY H&H SD ¹" tvg-logo="https://i.imgur.com/HRrzUyz.jpg?1" group-title="DOCUMENTÁRIOS",DISCOVERY H&H SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58424
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD ²" tvg-logo="https://i.imgur.com/HRrzUyz.jpg?1" group-title="DOCUMENTÁRIOS",DISCOVERY H&H SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/435
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD ³" tvg-logo="https://i.imgur.com/HRrzUyz.jpg?1" group-title="DOCUMENTÁRIOS",DISCOVERY H&H SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/4354
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="DISCOVERY SCIENCE HD ¹" tvg-logo="https://i.imgur.com/xIB7yYI.png?1" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58965
 #EXTINF:-1 tvg-id="Discovery Science (BR)" tvg-name="DISCOVERY SCIENCE HD ²" tvg-logo="https://i.imgur.com/xIB7yYI.png?1" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/434
+http://quatv2.com:25461/Ag2OOL/mvntJq/434
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISCOVERY SCIENCE SD ²" tvg-logo="https://i.imgur.com/xIB7yYI.png?1" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/433
+http://quatv2.com:25461/Ag2OOL/mvntJq/433
 #EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="DISCOVERY THEATER HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Q_iPyLyO7dT-9JB7WzYu2LweoAlDgFeD1ZQuBXauxUxGWnTk" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58966
-#EXTINF:-1 tvg-id="Discovery Theater (BR)" tvg-name="DISCOVERY THEATER HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Q_iPyLyO7dT-9JB7WzYu2LweoAlDgFeD1ZQuBXauxUxGWnTk" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/432
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISCOVERY THEATER SD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Q_iPyLyO7dT-9JB7WzYu2LweoAlDgFeD1ZQuBXauxUxGWnTk" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/431
-#EXTINF:-1 tvg-id="Discovery Turbo (BR)" tvg-name="DISCOVERY TURBO FHD ¹" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/6297
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD ²" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31171
-#EXTINF:-1 tvg-id="Discovery Turbo (BR)" tvg-name="DISCOVERY TURBO FHD ³" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43480
-#EXTINF:-1 tvg-id="Discovery Turbo (BR)" tvg-name="DISCOVERY TURBO HD ¹" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/430
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISCOVERY TURBO HD ²" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/17339
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISCOVERY TURBO SD ²" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/07/discovery-turbo.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/429
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD ¹" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58967
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD ²" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/428
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD ²" tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/427
-#EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="INVESTIGAÇÃO DISCOVERY HD ²" tvg-logo="http://monsterboy.com.br/images/cases/discoveryinvestigacao/LogoID.jpg" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/591
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="INVESTIGAÇÃO DISCOVERY SD ²" tvg-logo="http://monsterboy.com.br/images/cases/discoveryinvestigacao/LogoID.jpg" group-title="DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/590
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="INVESTIGAÇAO DISCOVERY SD ³" tvg-logo="http://monsterboy.com.br/images/cases/discoveryinvestigacao/LogoID.jpg" group-title="DOCUMENTÁRIOS",INVESTIGAÇAO DISCOVERY SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/4358
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL FHD ¹" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/30857
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL FHD ²" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31245
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD ¹" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/30856
-#EXTINF:-1 tvg-id="History Channel" tvg-name="HISTORY CHANNEL HD ²" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/425
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD ¹" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL SD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58257
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="HISTORY CHANNEL SD ²" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/424
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL SD ³" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052016/untitled-1_247.png?itok=uDhBoR91" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/4342
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD ¹" tvg-logo="https://pbs.twimg.com/profile_images/527566993520467968/Zoh-jdUa.jpeg" group-title="DOCUMENTÁRIOS",H2 FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/6546
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 FHD ²" tvg-logo="https://pbs.twimg.com/profile_images/527566993520467968/Zoh-jdUa.jpeg" group-title="DOCUMENTÁRIOS",H2 FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31193
-#EXTINF:-1 tvg-id="H2 (BR)" tvg-name="H2 HD ²" tvg-logo="https://pbs.twimg.com/profile_images/527566993520467968/Zoh-jdUa.jpeg" group-title="DOCUMENTÁRIOS",H2 HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/423
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="H2 SD ²" tvg-logo="https://pbs.twimg.com/profile_images/527566993520467968/Zoh-jdUa.jpeg" group-title="DOCUMENTÁRIOS",H2 SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/422
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 SD ³" tvg-logo="https://pbs.twimg.com/profile_images/527566993520467968/Zoh-jdUa.jpeg" group-title="DOCUMENTÁRIOS",H2 SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/4344
-#EXTINF:-1 tvg-id="National Geographic Wild (BR)" tvg-name="NATGEO WILD FHD ¹" tvg-logo="https://store-images.s-microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a?mode=scale&q=90&h=270&w=270&background=%23f5f5f5" group-title="DOCUMENTÁRIOS",NATGEO WILD FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/43971
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD FHD ²" tvg-logo="https://store-images.s-microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a?mode=scale&q=90&h=270&w=270&background=%23f5f5f5" group-title="DOCUMENTÁRIOS",NATGEO WILD FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31208
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD ²" tvg-logo="https://store-images.s-microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a?mode=scale&q=90&h=270&w=270&background=%23f5f5f5" group-title="DOCUMENTÁRIOS",NATGEO WILD HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/421
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NATGEO WILD SD ¹" tvg-logo="https://store-images.s-microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a?mode=scale&q=90&h=270&w=270&background=%23f5f5f5" group-title="DOCUMENTÁRIOS",NATGEO WILD SD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58816
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="NATGEO WILD SD ²" tvg-logo="https://store-images.s-microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a?mode=scale&q=90&h=270&w=270&background=%23f5f5f5" group-title="DOCUMENTÁRIOS",NATGEO WILD SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/420
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD SD ³" tvg-logo="https://store-images.s-microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a?mode=scale&q=90&h=270&w=270&background=%23f5f5f5" group-title="DOCUMENTÁRIOS",NATGEO WILD SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/19572
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="NATIONAL GEOGRAPHIC 4K ¹" tvg-logo="https://tvbtn.files.wordpress.com/2012/11/national-geographic-channel.jpeg" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC 4K ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/59411
-#EXTINF:-1 tvg-id="National Geographic (BR)" tvg-name="NATIONAL GEOGRAPHIC FHD ¹" tvg-logo="https://tvbtn.files.wordpress.com/2012/11/national-geographic-channel.jpeg" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/6296
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NATIONAL GEOGRAPHIC FHD ²" tvg-logo="https://tvbtn.files.wordpress.com/2012/11/national-geographic-channel.jpeg" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31223
-#EXTINF:-1 tvg-id="National Geographic (BR)" tvg-name="NATIONAL GEOGRAPHIC HD ²" tvg-logo="https://tvbtn.files.wordpress.com/2012/11/national-geographic-channel.jpeg" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/419
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="NATIONAL GEOGRAPHIC SD ²" tvg-logo="https://tvbtn.files.wordpress.com/2012/11/national-geographic-channel.jpeg" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/418
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC SD ³" tvg-logo="https://tvbtn.files.wordpress.com/2012/11/national-geographic-channel.jpeg" group-title="DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/7933
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD ¹" tvg-logo="https://i.imgur.com/Hr5jD4g.png?1" group-title="INFANTIL",NICK JR FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/6550
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR FHD ²" tvg-logo="https://i.imgur.com/Hr5jD4g.png?1" group-title="INFANTIL",NICK JR FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31187
-#EXTINF:-1 tvg-id="Nick Jr (BR)" tvg-name="NICK JR HD ¹" tvg-logo="https://i.imgur.com/Hr5jD4g.png?1" group-title="INFANTIL",NICK JR HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/33526
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="NICK JR HD ²" tvg-logo="https://i.imgur.com/Hr5jD4g.png?1" group-title="INFANTIL",NICK JR HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/537
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="NICK JR SD ¹" tvg-logo="https://i.imgur.com/Hr5jD4g.png?1" group-title="INFANTIL",NICK JR SD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58818
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="NICK JR SD ²" tvg-logo="https://i.imgur.com/Hr5jD4g.png?1" group-title="INFANTIL",NICK JR SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/536
-#EXTINF:-1 tvg-id="Nick Jr (BR)" tvg-name="NICK JR SD ³" tvg-logo="https://i.imgur.com/Hr5jD4g.png?1" group-title="INFANTIL",NICK JR SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/5612
-#EXTINF:-1 tvg-id="Nickelodeon (BR)" tvg-name="NICKELODEON FHD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVT81j0IT95uoQNgQG5vOtSdnEfwjsRyYm4bPZwPwMuEOMG09ljg" group-title="INFANTIL",NICKELODEON FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/31899
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON FHD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVT81j0IT95uoQNgQG5vOtSdnEfwjsRyYm4bPZwPwMuEOMG09ljg" group-title="INFANTIL",NICKELODEON FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31179
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVT81j0IT95uoQNgQG5vOtSdnEfwjsRyYm4bPZwPwMuEOMG09ljg" group-title="INFANTIL",NICKELODEON HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/535
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="NICKELODEON SD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVT81j0IT95uoQNgQG5vOtSdnEfwjsRyYm4bPZwPwMuEOMG09ljg" group-title="INFANTIL",NICKELODEON SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/534
-#EXTINF:-1 tvg-id="Nickelodeon (BR)" tvg-name="NICKELODEON SD ³" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVT81j0IT95uoQNgQG5vOtSdnEfwjsRyYm4bPZwPwMuEOMG09ljg" group-title="INFANTIL",NICKELODEON SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/5613
-#EXTINF:-1 tvg-id="Discovery Kids (BR)" tvg-name="DISCOVERY KIDS FHD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQquAIbgGFTFvfIVOKRBNiAKWWvOZgtQr2tZ4Q1HTI15wPoLNUB" group-title="INFANTIL",DISCOVERY KIDS FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/31901
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQquAIbgGFTFvfIVOKRBNiAKWWvOZgtQr2tZ4Q1HTI15wPoLNUB" group-title="INFANTIL",DISCOVERY KIDS FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31177
-#EXTINF:-1 tvg-id="Discovery Kids (BR)" tvg-name="DISCOVERY KIDS HD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQquAIbgGFTFvfIVOKRBNiAKWWvOZgtQr2tZ4Q1HTI15wPoLNUB" group-title="INFANTIL",DISCOVERY KIDS HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/32806
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQquAIbgGFTFvfIVOKRBNiAKWWvOZgtQr2tZ4Q1HTI15wPoLNUB" group-title="INFANTIL",DISCOVERY KIDS HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/547
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="DISCOVERY KIDS SD ¹" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/77/Logo_gnt.jpg/revision/latest?cb=20130518121338" group-title="INFANTIL",DISCOVERY KIDS SD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58425
-#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISCOVERY KIDS SD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQquAIbgGFTFvfIVOKRBNiAKWWvOZgtQr2tZ4Q1HTI15wPoLNUB" group-title="INFANTIL",DISCOVERY KIDS SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/546
 #EXTINF:-1 tvg-id="Discovery Kids (BR)" tvg-name="DISCOVERY KIDS SD ³" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQquAIbgGFTFvfIVOKRBNiAKWWvOZgtQr2tZ4Q1HTI15wPoLNUB" group-title="INFANTIL",DISCOVERY KIDS SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/5614
+http://quatv2.com:25461/Ag2OOL/mvntJq/5614
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD ¹" tvg-logo="http://images.mi.tv/channels/hn_disney-hd_m.png" group-title="INFANTIL",DISNEY CHANNEL FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/33525
+http://quatv2.com:25461/Ag2OOL/mvntJq/33525
 #EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD ²" tvg-logo="http://images.mi.tv/channels/hn_disney-hd_m.png" group-title="INFANTIL",DISNEY CHANNEL FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31170
+http://quatv2.com:25461/Ag2OOL/mvntJq/31170
 #EXTINF:-1 tvg-id="Disney (BR)" tvg-name="DISNEY CHANNEL FHD ³" tvg-logo="http://images.mi.tv/channels/hn_disney-hd_m.png" group-title="INFANTIL",DISNEY CHANNEL FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43479
+http://quatv2.com:25461/Ag2OOL/mvntJq/43479
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL HD ²" tvg-logo="http://images.mi.tv/channels/hn_disney-hd_m.png" group-title="INFANTIL",DISNEY CHANNEL HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/545
+http://quatv2.com:25461/Ag2OOL/mvntJq/545
 #EXTINF:-1 tvg-id="Disney (BR)" tvg-name="DISNEY CHANNEL HD ³" tvg-logo="http://images.mi.tv/channels/hn_disney-hd_m.png" group-title="INFANTIL",DISNEY CHANNEL HD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43478
+http://quatv2.com:25461/Ag2OOL/mvntJq/43478
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="DISNEY CHANNEL SD ¹" tvg-logo="http://images.mi.tv/channels/hn_disney-hd_m.png" group-title="INFANTIL",DISNEY CHANNEL SD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58808
+http://quatv2.com:25461/Ag2OOL/mvntJq/58808
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISNEY CHANNEL SD ²" tvg-logo="http://images.mi.tv/channels/hn_disney-hd_m.png" group-title="INFANTIL",DISNEY CHANNEL SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/544
+http://quatv2.com:25461/Ag2OOL/mvntJq/544
 #EXTINF:-1 tvg-id="Disney (BR)" tvg-name="DISNEY CHANNEL SD ³" tvg-logo="http://images.mi.tv/channels/hn_disney-hd_m.png" group-title="INFANTIL",DISNEY CHANNEL SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/7725
+http://quatv2.com:25461/Ag2OOL/mvntJq/7725
 #EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="DISNEY JUNIOR FHD ¹" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/31903
+http://quatv2.com:25461/Ag2OOL/mvntJq/31903
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD ²" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31182
+http://quatv2.com:25461/Ag2OOL/mvntJq/31182
 #EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="DISNEY JUNIOR FHD ³" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43477
+http://quatv2.com:25461/Ag2OOL/mvntJq/43477
 #EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="DISNEY JUNIOR HD ¹" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/32814
+http://quatv2.com:25461/Ag2OOL/mvntJq/32814
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY JUNIOR HD ²" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/543
+http://quatv2.com:25461/Ag2OOL/mvntJq/543
 #EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="DISNEY JUNIOR HD ³" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR HD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43476
+http://quatv2.com:25461/Ag2OOL/mvntJq/43476
 #EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR SD ¹" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR SD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58255
+http://quatv2.com:25461/Ag2OOL/mvntJq/58255
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISNEY JUNIOR SD ²" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/542
+http://quatv2.com:25461/Ag2OOL/mvntJq/542
 #EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="DISNEY JUNIOR SD ³" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Disney_Junior_On_Disney_Channel_Logo.jpg/revision/latest?cb=20140801003440" group-title="INFANTIL",DISNEY JUNIOR SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/7724
+http://quatv2.com:25461/Ag2OOL/mvntJq/7724
 #EXTINF:-1 tvg-id="Disney XD (BR)" tvg-name="DISNEY XD FHD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2w4gFAgVHfe6pRjraR_1TdjYsI3l3Ov6zyTsr3utHxnOOkk2M" group-title="INFANTIL",DISNEY XD FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/33524
+http://quatv2.com:25461/Ag2OOL/mvntJq/33524
 #EXTINF:-1 tvg-id="Disney XD (BR)" tvg-name="DISNEY XD FHD ³" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2w4gFAgVHfe6pRjraR_1TdjYsI3l3Ov6zyTsr3utHxnOOkk2M" group-title="INFANTIL",DISNEY XD FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43475
+http://quatv2.com:25461/Ag2OOL/mvntJq/43475
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="DISNEY XD HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2w4gFAgVHfe6pRjraR_1TdjYsI3l3Ov6zyTsr3utHxnOOkk2M" group-title="INFANTIL",DISNEY XD HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/541
+http://quatv2.com:25461/Ag2OOL/mvntJq/541
 #EXTINF:-1 tvg-id="Disney XD (BR)" tvg-name="DISNEY XD HD ³" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2w4gFAgVHfe6pRjraR_1TdjYsI3l3Ov6zyTsr3utHxnOOkk2M" group-title="INFANTIL",DISNEY XD HD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43474
+http://quatv2.com:25461/Ag2OOL/mvntJq/43474
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="DISNEY XD SD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2w4gFAgVHfe6pRjraR_1TdjYsI3l3Ov6zyTsr3utHxnOOkk2M" group-title="INFANTIL",DISNEY XD SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/540
+http://quatv2.com:25461/Ag2OOL/mvntJq/540
 #EXTINF:-1 tvg-id="Disney XD (BR)" tvg-name="DISNEY XD SD ³" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2w4gFAgVHfe6pRjraR_1TdjYsI3l3Ov6zyTsr3utHxnOOkk2M" group-title="INFANTIL",DISNEY XD SD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/7723
+http://quatv2.com:25461/Ag2OOL/mvntJq/7723
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK 4K ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTtpJTuDULQ-3n5ijefze_gI-FoowwkdvZBxXR0nm4co5xCtS" group-title="INFANTIL",CARTOON NETWORK 4K ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/59412
+http://quatv2.com:25461/Ag2OOL/mvntJq/59412
 #EXTINF:-1 tvg-id="Cartoon Network (BR)" tvg-name="CARTOON NETWORK FHD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTtpJTuDULQ-3n5ijefze_gI-FoowwkdvZBxXR0nm4co5xCtS" group-title="INFANTIL",CARTOON NETWORK FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/6395
+http://quatv2.com:25461/Ag2OOL/mvntJq/6395
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTtpJTuDULQ-3n5ijefze_gI-FoowwkdvZBxXR0nm4co5xCtS" group-title="INFANTIL",CARTOON NETWORK FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31229
+http://quatv2.com:25461/Ag2OOL/mvntJq/31229
 #EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD ³" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTtpJTuDULQ-3n5ijefze_gI-FoowwkdvZBxXR0nm4co5xCtS" group-title="INFANTIL",CARTOON NETWORK FHD ³
-http://quatv2.com:25461/KCGR3q/5itvmA/43488
+http://quatv2.com:25461/Ag2OOL/mvntJq/43488
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTtpJTuDULQ-3n5ijefze_gI-FoowwkdvZBxXR0nm4co5xCtS" group-title="INFANTIL",CARTOON NETWORK HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/549
+http://quatv2.com:25461/Ag2OOL/mvntJq/549
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK SD ¹" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTtpJTuDULQ-3n5ijefze_gI-FoowwkdvZBxXR0nm4co5xCtS" group-title="INFANTIL",CARTOON NETWORK SD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/58807
+http://quatv2.com:25461/Ag2OOL/mvntJq/58807
 #EXTINF:-1 tvg-id="AeE (BR)" tvg-name="CARTOON NETWORK SD ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTtpJTuDULQ-3n5ijefze_gI-FoowwkdvZBxXR0nm4co5xCtS" group-title="INFANTIL",CARTOON NETWORK SD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/548
+http://quatv2.com:25461/Ag2OOL/mvntJq/548
 #EXTINF:-1 tvg-id="Gloob (BR)" tvg-name="GLOOB FHD ¹" tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0_400x400.jpg" group-title="INFANTIL",GLOOB FHD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/31902
+http://quatv2.com:25461/Ag2OOL/mvntJq/31902
 #EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB FHD ²" tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0_400x400.jpg" group-title="INFANTIL",GLOOB FHD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/31181
+http://quatv2.com:25461/Ag2OOL/mvntJq/31181
 #EXTINF:-1 tvg-id="Gloob (BR)" tvg-name="GLOOB HD ¹" tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0_400x400.jpg" group-title="INFANTIL",GLOOB HD ¹
-http://quatv2.com:25461/KCGR3q/5itvmA/32813
+http://quatv2.com:25461/Ag2OOL/mvntJq/32813
 #EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB HD ²" tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0_400x400.jpg" group-title="INFANTIL",GLOOB HD ²
-http://quatv2.com:25461/KCGR3q/5itvmA/2815
+http://quatv2.com:25461/Ag2OOL/mvntJq/2815
+#EXTINF:-1 tvg-id="Gloob (BR)" tvg-name="GLOOB HD ³" tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0_400x400.jpg" group-title="INFANTIL",GLOOB HD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43453
+#EXTINF:-1 tvg-id="Gloob" tvg-name="GLOOB SD ¹" tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0_400x400.jpg" group-title="INFANTIL",GLOOB SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58773
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="GLOOB SD ²" tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0_400x400.jpg" group-title="INFANTIL",GLOOB SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/2816
+#EXTINF:-1 tvg-id="Gloob (BR)" tvg-name="GLOOB SD ³" tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0_400x400.jpg" group-title="INFANTIL",GLOOB SD ³
+#EXTINF:-1 tvg-id="Premiere Clubes (BR)" tvg-name="PREMIERE CLUBES FHD ¹" tvg-logo="https://i.imgur.com/zgWUSL6.jpg?1" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/6320
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES FHD ²" tvg-logo="https://i.imgur.com/zgWUSL6.jpg?1" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31222
+#EXTINF:-1 tvg-id="Premiere Clubes (BR)" tvg-name="PREMIERE CLUBES FHD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43442
+#EXTINF:-1 tvg-id="Premiere Clubes (BR)" tvg-name="PREMIERE CLUBES HD ¹" tvg-logo="https://i.imgur.com/zgWUSL6.jpg?1" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/2743
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES HD ³" tvg-logo="https://i.imgur.com/zgWUSL6.jpg?1" group-title="CANAIS PREMIERE",PREMIERE CLUBES HD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/7699
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES SD ¹" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/59607
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://i.imgur.com/zgWUSL6.jpg?1" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD
+http://quatv2.com:25461/Ag2OOL/mvntJq/394
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE CLUBES SD ³" tvg-logo="https://i.imgur.com/zgWUSL6.jpg?1" group-title="CANAIS PREMIERE",PREMIERE CLUBES SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/4312
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD ¹" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/6319
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 FHD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31221
+#EXTINF:-1 tvg-id="Premiere 2 (BR)" tvg-name="PREMIERE 2 FHD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 2 FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43347
+#EXTINF:-1 tvg-id="Premiere 2 (BR)" tvg-name="PREMIERE 2 HD ¹" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/393
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="PREMIERE 2 HD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 2 HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/2742
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="PREMIERE 2 SD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/392
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="PREMIERE 2 SD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 2 SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/4326
+#EXTINF:-1 tvg-id="Premiere 3 (BR)" tvg-name="PREMIERE 3 FHD ¹" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/6318
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 FHD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31220
+#EXTINF:-1 tvg-id="Premiere 3 (BR)" tvg-name="PREMIERE 3 FHD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 3 FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43346
+#EXTINF:-1 tvg-id="Premiere 3 (BR)" tvg-name="PREMIERE 3 HD ¹" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/391
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="PREMIERE 3 HD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/2741
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 HD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 3 HD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/7697
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="PREMIERE 3 SD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/390
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="PREMIERE 3 SD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 3 SD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/19392
+#EXTINF:-1 tvg-id="Premiere 4 (BR)" tvg-name="PREMIERE 4 FHD ¹" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 FHD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/6317
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 FHD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 FHD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/31219
+#EXTINF:-1 tvg-id="Premiere 4 (BR)" tvg-name="PREMIERE 4 FHD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 FHD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/43345
+#EXTINF:-1 tvg-id="Premiere 4 (BR)" tvg-name="PREMIERE 4 HD ¹" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/389
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="PREMIERE 4 HD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/2740
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 HD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 HD ³
+http://quatv2.com:25461/Ag2OOL/mvntJq/7696
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="PREMIERE 4 SD ¹" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD ¹
+http://quatv2.com:25461/Ag2OOL/mvntJq/58817
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="PREMIERE 4 SD ²" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD ²
+http://quatv2.com:25461/Ag2OOL/mvntJq/388
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 SD ³" tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/08/premiere-1.png" group-title="CANAIS PREMIERE",PREMIERE 4 SD ³
