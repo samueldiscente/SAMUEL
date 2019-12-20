@@ -1,547 +1,417 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",A&E HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1521
+http://canais.servidor.tv:8080/x918jc/553e9f/1521
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/375
+http://canais.servidor.tv:8080/x918jc/553e9f/375
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://lb1.iptv.movie/logos/amc.jpg" group-title="Canais: Filme e Série",AMC HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1498
+http://canais.servidor.tv:8080/x918jc/553e9f/1498
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="http://lb1.iptv.movie/logos/amc.jpg" group-title="Canais: Filme e Série",AMC HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/373
+http://canais.servidor.tv:8080/x918jc/553e9f/373
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://lb1.iptv.movie/logos/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1497
+http://canais.servidor.tv:8080/x918jc/553e9f/1497
 #EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="http://lb1.iptv.movie/logos/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/371
+http://canais.servidor.tv:8080/x918jc/553e9f/371
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://lb1.iptv.movie/logos/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/15
+http://canais.servidor.tv:8080/x918jc/553e9f/15
 #EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan (24H)" tvg-logo="http://lb1.iptv.movie/logos/jackiechan.jpg" group-title="Canais: 24 Horas",As Aventuras de Jackie Chan (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2326
+http://canais.servidor.tv:8080/x918jc/553e9f/2326
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://lb1.iptv.movie/logos/axn.jpg" group-title="Canais: Filme e Série",AXN HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1496
+http://canais.servidor.tv:8080/x918jc/553e9f/1496
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="http://lb1.iptv.movie/logos/axn.jpg" group-title="Canais: Filme e Série",AXN HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/369
+http://canais.servidor.tv:8080/x918jc/553e9f/369
 #EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="http://lb1.iptv.movie/logos/babytv.png" group-title="Canais: Infantil",Baby TV SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/367
+http://canais.servidor.tv:8080/x918jc/553e9f/367
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="http://lb1.iptv.movie/logos/band.png" group-title="Canais: Abertos",Band HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/489
+http://canais.servidor.tv:8080/x918jc/553e9f/489
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="http://lb1.iptv.movie/logos/band.png" group-title="Canais: Abertos",Band HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/484
+http://canais.servidor.tv:8080/x918jc/553e9f/484
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://lb1.iptv.movie/logos/bandnews.png" group-title="Canais: Notícia",Band News HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1494
+http://canais.servidor.tv:8080/x918jc/553e9f/1494
 #EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="http://lb1.iptv.movie/logos/bandnews.png" group-title="Canais: Notícia",Band News HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/363
+http://canais.servidor.tv:8080/x918jc/553e9f/363
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://lb1.iptv.movie/logos/bandsports.png" group-title="Canais: Esporte",Band Sports HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1495
+http://canais.servidor.tv:8080/x918jc/553e9f/1495
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="http://lb1.iptv.movie/logos/bandsports.png" group-title="Canais: Esporte",Band Sports HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/360
+http://canais.servidor.tv:8080/x918jc/553e9f/360
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://lb1.iptv.movie/logos/bis.png" group-title="Canais: Variedade e Música",BIS HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1493
+http://canais.servidor.tv:8080/x918jc/553e9f/1493
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="http://lb1.iptv.movie/logos/bis.png" group-title="Canais: Variedade e Música",BIS HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/358
+http://canais.servidor.tv:8080/x918jc/553e9f/358
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja (24H)" tvg-logo="http://lb1.iptv.movie/logos/bobesponja.jpg" group-title="Canais: 24 Horas",Bob Esponja (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2327
+http://canais.servidor.tv:8080/x918jc/553e9f/2327
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://lb1.iptv.movie/logos/boomerang.png" group-title="Canais: Infantil",Boomerang HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1492
+http://canais.servidor.tv:8080/x918jc/553e9f/1492
 #EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://lb1.iptv.movie/logos/boomerang.png" group-title="Canais: Infantil",Boomerang HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/355
+http://canais.servidor.tv:8080/x918jc/553e9f/355
 #EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://lb1.iptv.movie/logos/canalbrasil.jpg" group-title="Canais: Filme e Série",Canal Brasil HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/353
+http://canais.servidor.tv:8080/x918jc/553e9f/353
 #EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://lb1.iptv.movie/logos/canalrural.png" group-title="Canais: Abertos",Canal Rural SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/351
+http://canais.servidor.tv:8080/x918jc/553e9f/351
 #EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Cancao Nova SD" tvg-logo="http://lb1.iptv.movie/logos/cancaonova.png" group-title="Canais: Religião",Cancao Nova SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1519
+http://canais.servidor.tv:8080/x918jc/553e9f/1519
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://lb1.iptv.movie/logos/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1491
+http://canais.servidor.tv:8080/x918jc/553e9f/1491
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://lb1.iptv.movie/logos/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/349
+http://canais.servidor.tv:8080/x918jc/553e9f/349
 #EXTINF:-1 tvg-id="" tvg-name="Chaves (24H)" tvg-logo="http://iptv.movie:8080/images/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",Chaves (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2701
+http://canais.servidor.tv:8080/x918jc/553e9f/2701
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://lb1.iptv.movie/logos/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1490
+http://canais.servidor.tv:8080/x918jc/553e9f/1490
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="http://lb1.iptv.movie/logos/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/347
+http://canais.servidor.tv:8080/x918jc/553e9f/347
 #EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="http://lb1.iptv.movie/logos/CNN.png" group-title="Canais: Notícia",CNN Espanhol SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/345
+http://canais.servidor.tv:8080/x918jc/553e9f/345
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://lb1.iptv.movie/logos/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/344
+http://canais.servidor.tv:8080/x918jc/553e9f/344
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://lb1.iptv.movie/logos/combate.jpg" group-title="Canais: Esporte",Combate HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1489
+http://canais.servidor.tv:8080/x918jc/553e9f/1489
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://lb1.iptv.movie/logos/combate.jpg" group-title="Canais: Esporte",Combate HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/342
+http://canais.servidor.tv:8080/x918jc/553e9f/342
 #EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://lb1.iptv.movie/logos/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1488
+http://canais.servidor.tv:8080/x918jc/553e9f/1488
 #EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="http://lb1.iptv.movie/logos/comedycentral.jpg" group-title="Canais: Filme e Série",Comedy Central HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/340
+http://canais.servidor.tv:8080/x918jc/553e9f/340
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura SD" tvg-logo="http://lb1.iptv.movie/logos/cultura.png" group-title="Canais: Variedade e Música",Cultura SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/79
+http://canais.servidor.tv:8080/x918jc/553e9f/79
 #EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://lb1.iptv.movie/logos/curta.png" group-title="Canais: Variedade e Música",Curta! SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/338
+http://canais.servidor.tv:8080/x918jc/553e9f/338
 #EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://lb1.iptv.movie/logos/dazn.jpg" group-title="Canais: Esporte",DAZN
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2716
+http://canais.servidor.tv:8080/x918jc/553e9f/2716
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://lb1.iptv.movie/logos/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1487
+http://canais.servidor.tv:8080/x918jc/553e9f/1487
 #EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/337
+http://canais.servidor.tv:8080/x918jc/553e9f/337
 #EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="Discovery Civilization HD" tvg-logo="http://lb1.iptv.movie/logos/discoverycivilization.png" group-title="Canais: Documentário",Discovery Civilization HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1484
+http://canais.servidor.tv:8080/x918jc/553e9f/1484
 #EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="Discovery Civilization HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverycivilization.png" group-title="Canais: Documentário",Discovery Civilization HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/335
+http://canais.servidor.tv:8080/x918jc/553e9f/335
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1518
+http://canais.servidor.tv:8080/x918jc/553e9f/1518
 #EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/334
+http://canais.servidor.tv:8080/x918jc/553e9f/334
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://lb1.iptv.movie/logos/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1483
+http://canais.servidor.tv:8080/x918jc/553e9f/1483
 #EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/332
+http://canais.servidor.tv:8080/x918jc/553e9f/332
 #EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1482
+http://canais.servidor.tv:8080/x918jc/553e9f/1482
 #EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/330
+http://canais.servidor.tv:8080/x918jc/553e9f/330
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://lb1.iptv.movie/logos/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1486
+http://canais.servidor.tv:8080/x918jc/553e9f/1486
 #EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/329
+http://canais.servidor.tv:8080/x918jc/553e9f/329
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1481
+http://canais.servidor.tv:8080/x918jc/553e9f/1481
 #EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/328
+http://canais.servidor.tv:8080/x918jc/553e9f/328
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryworld.png" group-title="Canais: Documentário",Discovery World HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1485
+http://canais.servidor.tv:8080/x918jc/553e9f/1485
 #EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryworld.png" group-title="Canais: Documentário",Discovery World HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/326
+http://canais.servidor.tv:8080/x918jc/553e9f/326
 #EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD" tvg-logo="http://lb1.iptv.movie/logos/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1480
+http://canais.servidor.tv:8080/x918jc/553e9f/1480
 #EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/325
+http://canais.servidor.tv:8080/x918jc/553e9f/325
 #EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="http://lb1.iptv.movie/logos/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1478
+http://canais.servidor.tv:8080/x918jc/553e9f/1478
 #EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="http://lb1.iptv.movie/logos/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/323
+http://canais.servidor.tv:8080/x918jc/553e9f/323
 #EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="http://lb1.iptv.movie/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1517
+http://canais.servidor.tv:8080/x918jc/553e9f/1517
 #EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD+" tvg-logo="http://lb1.iptv.movie/logos/disneyxd.png" group-title="Canais: Infantil",Disney XD HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/683
+http://canais.servidor.tv:8080/x918jc/553e9f/683
 #EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://lb1.iptv.movie/logos/e.png" group-title="Canais: Variedade e Música",E! HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/318
+http://canais.servidor.tv:8080/x918jc/553e9f/318
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1477
+http://canais.servidor.tv:8080/x918jc/553e9f/1477
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/309
+http://canais.servidor.tv:8080/x918jc/553e9f/309
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1476
+http://canais.servidor.tv:8080/x918jc/553e9f/1476
 #EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/314
+http://canais.servidor.tv:8080/x918jc/553e9f/314
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://lb1.iptv.movie/logos/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1475
+http://canais.servidor.tv:8080/x918jc/553e9f/1475
 #EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="http://lb1.iptv.movie/logos/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/313
+http://canais.servidor.tv:8080/x918jc/553e9f/313
 #EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="http://lb1.iptv.movie/logos/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/311
+http://canais.servidor.tv:8080/x918jc/553e9f/311
 #EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://lb1.iptv.movie/logos/fishtv.jpg" group-title="Canais: Variedade e Música",Fish TV SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/307
+http://canais.servidor.tv:8080/x918jc/553e9f/307
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Netword HD" tvg-logo="http://lb1.iptv.movie/logos/foodnetwork.png" group-title="Canais: Variedade e Música",Food Netword HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1474
+http://canais.servidor.tv:8080/x918jc/553e9f/1474
 #EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD+" tvg-logo="http://lb1.iptv.movie/logos/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/306
+http://canais.servidor.tv:8080/x918jc/553e9f/306
 #EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="http://lb1.iptv.movie/logos/fox.png" group-title="Canais: Filme e Série",Fox HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1473
+http://canais.servidor.tv:8080/x918jc/553e9f/1473
 #EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="http://lb1.iptv.movie/logos/fox.png" group-title="Canais: Filme e Série",Fox HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/304
+http://canais.servidor.tv:8080/x918jc/553e9f/304
 #EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://lb1.iptv.movie/logos/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1472
+http://canais.servidor.tv:8080/x918jc/553e9f/1472
 #EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="http://lb1.iptv.movie/logos/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/303
+http://canais.servidor.tv:8080/x918jc/553e9f/303
 #EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://lb1.iptv.movie/logos/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1505
+http://canais.servidor.tv:8080/x918jc/553e9f/1505
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://lb1.iptv.movie/logos/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1502
+http://canais.servidor.tv:8080/x918jc/553e9f/1502
 #EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="http://lb1.iptv.movie/logos/foxsports.png" group-title="Canais: Esporte",Fox Sports HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/298
+http://canais.servidor.tv:8080/x918jc/553e9f/298
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://lb1.iptv.movie/logos/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1501
+http://canais.servidor.tv:8080/x918jc/553e9f/1501
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/300
+http://canais.servidor.tv:8080/x918jc/553e9f/300
 #EXTINF:-1 tvg-id="fox.br" tvg-name="FX HD" tvg-logo="http://lb1.iptv.movie/logos/fx.jpg" group-title="Canais: Filme e Série",FX HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1469
+http://canais.servidor.tv:8080/x918jc/553e9f/1469
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD+" tvg-logo="http://lb1.iptv.movie/logos/fx.jpg" group-title="Canais: Filme e Série",FX HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/294
+http://canais.servidor.tv:8080/x918jc/553e9f/294
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia HD+" tvg-logo="http://lb1.iptv.movie/logos/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2707
+http://canais.servidor.tv:8080/x918jc/553e9f/2707
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Bahia SD" tvg-logo="http://lb1.iptv.movie/logos/globotvbahia.jpg" group-title="Canais: Abertos",Globo Bahia SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/260
+http://canais.servidor.tv:8080/x918jc/553e9f/260
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Brasilia HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Brasilia HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/291
+http://canais.servidor.tv:8080/x918jc/553e9f/291
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Centro America HD+" tvg-logo="" group-title="Canais: Abertos",Globo Centro America HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2712
+http://canais.servidor.tv:8080/x918jc/553e9f/2712
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/289
+http://canais.servidor.tv:8080/x918jc/553e9f/289
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Campinas HD+" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Campinas HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2711
+http://canais.servidor.tv:8080/x918jc/553e9f/2711
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo EPTV Ribeirão Preto HD" tvg-logo="http://lb1.iptv.movie/logos/globoeptv.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/287
+http://canais.servidor.tv:8080/x918jc/553e9f/287
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV Ribeirão Preto HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV Ribeirão Preto HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2952
+http://canais.servidor.tv:8080/x918jc/553e9f/2952
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2941
+http://canais.servidor.tv:8080/x918jc/553e9f/2941
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo EPTV São Carlos HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo EPTV São Carlos HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2940
+http://canais.servidor.tv:8080/x918jc/553e9f/2940
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Goiânia SD" tvg-logo="http://lb1.iptv.movie/logos/globotvanhanguera.jpg" group-title="Canais: Abertos",Globo Goiânia SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/262
+http://canais.servidor.tv:8080/x918jc/553e9f/262
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Manaus HD" tvg-logo="http://lb1.iptv.movie/logos/globoredeamazonica.png" group-title="Canais: Abertos",Globo Manaus HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/19
+http://canais.servidor.tv:8080/x918jc/553e9f/19
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Minas HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Minas HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/279
+http://canais.servidor.tv:8080/x918jc/553e9f/279
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Minas HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Minas HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2713
+http://canais.servidor.tv:8080/x918jc/553e9f/2713
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://lb1.iptv.movie/logos/globonews.png" group-title="Canais: Notícia",Globo News HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1468
+http://canais.servidor.tv:8080/x918jc/553e9f/1468
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD+" tvg-logo="http://lb1.iptv.movie/logos/globonews.png" group-title="Canais: Notícia",Globo News HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/277
+http://canais.servidor.tv:8080/x918jc/553e9f/277
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/275
+http://canais.servidor.tv:8080/x918jc/553e9f/275
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Nordeste HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Nordeste HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2714
+http://canais.servidor.tv:8080/x918jc/553e9f/2714
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo NSC Floripa HD+" tvg-logo="" group-title="Canais: Abertos",Globo NSC Floripa HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2710
+http://canais.servidor.tv:8080/x918jc/553e9f/2710
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Poa HD" tvg-logo="http://lb1.iptv.movie/logos/globorbs.png" group-title="Canais: Abertos",Globo Poa HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1467
+http://canais.servidor.tv:8080/x918jc/553e9f/1467
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Poa HD+" tvg-logo="http://lb1.iptv.movie/logos/globorbs.png" group-title="Canais: Abertos",Globo Poa HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/271
+http://canais.servidor.tv:8080/x918jc/553e9f/271
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo RJ HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1504
+http://canais.servidor.tv:8080/x918jc/553e9f/1504
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo RJ HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/268
+http://canais.servidor.tv:8080/x918jc/553e9f/268
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC Paranaense HD+" tvg-logo="http://lb1.iptv.movie/logos/globorpc.png" group-title="Canais: Abertos",Globo RPC Paranaense HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2709
+http://canais.servidor.tv:8080/x918jc/553e9f/2709
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RPC SD" tvg-logo="http://lb1.iptv.movie/logos/globorpc.png" group-title="Canais: Abertos",Globo RPC SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/266
+http://canais.servidor.tv:8080/x918jc/553e9f/266
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2945
+http://canais.servidor.tv:8080/x918jc/553e9f/2945
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo S.J Rio Preto HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo S.J Rio Preto HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2944
+http://canais.servidor.tv:8080/x918jc/553e9f/2944
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1466
+http://canais.servidor.tv:8080/x918jc/553e9f/1466
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo São Paulo HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo São Paulo HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/265
+http://canais.servidor.tv:8080/x918jc/553e9f/265
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Sergipe HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo Sergipe HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/250
+http://canais.servidor.tv:8080/x918jc/553e9f/250
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Anhanguera HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Anhanguera HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2708
+http://canais.servidor.tv:8080/x918jc/553e9f/2708
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV DIÁRIO HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV DIÁRIO HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2947
+http://canais.servidor.tv:8080/x918jc/553e9f/2947
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV DIÁRIO HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV DIÁRIO HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2946
+http://canais.servidor.tv:8080/x918jc/553e9f/2946
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2943
+http://canais.servidor.tv:8080/x918jc/553e9f/2943
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV Fronteira HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV Fronteira HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2942
+http://canais.servidor.tv:8080/x918jc/553e9f/2942
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Liberal HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Liberal HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2706
+http://canais.servidor.tv:8080/x918jc/553e9f/2706
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Mirante HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Mirante HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2705
+http://canais.servidor.tv:8080/x918jc/553e9f/2705
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Morena HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Morena HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2704
+http://canais.servidor.tv:8080/x918jc/553e9f/2704
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2949
+http://canais.servidor.tv:8080/x918jc/553e9f/2949
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TEM Sorocaba HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TEM Sorocaba HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2948
+http://canais.servidor.tv:8080/x918jc/553e9f/2948
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2954
+http://canais.servidor.tv:8080/x918jc/553e9f/2954
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV TRIBUNA HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV TRIBUNA HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2953
+http://canais.servidor.tv:8080/x918jc/553e9f/2953
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2951
+http://canais.servidor.tv:8080/x918jc/553e9f/2951
 #EXTINF:-1 tvg-id="redeglobo.br" tvg-name="Globo TV VANGUARDA HD+" tvg-logo="http://lb1.iptv.movie/logos/globo.jpg" group-title="Canais: Abertos",Globo TV VANGUARDA HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2950
+http://canais.servidor.tv:8080/x918jc/553e9f/2950
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo TV Verdes Mares HD+" tvg-logo="" group-title="Canais: Abertos",Globo TV Verdes Mares HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2703
+http://canais.servidor.tv:8080/x918jc/553e9f/2703
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://lb1.iptv.movie/logos/gloob.jpg" group-title="Canais: Infantil",Gloob HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1499
+http://canais.servidor.tv:8080/x918jc/553e9f/1499
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD+" tvg-logo="http://lb1.iptv.movie/logos/gloob.jpg" group-title="Canais: Infantil",Gloob HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/686
+http://canais.servidor.tv:8080/x918jc/553e9f/686
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD" tvg-logo="http://lb1.iptv.movie/logos/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/237
+http://canais.servidor.tv:8080/x918jc/553e9f/237
 #EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho SD" tvg-logo="http://lb1.iptv.movie/logos/gloobinho.png" group-title="Canais: Infantil",Gloobinho SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1515
+http://canais.servidor.tv:8080/x918jc/553e9f/1515
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://lb1.iptv.movie/logos/gnt.jpg" group-title="Canais: Variedade e Música",GNT HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/235
+http://canais.servidor.tv:8080/x918jc/553e9f/235
 #EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="http://lb1.iptv.movie/logos/h2.png" group-title="Canais: Documentário",H2 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1465
+http://canais.servidor.tv:8080/x918jc/553e9f/1465
 #EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD+" tvg-logo="http://lb1.iptv.movie/logos/h2.png" group-title="Canais: Documentário",H2 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/233
+http://canais.servidor.tv:8080/x918jc/553e9f/233
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://lb1.iptv.movie/logos/hbo.png" group-title="Canais: Filme e Série",HBO HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1463
+http://canais.servidor.tv:8080/x918jc/553e9f/1463
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD+" tvg-logo="http://lb1.iptv.movie/logos/hbo.png" group-title="Canais: Filme e Série",HBO HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/227
+http://canais.servidor.tv:8080/x918jc/553e9f/227
 #EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD" tvg-logo="http://lb1.iptv.movie/logos/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1460
+http://canais.servidor.tv:8080/x918jc/553e9f/1460
 #EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/231
+http://canais.servidor.tv:8080/x918jc/553e9f/231
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://lb1.iptv.movie/logos/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1464
+http://canais.servidor.tv:8080/x918jc/553e9f/1464
 #EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD+" tvg-logo="http://lb1.iptv.movie/logos/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/229
+http://canais.servidor.tv:8080/x918jc/553e9f/229
 #EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://lb1.iptv.movie/logos/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1462
+http://canais.servidor.tv:8080/x918jc/553e9f/1462
 #EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD+" tvg-logo="http://lb1.iptv.movie/logos/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/226
+http://canais.servidor.tv:8080/x918jc/553e9f/226
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD" tvg-logo="http://lb1.iptv.movie/logos/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1461
+http://canais.servidor.tv:8080/x918jc/553e9f/1461
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD+" tvg-logo="http://lb1.iptv.movie/logos/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/224
+http://canais.servidor.tv:8080/x918jc/553e9f/224
 #EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="http://lb1.iptv.movie/logos/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1459
+http://canais.servidor.tv:8080/x918jc/553e9f/1459
 #EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/95
+http://canais.servidor.tv:8080/x918jc/553e9f/95
 #EXTINF:-1 tvg-id="" tvg-name="Hit TV HD" tvg-logo="http://lb1.iptv.movie/logos/hittv.jpg" group-title="Canais: Variedade e Música",Hit TV HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/221
+http://canais.servidor.tv:8080/x918jc/553e9f/221
 #EXTINF:-1 tvg-id="idealtv.br" tvg-name="Ideal TV SD" tvg-logo="http://lb1.iptv.movie/logos/idealtv.png" group-title="Canais: Abertos",Ideal TV SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/219
+http://canais.servidor.tv:8080/x918jc/553e9f/219
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigação Discovery HD+" tvg-logo="http://lb1.iptv.movie/logos/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigação Discovery HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/218
+http://canais.servidor.tv:8080/x918jc/553e9f/218
 #EXTINF:-1 tvg-id="investigacaodiscovery.br" tvg-name="Investigacao Discovery SD" tvg-logo="http://lb1.iptv.movie/logos/investigacaodiscovery.jpg" group-title="Canais: Documentário",Investigacao Discovery SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1514
+http://canais.servidor.tv:8080/x918jc/553e9f/1514
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://lb1.iptv.movie/logos/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1458
+http://canais.servidor.tv:8080/x918jc/553e9f/1458
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD+" tvg-logo="http://lb1.iptv.movie/logos/lifetime.png" group-title="Canais: Filme e Série",Lifetime HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/216
+http://canais.servidor.tv:8080/x918jc/553e9f/216
 #EXTINF:-1 tvg-id="" tvg-name="Luluzinha (24H)" tvg-logo="http://lb1.iptv.movie/logos/luluzinha.jpg" group-title="Canais: 24 Horas",Luluzinha (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2609
+http://canais.servidor.tv:8080/x918jc/553e9f/2609
 #EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="Mais Globosat HD" tvg-logo="http://lb1.iptv.movie/logos/maisglobosat.png" group-title="Canais: Variedade e Música",Mais Globosat HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/213
+http://canais.servidor.tv:8080/x918jc/553e9f/213
 #EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD" tvg-logo="http://lb1.iptv.movie/logos/max.png" group-title="Canais: Filme e Série",Max HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1457
+http://canais.servidor.tv:8080/x918jc/553e9f/1457
 #EXTINF:-1 tvg-id="maxbrasil.br" tvg-name="Max HD+" tvg-logo="http://lb1.iptv.movie/logos/max.png" group-title="Canais: Filme e Série",Max HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/211
+http://canais.servidor.tv:8080/x918jc/553e9f/211
 #EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD" tvg-logo="http://lb1.iptv.movie/logos/maxprime.jpg" group-title="Canais: Filme e Série",Max Prime HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1456
+http://canais.servidor.tv:8080/x918jc/553e9f/1456
 #EXTINF:-1 tvg-id="maxprimebrasil.br" tvg-name="Max Prime HD+" tvg-logo="http://lb1.iptv.movie/logos/maxprime.jpg" group-title="Canais: Filme e Série",Max Prime HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/209
+http://canais.servidor.tv:8080/x918jc/553e9f/209
 #EXTINF:-1 tvg-id="maxup.br" tvg-name="Max UP HD" tvg-logo="http://lb1.iptv.movie/logos/maxup.png" group-title="Canais: Filme e Série",Max UP HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1455
+http://canais.servidor.tv:8080/x918jc/553e9f/1455
 #EXTINF:-1 tvg-id="maxup.br" tvg-name="Max UP HD+" tvg-logo="http://lb1.iptv.movie/logos/maxup.png" group-title="Canais: Filme e Série",Max UP HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/207
+http://canais.servidor.tv:8080/x918jc/553e9f/207
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://lb1.iptv.movie/logos/megapix.png" group-title="Canais: Filme e Série",Megapix HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1454
+http://canais.servidor.tv:8080/x918jc/553e9f/1454
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD+" tvg-logo="http://lb1.iptv.movie/logos/megapix.png" group-title="Canais: Filme e Série",Megapix HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/204
+http://canais.servidor.tv:8080/x918jc/553e9f/204
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://lb1.iptv.movie/logos/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1453
+http://canais.servidor.tv:8080/x918jc/553e9f/1453
 #EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD+" tvg-logo="http://lb1.iptv.movie/logos/mtv.jpg" group-title="Canais: Variedade e Música",MTV HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/202
+http://canais.servidor.tv:8080/x918jc/553e9f/202
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://lb1.iptv.movie/logos/multishow.png" group-title="Canais: Variedade e Música",Multishow HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1452
+http://canais.servidor.tv:8080/x918jc/553e9f/1452
 #EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD+" tvg-logo="http://lb1.iptv.movie/logos/multishow.png" group-title="Canais: Variedade e Música",Multishow HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/199
+http://canais.servidor.tv:8080/x918jc/553e9f/199
 #EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://lb1.iptv.movie/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1451
+http://canais.servidor.tv:8080/x918jc/553e9f/1451
 #EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD+" tvg-logo="http://lb1.iptv.movie/logos/natgeokids.png" group-title="Canais: Infantil",Nat Geo Kids HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/195
+http://canais.servidor.tv:8080/x918jc/553e9f/195
 #EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://lb1.iptv.movie/logos/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1450
+http://canais.servidor.tv:8080/x918jc/553e9f/1450
 #EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD+" tvg-logo="http://lb1.iptv.movie/logos/natgeowild.png" group-title="Canais: Documentário",Nat Geo Wild HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/193
+http://canais.servidor.tv:8080/x918jc/553e9f/193
 #EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD+" tvg-logo="http://lb1.iptv.movie/logos/nationalgeographic.jpg" group-title="Canais: Documentário",National Geographic HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/196
+http://canais.servidor.tv:8080/x918jc/553e9f/196
 #EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD" tvg-logo="http://lb1.iptv.movie/logos/nickjr.png" group-title="Canais: Infantil",Nick JR HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1503
+http://canais.servidor.tv:8080/x918jc/553e9f/1503
 #EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick JR HD+" tvg-logo="http://lb1.iptv.movie/logos/nickjr.png" group-title="Canais: Infantil",Nick JR HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/187
+http://canais.servidor.tv:8080/x918jc/553e9f/187
 #EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://lb1.iptv.movie/logos/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1449
+http://canais.servidor.tv:8080/x918jc/553e9f/1449
 #EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD+" tvg-logo="http://lb1.iptv.movie/logos/nick.jpg" group-title="Canais: Infantil",Nickelodeon HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/188
+http://canais.servidor.tv:8080/x918jc/553e9f/188
 #EXTINF:-1 tvg-id="novotempo.br" tvg-name="Novo Tempo SD" tvg-logo="http://lb1.iptv.movie/logos/novotempo.jpg" group-title="Canais: Religião",Novo Tempo SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/184
+http://canais.servidor.tv:8080/x918jc/553e9f/184
 #EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso (24H)" tvg-logo="http://lb1.iptv.movie/logos/opequenourso.jpg" group-title="Canais: 24 Horas",O Pequeno Urso (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2607
+http://canais.servidor.tv:8080/x918jc/553e9f/2607
 #EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://lb1.iptv.movie/logos/off.png" group-title="Canais: Variedade e Música",OFF HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/183
+http://canais.servidor.tv:8080/x918jc/553e9f/183
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons (24H)" tvg-logo="http://lb1.iptv.movie/logos/ossimpsons.jpg" group-title="Canais: 24 Horas",Os Simpsons (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2328
+http://canais.servidor.tv:8080/x918jc/553e9f/2328
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://lb1.iptv.movie/logos/paramount.png" group-title="Canais: Filme e Série",Paramount Channel HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1448
+http://canais.servidor.tv:8080/x918jc/553e9f/1448
 #EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/paramount.png" group-title="Canais: Filme e Série",Paramount Channel HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/181
+http://canais.servidor.tv:8080/x918jc/553e9f/181
 #EXTINF:-1 tvg-id="" tvg-name="Peppa Pig (24H)" tvg-logo="http://lb1.iptv.movie/logos/peppapig.jpg" group-title="Canais: 24 Horas",Peppa Pig (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2329
+http://canais.servidor.tv:8080/x918jc/553e9f/2329
 #EXTINF:-1 tvg-id="" tvg-name="Pica-Pau (24H)" tvg-logo="http://lb1.iptv.movie/logos/picapau.jpg" group-title="Canais: 24 Horas",Pica-Pau (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2325
+http://canais.servidor.tv:8080/x918jc/553e9f/2325
 #EXTINF:-1 tvg-id="playtv.br" tvg-name="Play TV SD" tvg-logo="http://lb1.iptv.movie/logos/playtv.png" group-title="Canais: Variedade e Música",Play TV SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/179
+http://canais.servidor.tv:8080/x918jc/553e9f/179
 #EXTINF:-1 tvg-id="playboytv.pt" tvg-name="Playboy TV HD" tvg-logo="http://lb1.iptv.movie/logos/playboytv.png" group-title="Canais: Adulto",Playboy TV HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/57
+http://canais.servidor.tv:8080/x918jc/553e9f/57
 #EXTINF:-1 tvg-id="philos.br" tvg-name="Polishop TV SD" tvg-logo="http://lb1.iptv.movie/logos/polishoptv.png" group-title="Canais: Variedade e Música",Polishop TV SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/178
+http://canais.servidor.tv:8080/x918jc/553e9f/178
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1511
+http://canais.servidor.tv:8080/x918jc/553e9f/1511
 #EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 2 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/172
+http://canais.servidor.tv:8080/x918jc/553e9f/172
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1510
+http://canais.servidor.tv:8080/x918jc/553e9f/1510
 #EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 3 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/170
+http://canais.servidor.tv:8080/x918jc/553e9f/170
 #EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1509
+http://canais.servidor.tv:8080/x918jc/553e9f/1509
 #EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 4 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/168
+http://canais.servidor.tv:8080/x918jc/553e9f/168
 #EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1508
+http://canais.servidor.tv:8080/x918jc/553e9f/1508
 #EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 5 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/166
+http://canais.servidor.tv:8080/x918jc/553e9f/166
 #EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1507
+http://canais.servidor.tv:8080/x918jc/553e9f/1507
 #EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 6 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/164
+http://canais.servidor.tv:8080/x918jc/553e9f/164
 #EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1506
+http://canais.servidor.tv:8080/x918jc/553e9f/1506
 #EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD+" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 7 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/162
+http://canais.servidor.tv:8080/x918jc/553e9f/162
 #EXTINF:-1 tvg-id="premiere8.br" tvg-name="Premiere 8 SD" tvg-logo="http://lb1.iptv.movie/logos/premiere.jpg" group-title="Canais: Esporte",Premiere 8 SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/160
+http://canais.servidor.tv:8080/x918jc/553e9f/160
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://canais.servidor.tv:8080/images/naW7ToJkl7nQQtwiZM9Sf0wKrxPrLeVa.jpg" group-title="Canais: Esporte",Premiere Clubes HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1447
+http://canais.servidor.tv:8080/x918jc/553e9f/1447
 #EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere Clubes HD+" tvg-logo="http://canais.servidor.tv:8080/images/FVOQsOCLYJSd5iqMj8vbolVmWoLzHs3J.jpg" group-title="Canais: Esporte",Premiere Clubes HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/159
+http://canais.servidor.tv:8080/x918jc/553e9f/159
 #EXTINF:-1 tvg-id="primeboxbrasil.br" tvg-name="Prime Box Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/primeboxbrasil.png" group-title="Canais: Filme e Série",Prime Box Brasil SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/157
+http://canais.servidor.tv:8080/x918jc/553e9f/157
 #EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá Tim Bum HD" tvg-logo="http://lb1.iptv.movie/logos/tvratimbum.png" group-title="Canais: Infantil",Rá Tim Bum HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/72
+http://canais.servidor.tv:8080/x918jc/553e9f/72
 #EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record HD+" tvg-logo="http://lb1.iptv.movie/logos/record.png" group-title="Canais: Abertos",Record HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/148
+http://canais.servidor.tv:8080/x918jc/553e9f/148
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="http://lb1.iptv.movie/logos/recordnews.png" group-title="Canais: Notícia",Record News HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1513
+http://canais.servidor.tv:8080/x918jc/553e9f/1513
 #EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD+" tvg-logo="http://lb1.iptv.movie/logos/recordnews.png" group-title="Canais: Notícia",Record News HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/405
+http://canais.servidor.tv:8080/x918jc/553e9f/405
 #EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="Record SP HD" tvg-logo="http://lb1.iptv.movie/logos/record.png" group-title="Canais: Abertos",Record SP HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/403
-#EXTINF:-1 tvg-id="redebrasil.br" tvg-name="Rede Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/redebrasil.jpg" group-title="Canais: Abertos",Rede Brasil SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/137
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="Rede TV HD" tvg-logo="http://lb1.iptv.movie/logos/redetv.png" group-title="Canais: Abertos",Rede TV HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/136
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida SD" tvg-logo="http://lb1.iptv.movie/logos/redevida.jpg" group-title="Canais: Religião",Rede Vida SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/134
-#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV SD" tvg-logo="http://lb1.iptv.movie/logos/rittv.png" group-title="Canais: Religião",RIT TV SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/133
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://lb1.iptv.movie/logos/sbt.png" group-title="Canais: Abertos",SBT HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1512
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD+" tvg-logo="http://lb1.iptv.movie/logos/sbt.png" group-title="Canais: Abertos",SBT HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/402
-#EXTINF:-1 tvg-id="hot.pt" tvg-name="Sex Privê HD" tvg-logo="http://lb1.iptv.movie/logos/sexprive.jpg" group-title="Canais: Adulto",Sex Privê HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/257
-#EXTINF:-1 tvg-id="sextreme.pt" tvg-name="Sextreme HD" tvg-logo="http://lb1.iptv.movie/logos/sextreme.jpg" group-title="Canais: Adulto",Sextreme HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/54
-#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="Sexy Hot HD" tvg-logo="http://lb1.iptv.movie/logos/sexyhot.png" group-title="Canais: Adulto",Sexy Hot HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/49
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD" tvg-logo="http://lb1.iptv.movie/logos/sony.png" group-title="Canais: Filme e Série",Sony HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1446
-#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony HD+" tvg-logo="http://lb1.iptv.movie/logos/sony.png" group-title="Canais: Filme e Série",Sony HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/127
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://lb1.iptv.movie/logos/space.png" group-title="Canais: Filme e Série",Space HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1445
-#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD+" tvg-logo="http://lb1.iptv.movie/logos/space.png" group-title="Canais: Filme e Série",Space HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/125
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://lb1.iptv.movie/logos/sportv.png" group-title="Canais: Esporte",SporTV HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1444
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv.png" group-title="Canais: Esporte",SporTV HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/119
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://lb1.iptv.movie/logos/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1443
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv2.jpg" group-title="Canais: Esporte",SporTV 2 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/123
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://lb1.iptv.movie/logos/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1442
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD+" tvg-logo="http://lb1.iptv.movie/logos/sportv3.png" group-title="Canais: Esporte",SporTV 3 HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/121
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://lb1.iptv.movie/logos/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1441
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD+" tvg-logo="http://lb1.iptv.movie/logos/studiouniversal.png" group-title="Canais: Filme e Série",Studio Universal HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/117
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque (24H)" tvg-logo="http://lb1.iptv.movie/logos/superchoque.jpg" group-title="Canais: 24 Horas",Super Choque (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2679
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://lb1.iptv.movie/logos/syfy.png" group-title="Canais: Filme e Série",Syfy HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1440
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD+" tvg-logo="http://lb1.iptv.movie/logos/syfy.png" group-title="Canais: Filme e Série",Syfy HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/115
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://lb1.iptv.movie/logos/tbs.png" group-title="Canais: Filme e Série",TBS HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/113
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://lb1.iptv.movie/logos/tcm.png" group-title="Canais: Filme e Série",TCM HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/99
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://lb1.iptv.movie/logos/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1438
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD+" tvg-logo="http://lb1.iptv.movie/logos/telecineaction.png" group-title="Canais: Filme e Série",Telecine Action HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/111
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://lb1.iptv.movie/logos/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1437
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinecult.jpg" group-title="Canais: Filme e Série",Telecine Cult HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/109
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://lb1.iptv.movie/logos/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1436
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinefun.png" group-title="Canais: Filme e Série",Telecine Fun HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/107
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://lb1.iptv.movie/logos/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1435
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinepipoca.png" group-title="Canais: Filme e Série",Telecine Pipoca HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/105
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://lb1.iptv.movie/logos/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1434
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinepremium.png" group-title="Canais: Filme e Série",Telecine Premium HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/103
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://lb1.iptv.movie/logos/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1439
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD+" tvg-logo="http://lb1.iptv.movie/logos/telecinetouch.png" group-title="Canais: Filme e Série",Telecine Touch HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/101
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://lb1.iptv.movie/logos/tlc.png" group-title="Canais: Variedade e Música",TLC HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/94
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://lb1.iptv.movie/logos/tnt.png" group-title="Canais: Filme e Série",TNT HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1433
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD+" tvg-logo="http://lb1.iptv.movie/logos/tnt.png" group-title="Canais: Filme e Série",TNT HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/92
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Series HD" tvg-logo="http://lb1.iptv.movie/logos/tntseries.png" group-title="Canais: Filme e Série",TNT Series HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1432
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD+" tvg-logo="http://lb1.iptv.movie/logos/tntseries.png" group-title="Canais: Filme e Série",TNT Séries HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/90
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris (24H)" tvg-logo="http://lb1.iptv.movie/logos/todomundoodeiaochris.jpg" group-title="Canais: 24 Horas",Todo Mundo Odeia o Chris (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2702
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="Tru TV SD" tvg-logo="http://lb1.iptv.movie/logos/trutv.png" group-title="Canais: Variedade e Música",Tru TV SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/85
-#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://lb1.iptv.movie/logos/aparecida.jpg" group-title="Canais: Religião",TV Aparecida SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/84
-#EXTINF:-1 tvg-id="tvbrasil.br" tvg-name="TV Brasil SD" tvg-logo="http://lb1.iptv.movie/logos/tvbrasil.jpg" group-title="Canais: Abertos",TV Brasil SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/83
-#EXTINF:-1 tvg-id="tvcamara.br" tvg-name="TV Câmara SD" tvg-logo="http://lb1.iptv.movie/logos/tvcamara.png" group-title="Canais: Abertos",TV Câmara SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/82
-#EXTINF:-1 tvg-id="" tvg-name="TV Climatempo SD" tvg-logo="http://lb1.iptv.movie/logos/tvclimatempo.jpg" group-title="Canais: Notícia",TV Climatempo SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/80
-#EXTINF:-1 tvg-id="tvescola.br" tvg-name="TV Escola HD+" tvg-logo="http://lb1.iptv.movie/logos/tvescola.jpg" group-title="Canais: Variedade e Música",TV Escola HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/77
-#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta HD" tvg-logo="http://lb1.iptv.movie/logos/tvgazeta.jpg" group-title="Canais: Abertos",TV Gazeta HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/75
-#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="TV Justiça SD" tvg-logo="http://lb1.iptv.movie/logos/tvjustica.jpg" group-title="Canais: Abertos",TV Justiça SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/73
-#EXTINF:-1 tvg-id="tvsenado.br" tvg-name="TV Senado SD" tvg-logo="http://lb1.iptv.movie/logos/tvsenado.png" group-title="Canais: Abertos",TV Senado SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/70
-#EXTINF:-1 tvg-id="tv5monde.us" tvg-name="TV5 SD" tvg-logo="http://lb1.iptv.movie/logos/tv5.png" group-title="Canais: Variedade e Música",TV5 SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/69
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD" tvg-logo="http://lb1.iptv.movie/logos/universalchannel.png" group-title="Canais: Filme e Série",Universal Channel HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1431
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Universal Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/universalchannel.png" group-title="Canais: Filme e Série",Universal Channel HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/67
-#EXTINF:-1 tvg-id="venus.pt" tvg-name="Vênus HD" tvg-logo="http://lb1.iptv.movie/logos/venus.png" group-title="Canais: Adulto",Vênus HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/51
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 HD" tvg-logo="http://lb1.iptv.movie/logos/vh1.png" group-title="Canais: Variedade e Música",VH1 HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/65
-#EXTINF:-1 tvg-id="vh1megahits.br" tvg-name="VH1 Mega Hits SD" tvg-logo="http://lb1.iptv.movie/logos/vh1.png" group-title="Canais: Variedade e Música",VH1 Mega Hits SD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/64
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://lb1.iptv.movie/logos/viva.jpg" group-title="Canais: Variedade e Música",Viva HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2680
-#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD+" tvg-logo="http://lb1.iptv.movie/logos/viva.jpg" group-title="Canais: Variedade e Música",Viva HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/10
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://lb1.iptv.movie/logos/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/1430
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/warnerchannel.png" group-title="Canais: Filme e Série",Warner Channel HD+
-http://canais.servidor.tv:8080/t85pwo/ukt64r/61
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WooHoo HD" tvg-logo="http://lb1.iptv.movie/logos/woohoo.jpg" group-title="Canais: Variedade e Música",WooHoo HD
-http://canais.servidor.tv:8080/t85pwo/ukt64r/59
-#EXTINF:-1 tvg-id="" tvg-name="X-Men: Evolution (24H)" tvg-logo="http://lb1.iptv.movie/logos/xmenevolution.jpg" group-title="Canais: 24 Horas",X-Men: Evolution (24H)
-http://canais.servidor.tv:8080/t85pwo/ukt64r/2678
+http://canais.servidor.tv:8080/x918jc/553e9f/403
