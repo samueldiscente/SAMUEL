@@ -781,6 +781,14 @@ http://lb.kstream.org/aovivo/XXX_REDLIGHT/video.m3u8?token=4f954376befe4a8c92943
 http://lb.kstream.org/aovivo/SD_RIT/video.m3u8?token=4f954376befe4a8c92943ad7d338cc28
 #EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record
 http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=4f954376befe4a8c92943ad7d338cc28
+#EXTINF:-1 type="stream" tvg-id="Record MG HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record MG HD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record MG HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record MG HDD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record RJ HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record RJ HDHD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record RS HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record RS HDD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 type="stream" tvg-id="Record BA HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record BA HD
 http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=4f954376befe4a8c92943ad7d338cc28
 #EXTINF:-1 type="stream" tvg-id="Record DF HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record DF HD
