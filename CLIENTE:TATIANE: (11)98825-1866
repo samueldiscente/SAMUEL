@@ -985,18 +985,16 @@ http://lb.kstream.org/aovivo/SD_WARNER/video.m3u8?token=bfdfe9f0f321831e30bb3eb9
 http://lb.kstream.org/aovivo/FHD_WARNER/video.m3u8?token=bfdfe9f0f321831e30bb3eb92f3a67a0
 #EXTINF:-1 type="stream" tvg-id="Warner Channel HD" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel HD
 http://lb.kstream.org/aovivo/HD_WARNER/video.m3u8?token=bfdfe9f0f321831e30bb3eb92f3a67a0
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel FHD" tvg-logo="http://painelgerenciador.com.br/logos/img/universalchannel.png" group-title="Filmes & Séries",Universal Channel ATUALIZADO 1
-http://dns.ultimateiptv.xyz:25461/d9tqXA/A6QajJ/68898
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD" tvg-logo="http://painelgerenciador.com.br/logos/img/universalchannel.png" group-title="Filmes & Séries",Universal Channel ATUALIZADO 2
+#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel ATUALIZADO 1
 http://dns.ultimateiptv.xyz:25461/d9tqXA/A6QajJ/68899
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD" tvg-logo="http://painelgerenciador.com.br/logos/img/universalchannel.png" group-title="Filmes & Séries",Universal Channel ATUALIZADO 3
+#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel ATUALIZADO 2
 http://dns.ultimateiptv.xyz:25461/d9tqXA/A6QajJ/68900
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://painelgerenciador.com.br/logos/img/warnerchannel.png" group-title="Filmes & Séries",Warner Channel ATUALIZADO 4
-http://dns.ultimateiptv.xyz:25461/d9tqXA/A6QajJ/68901
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://painelgerenciador.com.br/logos/img/warnerchannel.png" group-title="Filmes & Séries",Warner Channel ATUALIZADO 5
+#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel ATUALIZADO 3
 http://dns.ultimateiptv.xyz:25461/d9tqXA/A6QajJ/68902
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="http://painelgerenciador.com.br/logos/img/warnerchannel.png" group-title="Filmes & Séries",Warner Channel ATUALIZADO 6
+#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel ATUALIZADO 4
 http://dns.ultimateiptv.xyz:25461/d9tqXA/A6QajJ/68903
+#EXTINF:-1 type="stream" tvg-id="Warner Channel HD" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel ATUALIZADO 5
+http://dns.ultimateiptv.xyz:25461/d9tqXA/A6QajJ/68902
 #EXTINF:-1 type="stream" tvg-id="Woohoo" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png" group-title="Variedade",Woohoo
 http://lb.kstream.org/aovivo/SD_WOOHOO/video.m3u8?token=bfdfe9f0f321831e30bb3eb92f3a67a0
 #EXTINF:-1 type="stream" tvg-id="Woohoo HD" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png" group-title="Variedade",Woohoo HD
