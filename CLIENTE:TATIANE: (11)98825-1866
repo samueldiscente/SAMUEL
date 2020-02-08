@@ -1025,10 +1025,6 @@ http://dns.ultimateiptv.xyz:25461/r2YvqX/UFsXgV/68903
 http://psrv.io:80/0570830/coreurl.me/18513
 #EXTINF:-1 type="stream" tvg-id="Warner Channel HD" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel Atualizado5
 http://psrv.io:80/0570830/coreurl.me/18514
-#EXTINF:-1 type="stream" tvg-id="Warner Channel HD" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel [Legendado]
-http://psrv.io:80/0570830/coreurl.me/28371
-#EXTINF:-1 type="stream" tvg-id="Warner Channel HD" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel [Legendado] 
-http://psrv.io:80/0570830/coreurl.me/28372
 #EXTINF:-1 type="stream" tvg-id="Woohoo" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png" group-title="Variedade",Woohoo
 http://lb.kstream.org/aovivo/SD_WOOHOO/video.m3u8?token=abf2470cfe0ab3e4e513b5e9b75dffec
 #EXTINF:-1 type="stream" tvg-id="Woohoo HD" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png" group-title="Variedade",Woohoo HD
