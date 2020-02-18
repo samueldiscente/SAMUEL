@@ -1,1009 +1,1012 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E
-http://list.deeplist.nl:80/wer16520/16520/1120
-#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg" group-title="Variedades e Musicas",A&E HD
-http://list.deeplist.nl:80/wer16520/16520/5078
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC
-http://list.deeplist.nl:80/wer16520/16520/9609
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg" group-title="Filmes e Series",AMC HD
-http://list.deeplist.nl:80/wer16520/16520/15406
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
-http://list.deeplist.nl:80/wer16520/16520/1719
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
-http://list.deeplist.nl:80/wer16520/16520/52581
-#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA
-http://list.deeplist.nl:80/wer16520/16520/916
-#EXTINF:-1 tvg-id="APARECIDA" tvg-name="APARECIDA HD" tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg" group-title="Religioso",APARECIDA HD
-http://list.deeplist.nl:80/wer16520/16520/20831
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1" tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Variedades e Musicas",ARTE 1
-http://list.deeplist.nl:80/wer16520/16520/52237
-#EXTINF:-1 tvg-id="ARTE 1" tvg-name="ARTE 1 HD" tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg" group-title="Variedades e Musicas",ARTE 1 HD
-http://list.deeplist.nl:80/wer16520/16520/58680
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Filmes e Series",AXN
-http://list.deeplist.nl:80/wer16520/16520/1712
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg" group-title="Filmes e Series",AXN HD
-http://list.deeplist.nl:80/wer16520/16520/1114
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="http://img.myapp.st/1559753690_2ab895491643e3877cc6abc0e23db9f47d93f9fc.png" group-title="Infantil",BABY TV
-http://list.deeplist.nl:80/wer16520/16520/52235
-#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV HD" tvg-logo="http://img.myapp.st/1559753690_2ab895491643e3877cc6abc0e23db9f47d93f9fc.png" group-title="Infantil",BABY TV HD
-http://list.deeplist.nl:80/wer16520/16520/58682
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Noticias",BAND NEWS
-http://list.deeplist.nl:80/wer16520/16520/1107
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS HD" tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png" group-title="Canais Abertos",BAND NEWS HD
-http://list.deeplist.nl:80/wer16520/16520/58683
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP
-http://list.deeplist.nl:80/wer16520/16520/1713
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP HD
-http://list.deeplist.nl:80/wer16520/16520/52595
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS
-http://list.deeplist.nl:80/wer16520/16520/1106
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS HD" tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png" group-title="Esportes",BAND SPORTS HD
-http://list.deeplist.nl:80/wer16520/16520/2407
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 HD (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 HD (A Casa)
-http://list.deeplist.nl:80/wer16520/16520/58218
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 SD 1 (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 SD 1 (A Casa)
-http://list.deeplist.nl:80/wer16520/16520/58214
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 SD 2 (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 SD 2 (A Casa)
-http://list.deeplist.nl:80/wer16520/16520/58215
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 SD 3 (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 SD 3 (A Casa)
-http://list.deeplist.nl:80/wer16520/16520/58216
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 1 SD+ (A Casa)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 1 SD+ (A Casa)
-http://list.deeplist.nl:80/wer16520/16520/58217
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 HD (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 HD (Jardim Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58263
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 SD 1 (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 SD 1 (Jardim Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58259
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 SD 2 (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 SD 2 (Jardim Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58260
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 SD 3 (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 SD 3 (Jardim Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58261
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 10 SD+ (Jardim Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 10 SD+ (Jardim Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58262
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 HD (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 HD (Confessionário)
-http://list.deeplist.nl:80/wer16520/16520/58223
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 SD 1 (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 SD 1 (Confessionário)
-http://list.deeplist.nl:80/wer16520/16520/58219
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 SD 2 (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 SD 2 (Confessionário)
-http://list.deeplist.nl:80/wer16520/16520/58220
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 SD 3 (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 SD 3 (Confessionário)
-http://list.deeplist.nl:80/wer16520/16520/58221
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 2 SD+ (Confessionário)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 2 SD+ (Confessionário)
-http://list.deeplist.nl:80/wer16520/16520/58222
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 HD (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 HD (Quarto Céu)
-http://list.deeplist.nl:80/wer16520/16520/58228
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 SD 1 (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 SD 1 (Quarto Céu)
-http://list.deeplist.nl:80/wer16520/16520/58224
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 SD 2 (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 SD 2 (Quarto Céu)
-http://list.deeplist.nl:80/wer16520/16520/58225
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 SD 3 (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 SD 3 (Quarto Céu)
-http://list.deeplist.nl:80/wer16520/16520/58226
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 3 SD+ (Quarto Céu)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 3 SD+ (Quarto Céu)
-http://list.deeplist.nl:80/wer16520/16520/58227
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 HD (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 HD (Sala)
-http://list.deeplist.nl:80/wer16520/16520/58233
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 SD 1 (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 SD 1 (Sala)
-http://list.deeplist.nl:80/wer16520/16520/58229
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 SD 2 (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 SD 2 (Sala)
-http://list.deeplist.nl:80/wer16520/16520/58230
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 SD 3 (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 SD 3 (Sala)
-http://list.deeplist.nl:80/wer16520/16520/58231
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 4 SD+ (Sala)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 4 SD+ (Sala)
-http://list.deeplist.nl:80/wer16520/16520/58232
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 HD (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 HD (Cozinha Vip)
-http://list.deeplist.nl:80/wer16520/16520/58238
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 SD 1 (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 SD 1 (Cozinha Vip)
-http://list.deeplist.nl:80/wer16520/16520/58234
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 SD 2 (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 SD 2 (Cozinha Vip)
-http://list.deeplist.nl:80/wer16520/16520/58235
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 SD 3 (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 SD 3 (Cozinha Vip)
-http://list.deeplist.nl:80/wer16520/16520/58236
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 5 SD+ (Cozinha Vip)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 5 SD+ (Cozinha Vip)
-http://list.deeplist.nl:80/wer16520/16520/58237
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 HD (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 HD (Cozinha Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58243
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 SD 1 (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 SD 1 (Cozinha Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58239
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 SD 2 (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 SD 2 (Cozinha Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58240
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 SD 3 (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 SD 3 (Cozinha Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58241
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 6 SD+ (Cozinha Camarote)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 6 SD+ (Cozinha Camarote)
-http://list.deeplist.nl:80/wer16520/16520/58242
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 HD (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 HD (Quarto Camarote 1)
-http://list.deeplist.nl:80/wer16520/16520/58248
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 SD 1 (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 SD 1 (Quarto Camarote 1)
-http://list.deeplist.nl:80/wer16520/16520/58244
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 SD 2 (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 SD 2 (Quarto Camarote 1)
-http://list.deeplist.nl:80/wer16520/16520/58245
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 SD 3 (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 SD 3 (Quarto Camarote 1)
-http://list.deeplist.nl:80/wer16520/16520/58246
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 7 SD+ (Quarto Camarote 1)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 7 SD+ (Quarto Camarote 1)
-http://list.deeplist.nl:80/wer16520/16520/58247
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 HD (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 HD (Piscina)
-http://list.deeplist.nl:80/wer16520/16520/58253
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 SD 1 (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 SD 1 (Piscina)
-http://list.deeplist.nl:80/wer16520/16520/58249
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 SD 2 (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 SD 2 (Piscina)
-http://list.deeplist.nl:80/wer16520/16520/58250
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 SD 3 (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 SD 3 (Piscina)
-http://list.deeplist.nl:80/wer16520/16520/58251
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 8 SD+ (Piscina)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 8 SD+ (Piscina)
-http://list.deeplist.nl:80/wer16520/16520/58252
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 HD (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 HD (Quarto Camarote 2)
-http://list.deeplist.nl:80/wer16520/16520/58258
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 SD 1 (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 SD 1 (Quarto Camarote 2)
-http://list.deeplist.nl:80/wer16520/16520/58254
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 SD 2 (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 SD 2 (Quarto Camarote 2)
-http://list.deeplist.nl:80/wer16520/16520/58255
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 SD 3 (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 SD 3 (Quarto Camarote 2)
-http://list.deeplist.nl:80/wer16520/16520/58256
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="BBB 9 SD+ (Quarto Camarote 2)" tvg-logo="http://img.myapp.st/1579621457_fad09b6b46a0f71ce0a6eed4c22fe539abd77d65.png" group-title="Variedades e Musicas",BBB 9 SD+ (Quarto Camarote 2)
-http://list.deeplist.nl:80/wer16520/16520/58257
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS HD
-http://list.deeplist.nl:80/wer16520/16520/1104
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 1" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD 1
-http://list.deeplist.nl:80/wer16520/16520/38740
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 2" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD 2
-http://list.deeplist.nl:80/wer16520/16520/38739
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD 3" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD 3
-http://list.deeplist.nl:80/wer16520/16520/38738
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD+" tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png" group-title="Variedades e Musicas",BIS SD+
-http://list.deeplist.nl:80/wer16520/16520/24187
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Infantil",BOOMERANG
-http://list.deeplist.nl:80/wer16520/16520/1102
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG HD" tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png" group-title="Infantil",BOOMERANG HD
-http://list.deeplist.nl:80/wer16520/16520/20801
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL HD" tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg" group-title="Filmes e Series",CANAL BRASIL HD
-http://list.deeplist.nl:80/wer16520/16520/5079
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL SD 1" tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg" group-title="Filmes e Series",CANAL BRASIL SD 1
-http://list.deeplist.nl:80/wer16520/16520/38743
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL SD 2" tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg" group-title="Filmes e Series",CANAL BRASIL SD 2
-http://list.deeplist.nl:80/wer16520/16520/38742
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL SD 3" tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg" group-title="Filmes e Series",CANAL BRASIL SD 3
-http://list.deeplist.nl:80/wer16520/16520/38741
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-name="CANAL BRASIL SD+" tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg" group-title="Filmes e Series",CANAL BRASIL SD+
-http://list.deeplist.nl:80/wer16520/16520/24745
-#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-name="CANAL DO BOI" tvg-logo="http://img.starbr.in/1559754485_2eca300025a7676ca5bf1e87caa23119721219f2.jpg" group-title="Variedades e Musicas",CANAL DO BOI
-http://list.deeplist.nl:80/wer16520/16520/2382
-#EXTINF:-1 tvg-id="CANAL RURAL" tvg-name="CANAL RURAL" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559754545_54fa6dce94d73d8bcdf1e84131f6743a2d651779.png" group-title="Canais Abertos",CANAL RURAL
-http://list.deeplist.nl:80/wer16520/16520/52677
-#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-name="CANCAO NOVA" tvg-logo="http://img.starbr.in/1559754619_5732293435bff71d65e16e1bbbb1c6f9f61b2c55.png" group-title="Religioso",CANCAO NOVA
-http://list.deeplist.nl:80/wer16520/16520/1220
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK
-http://list.deeplist.nl:80/wer16520/16520/1095
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK HD" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK HD
-http://list.deeplist.nl:80/wer16520/16520/43516
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX
-http://list.deeplist.nl:80/wer16520/16520/2483
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX HD" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX HD
-http://list.deeplist.nl:80/wer16520/16520/5080
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE HD" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE HD
-http://list.deeplist.nl:80/wer16520/16520/1088
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 1" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 1
-http://list.deeplist.nl:80/wer16520/16520/38746
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 2" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 2
-http://list.deeplist.nl:80/wer16520/16520/38745
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD 3" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD 3
-http://list.deeplist.nl:80/wer16520/16520/38744
-#EXTINF:-1 tvg-id="COMBATE" tvg-name="COMBATE SD+" tvg-logo="http://img.starbr.in/1559754996_6bf6dde2fbde848d0d4fcaf5e684157bcf127379.jpg" group-title="Esportes",COMBATE SD+
-http://list.deeplist.nl:80/wer16520/16520/22442
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="http://img.starbr.in/1559755088_fbef5bc2fb73c82d4992227200c8f6ea085ea099.jpg" group-title="Variedades e Musicas",COMEDY CENTRAL
-http://list.deeplist.nl:80/wer16520/16520/52240
-#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://img.starbr.in/1559755088_fbef5bc2fb73c82d4992227200c8f6ea085ea099.jpg" group-title="Variedades e Musicas",COMEDY CENTRAL HD
-http://list.deeplist.nl:80/wer16520/16520/58687
-#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755234_0ef536c040e9e5f72e263f2539021f92de743ce1.png" group-title="Variedades e Musicas",CULTURA
-http://list.deeplist.nl:80/wer16520/16520/52238
-#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA !" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755293_0c9755ae8a39295ff6897ebef042003480f25759.png" group-title="Variedades e Musicas",CURTA !
-http://list.deeplist.nl:80/wer16520/16520/52241
-#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA ! HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755293_0c9755ae8a39295ff6897ebef042003480f25759.png" group-title="Variedades e Musicas",CURTA ! HD
-http://list.deeplist.nl:80/wer16520/16520/58688
-#EXTINF:-1 tvg-id="AeE" tvg-name="DAZN" tvg-logo="http://img.myapp.st/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg" group-title="Esportes",DAZN
-http://list.deeplist.nl:80/wer16520/16520/56437
-#EXTINF:-1 tvg-id="DEUTSCH" tvg-name="DEUTSCH" tvg-logo="http://img.starbr.in/1559755364_ac4af4fbe7df6ba68e12b043af568f26321bfe1f.png" group-title="Noticias",DEUTSCH
-http://list.deeplist.nl:80/wer16520/16520/18034
-#EXTINF:-1 tvg-id="DEUTSCH" tvg-name="DEUTSCH HD" tvg-logo="http://img.starbr.in/1559755364_ac4af4fbe7df6ba68e12b043af568f26321bfe1f.png" group-title="Noticias",DEUTSCH HD
-http://list.deeplist.nl:80/wer16520/16520/37776
-#EXTINF:-1 tvg-id="DEUTSCH" tvg-name="DEUTSCH SD+" tvg-logo="http://img.starbr.in/1559755364_ac4af4fbe7df6ba68e12b043af568f26321bfe1f.png" group-title="Noticias",DEUTSCH SD+
-http://list.deeplist.nl:80/wer16520/16520/38471
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Documentarios",DISCOVERY CHANNEL
-http://list.deeplist.nl:80/wer16520/16520/1084
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Documentarios",DISCOVERY CHANNEL HD
-http://list.deeplist.nl:80/wer16520/16520/2410
-#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://img.starbr.in/1559755591_b00ab75966d3f8ec9b89b5bb02ea9951a38d1d82.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH
-http://list.deeplist.nl:80/wer16520/16520/2399
-#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="http://img.starbr.in/1559755591_b00ab75966d3f8ec9b89b5bb02ea9951a38d1d82.jpg" group-title="Variedades e Musicas",DISCOVERY HOME & HEALTH HD
-http://list.deeplist.nl:80/wer16520/16520/1082
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS
-http://list.deeplist.nl:80/wer16520/16520/1080
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS HD
-http://list.deeplist.nl:80/wer16520/16520/5081
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://img.starbr.in/1559755776_3157466fb16c7208876e84ddba31f7f58e86fbbd.jpg" group-title="Documentarios",DISCOVERY SCIENCE
-http://list.deeplist.nl:80/wer16520/16520/20806
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://img.starbr.in/1559755776_3157466fb16c7208876e84ddba31f7f58e86fbbd.jpg" group-title="Documentarios",DISCOVERY SCIENCE HD
-http://list.deeplist.nl:80/wer16520/16520/16006
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER" tvg-logo="http://img.starbr.in/1559755885_5df701f3fd0c97c072c39b97b60db4dac748e4e4.png" group-title="Documentarios",DISCOVERY THEATER
-http://list.deeplist.nl:80/wer16520/16520/20807
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://img.starbr.in/1559755885_5df701f3fd0c97c072c39b97b60db4dac748e4e4.png" group-title="Documentarios",DISCOVERY THEATER HD
-http://list.deeplist.nl:80/wer16520/16520/2460
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO
-http://list.deeplist.nl:80/wer16520/16520/1072
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://img.starbr.in/1559755956_6c325149f22c714add6552e48c4dafeb70a35c5d.jpg" group-title="Documentarios",DISCOVERY TURBO HD
-http://list.deeplist.nl:80/wer16520/16520/2411
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD" tvg-logo="http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png" group-title="Documentarios",DISCOVERY WORLD
-http://list.deeplist.nl:80/wer16520/16520/20808
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png" group-title="Documentarios",DISCOVERY WORLD HD
-http://list.deeplist.nl:80/wer16520/16520/2461
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL HD 1" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL HD 1
-http://list.deeplist.nl:80/wer16520/16520/38438
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL HD 2" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL HD 2
-http://list.deeplist.nl:80/wer16520/16520/5082
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL SD
-http://list.deeplist.nl:80/wer16520/16520/38763
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL SD+" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL SD+
-http://list.deeplist.nl:80/wer16520/16520/1071
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR HD" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR HD
-http://list.deeplist.nl:80/wer16520/16520/20809
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR SD 1" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR SD 1
-http://list.deeplist.nl:80/wer16520/16520/38783
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR SD 2" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR SD 2
-http://list.deeplist.nl:80/wer16520/16520/1068
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR SD+" tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png" group-title="Infantil",DISNEY JR SD+
-http://list.deeplist.nl:80/wer16520/16520/38441
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD HD" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD HD
-http://list.deeplist.nl:80/wer16520/16520/20810
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD SD 1" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD SD 1
-http://list.deeplist.nl:80/wer16520/16520/38761
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD SD 2" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD SD 2
-http://list.deeplist.nl:80/wer16520/16520/1065
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD SD+" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD SD+
-http://list.deeplist.nl:80/wer16520/16520/38440
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://img.starbr.in/1559756477_f47514a7483173bbbe56eb2ef89cae3fb60e8f26.png" group-title="Variedades e Musicas",E!
-http://list.deeplist.nl:80/wer16520/16520/1063
-#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="http://img.starbr.in/1559756477_f47514a7483173bbbe56eb2ef89cae3fb60e8f26.png" group-title="Variedades e Musicas",E! HD
-http://list.deeplist.nl:80/wer16520/16520/52246
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 HD
-http://list.deeplist.nl:80/wer16520/16520/1129
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD 1" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 SD 1
-http://list.deeplist.nl:80/wer16520/16520/38754
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD 2" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 SD 2
-http://list.deeplist.nl:80/wer16520/16520/1718
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD+" tvg-logo="http://img.starbr.in/1559756717_d4cb144e6fee8a2c3af0690df76f3012f20b739e.jpg" group-title="Esportes",ESPN 1 SD+
-http://list.deeplist.nl:80/wer16520/16520/38387
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 HD
-http://list.deeplist.nl:80/wer16520/16520/2394
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD 1" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 SD 1
-http://list.deeplist.nl:80/wer16520/16520/38756
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD 2" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 SD 2
-http://list.deeplist.nl:80/wer16520/16520/2395
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 SD+" tvg-logo="http://img.starbr.in/1559756808_adc99dd47ef5dc2703eb6e051c4010381019531c.png" group-title="Esportes",ESPN 2 SD+
-http://list.deeplist.nl:80/wer16520/16520/38416
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL HD" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL HD
-http://list.deeplist.nl:80/wer16520/16520/2387
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL SD 1" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL SD 1
-http://list.deeplist.nl:80/wer16520/16520/38758
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL SD 2" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL SD 2
-http://list.deeplist.nl:80/wer16520/16520/1060
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL SD+" tvg-logo="http://img.starbr.in/1559756987_23f0062b6bdefc600635c86fae1421a82a061edb.png" group-title="Esportes",ESPN BRASIL SD+
-http://list.deeplist.nl:80/wer16520/16520/38415
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA HD" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA HD
-http://list.deeplist.nl:80/wer16520/16520/20813
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD 1" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA SD 1
-http://list.deeplist.nl:80/wer16520/16520/20812
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD 2" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA SD 2
-http://list.deeplist.nl:80/wer16520/16520/40435
-#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-name="ESPN EXTRA SD+" tvg-logo="http://img.starbr.in/1559757079_4c98ba66857df97e2ae3dc840c8c39ac1a41a704.png" group-title="Esportes",ESPN EXTRA SD+
-http://list.deeplist.nl:80/wer16520/16520/38417
-#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559757151_799f5ec6f1dda177024b7e3d878d1f4825db98ad.jpg" group-title="Variedades e Musicas",FISH TV
-http://list.deeplist.nl:80/wer16520/16520/52244
-#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559757151_799f5ec6f1dda177024b7e3d878d1f4825db98ad.jpg" group-title="Variedades e Musicas",FISH TV HD
-http://list.deeplist.nl:80/wer16520/16520/52245
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="http://img.starbr.in/1559757231_e18de856b55ca6045ba22a262a3ac402aff01d1c.png" group-title="Variedades e Musicas",FOOD NETWORK
-http://list.deeplist.nl:80/wer16520/16520/1049
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK HD" tvg-logo="http://img.starbr.in/1559757231_e18de856b55ca6045ba22a262a3ac402aff01d1c.png" group-title="Variedades e Musicas",FOOD NETWORK HD
-http://list.deeplist.nl:80/wer16520/16520/5084
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX
-http://list.deeplist.nl:80/wer16520/16520/1329
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://img.starbr.in/1559757317_a829fd6d1dd746721747241d7a558d3f14599a5d.png" group-title="Filmes e Series",FOX HD
-http://list.deeplist.nl:80/wer16520/16520/1047
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Variedades e Musicas",FOX LIFE
-http://list.deeplist.nl:80/wer16520/16520/1038
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-name="FOX LIFE HD" tvg-logo="http://img.starbr.in/1559757396_e20962937e7e156228a399b034ee63d4de75914f.png" group-title="Variedades e Musicas",FOX LIFE HD
-http://list.deeplist.nl:80/wer16520/16520/1037
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1" tvg-logo="http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title="Filmes e Series",FOX PREMIUM 1
-http://list.deeplist.nl:80/wer16520/16520/20815
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://img.starbr.in/1559757449_4d49d0230e3bcdbddd4cf31f2c2e735023fc6573.png" group-title="Filmes e Series",FOX PREMIUM 1 HD
-http://list.deeplist.nl:80/wer16520/16520/2464
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2" tvg-logo="http://img.starbr.in/1559757519_97a846e24637e8062e2c8ec7af9a921750b2448a.png" group-title="Filmes e Series",FOX PREMIUM 2
-http://list.deeplist.nl:80/wer16520/16520/20816
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://img.starbr.in/1559757519_97a846e24637e8062e2c8ec7af9a921750b2448a.png" group-title="Filmes e Series",FOX PREMIUM 2 HD
-http://list.deeplist.nl:80/wer16520/16520/2465
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS
-http://list.deeplist.nl:80/wer16520/16520/2391
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2" tvg-logo="http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" group-title="Esportes",FOX SPORTS 2
-http://list.deeplist.nl:80/wer16520/16520/1717
-#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://img.starbr.in/1559757662_e9fddb85a4659b1af3c9b875e40bcb0703c1870c.jpg" group-title="Esportes",FOX SPORTS 2 HD
-http://list.deeplist.nl:80/wer16520/16520/1031
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="FOX SPORTS HD" tvg-logo="http://img.starbr.in/1559757583_5f1bd1eb932e0a1690ccd546d827fc1719220967.png" group-title="Esportes",FOX SPORTS HD
-http://list.deeplist.nl:80/wer16520/16520/50188
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA HD" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA HD
-http://list.deeplist.nl:80/wer16520/16520/20803
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD 1" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD 1
-http://list.deeplist.nl:80/wer16520/16520/38735
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD 2" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD 2
-http://list.deeplist.nl:80/wer16520/16520/38736
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD 3" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD 3
-http://list.deeplist.nl:80/wer16520/16520/38737
-#EXTINF:-1 tvg-id="FUTURA" tvg-name="FUTURA SD+" tvg-logo="http://img.starbr.in/1559757716_6dc77ebcd56e1c00ef7b84bb402a4464b74b3f37.png" group-title="Canais Abertos",FUTURA SD+
-http://list.deeplist.nl:80/wer16520/16520/38484
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX
-http://list.deeplist.nl:80/wer16520/16520/1028
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://img.starbr.in/1559757791_57a7a53ef0ead970525b5a0190a3561a1dd3daf5.jpg" group-title="Filmes e Series",FX HD
-http://list.deeplist.nl:80/wer16520/16520/2386
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE HD
-http://list.deeplist.nl:80/wer16520/16520/49721
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 1
-http://list.deeplist.nl:80/wer16520/16520/49720
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 2
-http://list.deeplist.nl:80/wer16520/16520/49722
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD 3
-http://list.deeplist.nl:80/wer16520/16520/49723
-#EXTINF:-1 tvg-id="GLOBO ACRE" tvg-name="GLOBO ACRE SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO ACRE SD+
-http://list.deeplist.nl:80/wer16520/16520/49724
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ HD
-http://list.deeplist.nl:80/wer16520/16520/49729
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 1
-http://list.deeplist.nl:80/wer16520/16520/49725
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 2
-http://list.deeplist.nl:80/wer16520/16520/49726
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD 3
-http://list.deeplist.nl:80/wer16520/16520/49727
-#EXTINF:-1 tvg-id="GLOBO AMAPA" tvg-name="GLOBO AMAPÁ SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO AMAPÁ SD+
-http://list.deeplist.nl:80/wer16520/16520/49728
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS HD" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS HD
-http://list.deeplist.nl:80/wer16520/16520/38452
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD 1" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD 1
-http://list.deeplist.nl:80/wer16520/16520/38670
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD 2" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD 2
-http://list.deeplist.nl:80/wer16520/16520/38671
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD 3" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD 3
-http://list.deeplist.nl:80/wer16520/16520/9580
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD 4" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD 4
-http://list.deeplist.nl:80/wer16520/16520/40436
-#EXTINF:-1 tvg-id="GLOBO REDE AMAZONICA" tvg-name="GLOBO AMAZONAS SD+" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO AMAZONAS SD+
-http://list.deeplist.nl:80/wer16520/16520/38451
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA HD" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA HD
-http://list.deeplist.nl:80/wer16520/16520/58122
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD 1" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA SD 1
-http://list.deeplist.nl:80/wer16520/16520/52684
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD 2" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA SD 2
-http://list.deeplist.nl:80/wer16520/16520/58119
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD 3" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA SD 3
-http://list.deeplist.nl:80/wer16520/16520/58120
-#EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD+" tvg-logo="http://img.myapp.st/1559759519_28b3f0daa2a85ff41007f87d7eebe2bcff3079ca.jpg" group-title="Canais Abertos",GLOBO BAHIA SD+
-http://list.deeplist.nl:80/wer16520/16520/58121
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD
-http://list.deeplist.nl:80/wer16520/16520/17121
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA HD+
-http://list.deeplist.nl:80/wer16520/16520/21804
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 1
-http://list.deeplist.nl:80/wer16520/16520/38664
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 2
-http://list.deeplist.nl:80/wer16520/16520/38665
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 3
-http://list.deeplist.nl:80/wer16520/16520/38666
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD 4
-http://list.deeplist.nl:80/wer16520/16520/2512
-#EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO BRASILIA SD+
-http://list.deeplist.nl:80/wer16520/16520/22363
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ HD" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ HD
-http://list.deeplist.nl:80/wer16520/16520/58126
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ SD 1" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ SD 1
-http://list.deeplist.nl:80/wer16520/16520/52681
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ SD 2" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ SD 2
-http://list.deeplist.nl:80/wer16520/16520/58123
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ SD 3" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ SD 3
-http://list.deeplist.nl:80/wer16520/16520/58124
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO CEARÁ SD+" tvg-logo="http://img.myapp.st/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO CEARÁ SD+
-http://list.deeplist.nl:80/wer16520/16520/58125
-#EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV CAMPINAS
-http://list.deeplist.nl:80/wer16520/16520/17962
-#EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="http://img.starbr.in/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV RIBEIRAO PRETO
-http://list.deeplist.nl:80/wer16520/16520/48800
-#EXTINF:-1 tvg-id="GLOBO EPTV SAO CARLOS" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760101_ca6b3ecd30c2051984e325b09c5623905d213e43.jpg" group-title="Canais Abertos",GLOBO EPTV SAO CARLOS
-http://list.deeplist.nl:80/wer16520/16520/56877
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO HD" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO HD
-http://list.deeplist.nl:80/wer16520/16520/58131
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO SD 1" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO SD 1
-http://list.deeplist.nl:80/wer16520/16520/58127
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO SD 2" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO SD 2
-http://list.deeplist.nl:80/wer16520/16520/58128
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO SD 3" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO SD 3
-http://list.deeplist.nl:80/wer16520/16520/58129
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO ESPÍRITO SANTO SD+" tvg-logo="http://img.myapp.st/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO ESPÍRITO SANTO SD+
-http://list.deeplist.nl:80/wer16520/16520/58130
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS HD" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS HD
-http://list.deeplist.nl:80/wer16520/16520/49719
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS SD 1" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS SD 1
-http://list.deeplist.nl:80/wer16520/16520/49716
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS SD 2" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS SD 2
-http://list.deeplist.nl:80/wer16520/16520/49717
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS SD 3" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS SD 3
-http://list.deeplist.nl:80/wer16520/16520/2511
-#EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO GOIÁS SD+" tvg-logo="http://img.starbr.in/1559759447_86158d3f8122856c1448af452519720e40c576e0.jpg" group-title="Canais Abertos",GLOBO GOIÁS SD+
-http://list.deeplist.nl:80/wer16520/16520/49718
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO HD" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO HD
-http://list.deeplist.nl:80/wer16520/16520/58140
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO SD 1" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO SD 1
-http://list.deeplist.nl:80/wer16520/16520/58136
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO SD 2" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO SD 2
-http://list.deeplist.nl:80/wer16520/16520/58137
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO SD 3" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO SD 3
-http://list.deeplist.nl:80/wer16520/16520/58138
-#EXTINF:-1 tvg-id="GLOBO TV MIRANTE SAO LUIS" tvg-name="GLOBO MARANHÃO SD+" tvg-logo="http://img.myapp.st/1561323379_28a772d83d5e14911ce5bb9591c572eb49f3c5aa.jpg" group-title="Canais Abertos",GLOBO MARANHÃO SD+
-http://list.deeplist.nl:80/wer16520/16520/58139
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS HD
-http://list.deeplist.nl:80/wer16520/16520/17129
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS HD+
-http://list.deeplist.nl:80/wer16520/16520/21803
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD 1
-http://list.deeplist.nl:80/wer16520/16520/38654
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD 2
-http://list.deeplist.nl:80/wer16520/16520/38655
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD 3
-http://list.deeplist.nl:80/wer16520/16520/38656
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD 4
-http://list.deeplist.nl:80/wer16520/16520/2412
-#EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS GERAIS SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO MINAS GERAIS SD+
-http://list.deeplist.nl:80/wer16520/16520/22367
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS HD" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS HD
-http://list.deeplist.nl:80/wer16520/16520/5085
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 1" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 1
-http://list.deeplist.nl:80/wer16520/16520/38716
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 2" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 2
-http://list.deeplist.nl:80/wer16520/16520/38715
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD 3" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD 3
-http://list.deeplist.nl:80/wer16520/16520/38714
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-name="GLOBO NEWS SD+" tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png" group-title="Noticias",GLOBO NEWS SD+
-http://list.deeplist.nl:80/wer16520/16520/23980
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ HD" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ HD
-http://list.deeplist.nl:80/wer16520/16520/58105
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ SD 1" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ SD 1
-http://list.deeplist.nl:80/wer16520/16520/58101
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ SD 2" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ SD 2
-http://list.deeplist.nl:80/wer16520/16520/58102
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ SD 3" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ SD 3
-http://list.deeplist.nl:80/wer16520/16520/58103
-#EXTINF:-1 tvg-id="GLOBO TV LIBERAL BELEM" tvg-name="GLOBO PARÁ SD+" tvg-logo="http://img.myapp.st/1579453528_0bd5d9f524e1fdaa426a5b78ce2ab89550356c76.jpg" group-title="Canais Abertos",GLOBO PARÁ SD+
-http://list.deeplist.nl:80/wer16520/16520/58104
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ HD" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ HD
-http://list.deeplist.nl:80/wer16520/16520/58113
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ SD 1" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ SD 1
-http://list.deeplist.nl:80/wer16520/16520/52606
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ SD 2" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ SD 2
-http://list.deeplist.nl:80/wer16520/16520/58060
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ SD 3" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ SD 3
-http://list.deeplist.nl:80/wer16520/16520/58111
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO PARANÁ SD+" tvg-logo="http://img.starbr.in/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO PARANÁ SD+
-http://list.deeplist.nl:80/wer16520/16520/58112
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO HD
-http://list.deeplist.nl:80/wer16520/16520/17130
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD 1
-http://list.deeplist.nl:80/wer16520/16520/38667
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD 2
-http://list.deeplist.nl:80/wer16520/16520/38668
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD 3
-http://list.deeplist.nl:80/wer16520/16520/38669
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD 4
-http://list.deeplist.nl:80/wer16520/16520/15405
-#EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO PERNAMBUCO SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO PERNAMBUCO SD+
-http://list.deeplist.nl:80/wer16520/16520/22371
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RBS TV PORTO ALEGRE
-http://list.deeplist.nl:80/wer16520/16520/58695
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO HD
-http://list.deeplist.nl:80/wer16520/16520/1207
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO HD+
-http://list.deeplist.nl:80/wer16520/16520/21801
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD 1
-http://list.deeplist.nl:80/wer16520/16520/38661
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD 2
-http://list.deeplist.nl:80/wer16520/16520/38662
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD 3
-http://list.deeplist.nl:80/wer16520/16520/38663
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD 4
-http://list.deeplist.nl:80/wer16520/16520/2508
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-name="GLOBO RIO DE JANEIRO SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RIO DE JANEIRO SD+
-http://list.deeplist.nl:80/wer16520/16520/22209
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE HD" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE HD
-http://list.deeplist.nl:80/wer16520/16520/58135
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE SD 1" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE SD 1
-http://list.deeplist.nl:80/wer16520/16520/52685
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE SD 2" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE SD 2
-http://list.deeplist.nl:80/wer16520/16520/58132
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE SD 3" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE SD 3
-http://list.deeplist.nl:80/wer16520/16520/58133
-#EXTINF:-1 tvg-id="GLOBO INTER TV CABUGI" tvg-name="GLOBO RIO GRANDE DO NORTE SD+" tvg-logo="http://img.myapp.st/1559760188_94005d76e4a4a4337a377e2d5185ad3b3b3a1099.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO NORTE SD+
-http://list.deeplist.nl:80/wer16520/16520/58134
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL HD" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL HD
-http://list.deeplist.nl:80/wer16520/16520/58110
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL SD 1" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL SD 1
-http://list.deeplist.nl:80/wer16520/16520/58106
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL SD 2" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL SD 2
-http://list.deeplist.nl:80/wer16520/16520/58107
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL SD 3" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL SD 3
-http://list.deeplist.nl:80/wer16520/16520/58108
-#EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE" tvg-name="GLOBO RIO GRANDE DO SUL SD+" tvg-logo="http://img.myapp.st/1579454890_d85477b7b0902336baf453d380916782e4278b63.jpg" group-title="Canais Abertos",GLOBO RIO GRANDE DO SUL SD+
-http://list.deeplist.nl:80/wer16520/16520/58109
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO RONDÔNIA SD 1" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO RONDÔNIA SD 1
-http://list.deeplist.nl:80/wer16520/16520/49715
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO RONDÔNIA SD 3" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO RONDÔNIA SD 3
-http://list.deeplist.nl:80/wer16520/16520/49714
-#EXTINF:-1 tvg-id="GLOBO TV RONDONIA" tvg-name="GLOBO RONDÔNIA SD+" tvg-logo="http://img.starbr.in/1559759255_bea5ead27a3c40a53253cbefee3add925b60b52f.png" group-title="Canais Abertos",GLOBO RONDÔNIA SD+
-http://list.deeplist.nl:80/wer16520/16520/49713
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 1
-http://list.deeplist.nl:80/wer16520/16520/49730
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD 3
-http://list.deeplist.nl:80/wer16520/16520/49731
-#EXTINF:-1 tvg-id="GLOBO RORAIMA" tvg-name="GLOBO RORAIMA SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO RORAIMA SD+
-http://list.deeplist.nl:80/wer16520/16520/49732
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO RPC" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC
-http://list.deeplist.nl:80/wer16520/16520/58696
-#EXTINF:-1 tvg-id="GLOBO RPC CURITIBA" tvg-name="GLOBO RPC HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759357_313fc13c0c4c48f39900b69012e1917edf86c8cd.png" group-title="Canais Abertos",GLOBO RPC HD
-http://list.deeplist.nl:80/wer16520/16520/58719
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA HD" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA HD
-http://list.deeplist.nl:80/wer16520/16520/58118
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA SD 1" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA SD 1
-http://list.deeplist.nl:80/wer16520/16520/58114
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA SD 2" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA SD 2
-http://list.deeplist.nl:80/wer16520/16520/58115
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA SD 3" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA SD 3
-http://list.deeplist.nl:80/wer16520/16520/58116
-#EXTINF:-1 tvg-id="GLOBO NSC FLORIANÓPOLIS" tvg-name="GLOBO SANTA CATARINA SD+" tvg-logo="http://img.myapp.st/1579455733_8c8d0ba03edf865990fa5c339d70cb4935ea490a.jpg" group-title="Canais Abertos",GLOBO SANTA CATARINA SD+
-http://list.deeplist.nl:80/wer16520/16520/58117
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO HD" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO HD
-http://list.deeplist.nl:80/wer16520/16520/17122
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO HD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO HD+
-http://list.deeplist.nl:80/wer16520/16520/21800
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD 1" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD 1
-http://list.deeplist.nl:80/wer16520/16520/38657
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD 2" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD 2
-http://list.deeplist.nl:80/wer16520/16520/38658
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD 3" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD 3
-http://list.deeplist.nl:80/wer16520/16520/38659
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD 4" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD 4
-http://list.deeplist.nl:80/wer16520/16520/1024
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO SÃO PAULO SD+" tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg" group-title="Canais Abertos",GLOBO SÃO PAULO SD+
-http://list.deeplist.nl:80/wer16520/16520/22359
-#EXTINF:-1 tvg-id="GLOBO TV CENTRO AMERICA" tvg-name="GLOBO TV CENTRO AMERICA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759583_f31255faf1deb50addda12d3a3727c4d68299b35.png" group-title="Variedades e Musicas",GLOBO TV CENTRO AMERICA
-http://list.deeplist.nl:80/wer16520/16520/52683
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="GLOBO TV GAZETA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759757_f4541f08c46af05346cee4cbdc466d7ca48eb4c7.jpg" group-title="Canais Abertos",GLOBO TV GAZETA
-http://list.deeplist.nl:80/wer16520/16520/58717
-#EXTINF:-1 tvg-id="GLOBO TV SERGIPE" tvg-name="GLOBO TV SERGIPE" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1561325788_1e4af107b84d8d13d278c050bcd56d66703ae63c.jpg" group-title="Canais Abertos",GLOBO TV SERGIPE
-http://list.deeplist.nl:80/wer16520/16520/58697
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559759996_99ccece1b6f8192e552f11b4ed679715ec7fd112.jpg" group-title="Noticias",GLOBO TV VANGUARDA
-http://list.deeplist.nl:80/wer16520/16520/52682
-#EXTINF:-1 tvg-id="GLOBO TV VERDES MARES" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559760048_d547b8891fa670475e7d52c8e72ecc87aa5bc1ab.png" group-title="Canais Abertos",GLOBO TV VERDES MARES FORTALEZA
-http://list.deeplist.nl:80/wer16520/16520/58699
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB HD" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB HD
-http://list.deeplist.nl:80/wer16520/16520/5086
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD 1" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD 1
-http://list.deeplist.nl:80/wer16520/16520/38719
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD 2" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD 2
-http://list.deeplist.nl:80/wer16520/16520/38718
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD 3" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD 3
-http://list.deeplist.nl:80/wer16520/16520/38717
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB SD+" tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg" group-title="Infantil",GLOOB SD+
-http://list.deeplist.nl:80/wer16520/16520/28406
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO HD" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO HD
-http://list.deeplist.nl:80/wer16520/16520/17136
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO SD 1" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO SD 1
-http://list.deeplist.nl:80/wer16520/16520/38723
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO SD 2" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO SD 2
-http://list.deeplist.nl:80/wer16520/16520/38724
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO SD 3" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO SD 3
-http://list.deeplist.nl:80/wer16520/16520/38725
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO SD+" tvg-logo="http://img.starbr.in/1559761497_8382ba25686c559044350d3ef4fc9fc050c4bee4.png" group-title="Infantil",GLOOBINHO SD+
-http://list.deeplist.nl:80/wer16520/16520/23976
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT HD
-http://list.deeplist.nl:80/wer16520/16520/2466
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 1" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD 1
-http://list.deeplist.nl:80/wer16520/16520/38752
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 2" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD 2
-http://list.deeplist.nl:80/wer16520/16520/38751
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD 3" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD 3
-http://list.deeplist.nl:80/wer16520/16520/38750
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT SD+" tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg" group-title="Variedades e Musicas",GNT SD+
-http://list.deeplist.nl:80/wer16520/16520/24290
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios",H2
-http://list.deeplist.nl:80/wer16520/16520/2486
-#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png" group-title="Documentarios",H2 HD
-http://list.deeplist.nl:80/wer16520/16520/1021
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title="Filmes e Series",HBO
-http://list.deeplist.nl:80/wer16520/16520/1020
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://img.starbr.in/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title="Filmes e Series",HBO 2
-http://list.deeplist.nl:80/wer16520/16520/2489
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559761827_5aaa156f4572e5e678fae272a3c103da9a7a0ed6.png" group-title="Filmes e Series",HBO 2 HD
-http://list.deeplist.nl:80/wer16520/16520/52583
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Filmes e Series",HBO FAMILY
-http://list.deeplist.nl:80/wer16520/16520/1016
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY HD" tvg-logo="http://img.starbr.in/1559761893_01080c8b3204e55ac25c697b0474c2db0d0ce1c5.png" group-title="Filmes e Series",HBO FAMILY HD
-http://list.deeplist.nl:80/wer16520/16520/2392
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://img.starbr.in/1559761759_1d66b76a8b8286f521bdf7f4b0750f9bf10a8ec3.png" group-title="Filmes e Series",HBO HD
-http://list.deeplist.nl:80/wer16520/16520/1209
-#EXTINF:-1 tvg-id="MAX" tvg-name="HBO MUNDI" tvg-logo="http://img.myapp.st/1581121936_50a3f7c503b77778d785e90df0145c8fd76d1152.jpg" group-title="Filmes e Series",HBO MUNDI
-http://list.deeplist.nl:80/wer16520/16520/1007
-#EXTINF:-1 tvg-id="MAX" tvg-name="HBO MUNDI HD" tvg-logo="http://img.myapp.st/1581121936_50a3f7c503b77778d785e90df0145c8fd76d1152.jpg" group-title="Filmes e Series",HBO MUNDI HD
-http://list.deeplist.nl:80/wer16520/16520/5089
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title="Filmes e Series",HBO PLUS
-http://list.deeplist.nl:80/wer16520/16520/52672
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762040_77185eac2297557cfa23c38270dbf7383daaf5ad.png" group-title="Filmes e Series",HBO PLUS HD
-http://list.deeplist.nl:80/wer16520/16520/52671
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="HBO POP" tvg-logo="http://img.myapp.st/1581122016_4f8ba1fbd07a3f3d7f95a165f799f2a8dbeac866.jpg" group-title="Filmes e Series",HBO POP
-http://list.deeplist.nl:80/wer16520/16520/1005
-#EXTINF:-1 tvg-id="MAX UP" tvg-name="HBO POP HD" tvg-logo="http://img.myapp.st/1581122016_4f8ba1fbd07a3f3d7f95a165f799f2a8dbeac866.jpg" group-title="Filmes e Series",HBO POP HD
-http://list.deeplist.nl:80/wer16520/16520/58701
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title="Filmes e Series",HBO SIGNATURE
-http://list.deeplist.nl:80/wer16520/16520/2488
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE HD" tvg-logo="http://img.starbr.in/1559762087_4484b1196124231578e93b9f38c35b5d283f2b6b.png" group-title="Filmes e Series",HBO SIGNATURE HD
-http://list.deeplist.nl:80/wer16520/16520/1013
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="HBO XTREME" tvg-logo="http://img.myapp.st/1581122147_cd5410647c5e9678438ecb484b21f4177fa6e6d1.jpg" group-title="Filmes e Series",HBO XTREME
-http://list.deeplist.nl:80/wer16520/16520/1006
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="HBO XTREME HD" tvg-logo="http://img.myapp.st/1581122147_cd5410647c5e9678438ecb484b21f4177fa6e6d1.jpg" group-title="Filmes e Series",HBO XTREME HD
-http://list.deeplist.nl:80/wer16520/16520/5090
-#EXTINF:-1 tvg-id="IDEAL TV" tvg-name="IDEAL TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762336_99c05f4b930b4e05813dc79cc71f361500f4339e.png" group-title="Variedades e Musicas",IDEAL TV
-http://list.deeplist.nl:80/wer16520/16520/52673
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY" tvg-logo="http://img.starbr.in/1559762432_ff9b16c225bc3ba42286933f4b1b5018c99e7b60.jpg" group-title="Documentarios",INVESTIGACAO DISCOVERY
-http://list.deeplist.nl:80/wer16520/16520/1011
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-name="INVESTIGACAO DISCOVERY HD" tvg-logo="http://img.starbr.in/1559762432_ff9b16c225bc3ba42286933f4b1b5018c99e7b60.jpg" group-title="Documentarios",INVESTIGACAO DISCOVERY HD
-http://list.deeplist.nl:80/wer16520/16520/2469
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://img.starbr.in/1559762507_fc26b265df648c38c77d65cb7285d1e08323b311.png" group-title="Variedades e Musicas",LIFETIME
-http://list.deeplist.nl:80/wer16520/16520/2492
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME HD" tvg-logo="http://img.starbr.in/1559762507_fc26b265df648c38c77d65cb7285d1e08323b311.png" group-title="Variedades e Musicas",LIFETIME HD
-http://list.deeplist.nl:80/wer16520/16520/5087
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="MAIS GLOBOSAT HD" tvg-logo="http://img.starbr.in/1559762573_a9c98b1ed3bbd822e5e07390cc0c912e10271869.png" group-title="Variedades e Musicas",MAIS GLOBOSAT HD
-http://list.deeplist.nl:80/wer16520/16520/5088
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="MAIS GLOBOSAT SD 1" tvg-logo="http://img.starbr.in/1559762573_a9c98b1ed3bbd822e5e07390cc0c912e10271869.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD 1
-http://list.deeplist.nl:80/wer16520/16520/38749
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="MAIS GLOBOSAT SD 2" tvg-logo="http://img.starbr.in/1559762573_a9c98b1ed3bbd822e5e07390cc0c912e10271869.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD 2
-http://list.deeplist.nl:80/wer16520/16520/38748
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="MAIS GLOBOSAT SD 3" tvg-logo="http://img.starbr.in/1559762573_a9c98b1ed3bbd822e5e07390cc0c912e10271869.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD 3
-http://list.deeplist.nl:80/wer16520/16520/38747
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="MAIS GLOBOSAT SD+" tvg-logo="http://img.starbr.in/1559762573_a9c98b1ed3bbd822e5e07390cc0c912e10271869.png" group-title="Variedades e Musicas",MAIS GLOBOSAT SD+
-http://list.deeplist.nl:80/wer16520/16520/28398
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title="Filmes e Series",MEGAPIX
-http://list.deeplist.nl:80/wer16520/16520/52585
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559762850_96d6e189ce41f2c1050ec0095ff91dfff5577169.png" group-title="Filmes e Series",MEGAPIX HD
-http://list.deeplist.nl:80/wer16520/16520/52584
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://img.starbr.in/1559762902_95972e29e78aef677d4eb3b94e58b6b51d6d72d7.jpg" group-title="Variedades e Musicas",MTV
-http://list.deeplist.nl:80/wer16520/16520/5092
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW HD" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW HD
-http://list.deeplist.nl:80/wer16520/16520/2385
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW SD 1" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW SD 1
-http://list.deeplist.nl:80/wer16520/16520/38731
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW SD 2" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW SD 2
-http://list.deeplist.nl:80/wer16520/16520/38730
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW SD 3" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW SD 3
-http://list.deeplist.nl:80/wer16520/16520/38729
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW SD+" tvg-logo="http://img.starbr.in/1559762958_b02df352bf66242149d4418dfedce17c7641cb28.png" group-title="Variedades e Musicas",MULTISHOW SD+
-http://list.deeplist.nl:80/wer16520/16520/24286
-#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-name="MUSIC BOX BRASIL" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763128_00ba37f60215e6c28518845c29afbcb9f35def36.png" group-title="Variedades e Musicas",MUSIC BOX BRASIL
-http://list.deeplist.nl:80/wer16520/16520/52674
-#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-name="NATGEO KIDS" tvg-logo="http://img.starbr.in/1559763203_6f273c8c781fca8c278db4fe41472e5976070ff6.png" group-title="Infantil",NATGEO KIDS
-http://list.deeplist.nl:80/wer16520/16520/11965
-#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-name="NATGEO KIDS HD" tvg-logo="http://img.starbr.in/1559763203_6f273c8c781fca8c278db4fe41472e5976070ff6.png" group-title="Infantil",NATGEO KIDS HD
-http://list.deeplist.nl:80/wer16520/16520/11996
-#EXTINF:-1 tvg-id="NATGEO WILD" tvg-name="NATGEO WILD" tvg-logo="http://img.starbr.in/1559763269_0911abd3e596cd1647b29da386097cc9880bb72e.png" group-title="Documentarios",NATGEO WILD
-http://list.deeplist.nl:80/wer16520/16520/995
-#EXTINF:-1 tvg-id="NATGEO WILD" tvg-name="NATGEO WILD HD" tvg-logo="http://img.starbr.in/1559763269_0911abd3e596cd1647b29da386097cc9880bb72e.png" group-title="Documentarios",NATGEO WILD HD
-http://list.deeplist.nl:80/wer16520/16520/994
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHICS" tvg-name="NATIONAL GEOGRAPHICS" tvg-logo="http://img.starbr.in/1559763330_5716929597eb7e2dbc4e4a4a97abe4cca421765b.jpg" group-title="Documentarios",NATIONAL GEOGRAPHICS
-http://list.deeplist.nl:80/wer16520/16520/991
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHICS" tvg-name="NATIONAL GEOGRAPHICS HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763330_5716929597eb7e2dbc4e4a4a97abe4cca421765b.jpg" group-title="Documentarios",NATIONAL GEOGRAPHICS HD
-http://list.deeplist.nl:80/wer16520/16520/52586
-#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763392_70688ae81b8039631d6018841784408bf2b48a2d.jpg" group-title="Variedades e Musicas",NBR
-http://list.deeplist.nl:80/wer16520/16520/52675
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="http://img.starbr.in/1559763444_ada00b03cb0653305abafae98a9b9b4ed07baa60.jpg" group-title="Variedades e Musicas",NHK
-http://list.deeplist.nl:80/wer16520/16520/2495
-#EXTINF:-1 tvg-id="NICK" tvg-name="NICK" tvg-logo="http://img.starbr.in/1559763480_5b7e41329f4ce3cdd75f9cdd9276de4db9cfda70.jpg" group-title="Infantil",NICK
-http://list.deeplist.nl:80/wer16520/16520/1206
-#EXTINF:-1 tvg-id="NICK" tvg-name="NICK HD" tvg-logo="http://img.starbr.in/1559763480_5b7e41329f4ce3cdd75f9cdd9276de4db9cfda70.jpg" group-title="Infantil",NICK HD
-http://list.deeplist.nl:80/wer16520/16520/5093
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="http://img.starbr.in/1559763550_26e1a07cd8dbf052da0a3d4c657e8d9e6008c222.png" group-title="Infantil",NICK JR
-http://list.deeplist.nl:80/wer16520/16520/986
-#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR HD" tvg-logo="http://img.starbr.in/1559763550_26e1a07cd8dbf052da0a3d4c657e8d9e6008c222.png" group-title="Infantil",NICK JR HD
-http://list.deeplist.nl:80/wer16520/16520/16210
-#EXTINF:-1 tvg-id="NOVO TEMPO" tvg-name="NOVO TEMPO" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763598_3856efd18df8ce7529e8fca1c321f76a1f2061c8.jpg" group-title="Canais Abertos",NOVO TEMPO
-http://list.deeplist.nl:80/wer16520/16520/52678
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF HD" tvg-logo="http://img.starbr.in/1559763661_8e51b43540e7451558db8fdc84b6851cec617d08.png" group-title="Variedades e Musicas",OFF HD
-http://list.deeplist.nl:80/wer16520/16520/2471
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD 1" tvg-logo="http://img.starbr.in/1559763661_8e51b43540e7451558db8fdc84b6851cec617d08.png" group-title="Variedades e Musicas",OFF SD 1
-http://list.deeplist.nl:80/wer16520/16520/38728
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD 2" tvg-logo="http://img.starbr.in/1559763661_8e51b43540e7451558db8fdc84b6851cec617d08.png" group-title="Variedades e Musicas",OFF SD 2
-http://list.deeplist.nl:80/wer16520/16520/38727
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD 3" tvg-logo="http://img.starbr.in/1559763661_8e51b43540e7451558db8fdc84b6851cec617d08.png" group-title="Variedades e Musicas",OFF SD 3
-http://list.deeplist.nl:80/wer16520/16520/38726
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF SD+" tvg-logo="http://img.starbr.in/1559763661_8e51b43540e7451558db8fdc84b6851cec617d08.png" group-title="Variedades e Musicas",OFF SD+
-http://list.deeplist.nl:80/wer16520/16520/28420
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title="Filmes e Series",PARAMOUNT CHANNEL
-http://list.deeplist.nl:80/wer16520/16520/980
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://img.starbr.in/1559763768_da459707ae1064bd6512c81181780fa0af78a857.png" group-title="Filmes e Series",PARAMOUNT CHANNEL HD
-http://list.deeplist.nl:80/wer16520/16520/2472
-#EXTINF:-1 tvg-id="PLAY TV" tvg-name="PLAY TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763836_7f74d77c777ddb1d2a1d641e408f6c4d284b7eb4.png" group-title="Variedades e Musicas",PLAY TV
-http://list.deeplist.nl:80/wer16520/16520/52679
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD 1" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES SD 1
-http://list.deeplist.nl:80/wer16520/16520/38672
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD 2" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES SD 2
-http://list.deeplist.nl:80/wer16520/16520/38673
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD 3" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES SD 3
-http://list.deeplist.nl:80/wer16520/16520/38674
-#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="PREMIERE CLUBES SD+" tvg-logo="http://img.starbr.in/1559764209_74d30997828ad52da3424f0912a94a9d3d42cc02.jpg" group-title="Esportes",PREMIERE CLUBES SD+
-http://list.deeplist.nl:80/wer16520/16520/25246
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-name="PRIME BOX BRASIL" tvg-logo="http://img.starbr.in/1559765083_0790a4ed0824a05cad12d5df66294c1b95602568.png" group-title="Variedades e Musicas",PRIME BOX BRASIL
-http://list.deeplist.nl:80/wer16520/16520/969
-#EXTINF:-1 tvg-id="RECORD BA" tvg-name="RECORD BA HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD BA HD
-http://list.deeplist.nl:80/wer16520/16520/29367
-#EXTINF:-1 tvg-id="RECORD BA" tvg-name="RECORD BA SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD BA SD 1
-http://list.deeplist.nl:80/wer16520/16520/38836
-#EXTINF:-1 tvg-id="RECORD BA" tvg-name="RECORD BA SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD BA SD 2
-http://list.deeplist.nl:80/wer16520/16520/29366
-#EXTINF:-1 tvg-id="RECORD BA" tvg-name="RECORD BA SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD BA SD+
-http://list.deeplist.nl:80/wer16520/16520/38431
-#EXTINF:-1 tvg-id="RECORD DF" tvg-name="RECORD DF HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD DF HD
-http://list.deeplist.nl:80/wer16520/16520/29364
-#EXTINF:-1 tvg-id="RECORD DF" tvg-name="RECORD DF SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD DF SD 1
-http://list.deeplist.nl:80/wer16520/16520/38780
-#EXTINF:-1 tvg-id="RECORD DF" tvg-name="RECORD DF SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD DF SD 2
-http://list.deeplist.nl:80/wer16520/16520/29365
-#EXTINF:-1 tvg-id="RECORD DF" tvg-name="RECORD DF SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD DF SD+
-http://list.deeplist.nl:80/wer16520/16520/38418
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO HD
-http://list.deeplist.nl:80/wer16520/16520/47529
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD 1
-http://list.deeplist.nl:80/wer16520/16520/47532
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD 2
-http://list.deeplist.nl:80/wer16520/16520/47531
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD+
-http://list.deeplist.nl:80/wer16520/16520/47530
-#EXTINF:-1 tvg-id="RECORD MG" tvg-name="RECORD MG HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD MG HD
-http://list.deeplist.nl:80/wer16520/16520/29369
-#EXTINF:-1 tvg-id="RECORD MG" tvg-name="RECORD MG SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD MG SD 1
-http://list.deeplist.nl:80/wer16520/16520/38782
-#EXTINF:-1 tvg-id="RECORD MG" tvg-name="RECORD MG SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD MG SD 2
-http://list.deeplist.nl:80/wer16520/16520/29368
-#EXTINF:-1 tvg-id="RECORD MG" tvg-name="RECORD MG SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD MG SD+
-http://list.deeplist.nl:80/wer16520/16520/38430
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS HD" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS HD
-http://list.deeplist.nl:80/wer16520/16520/2400
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS SD 1" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS SD 1
-http://list.deeplist.nl:80/wer16520/16520/38784
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS SD 2" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS SD 2
-http://list.deeplist.nl:80/wer16520/16520/966
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS SD+" tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png" group-title="Noticias",RECORD NEWS SD+
-http://list.deeplist.nl:80/wer16520/16520/38443
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD PA HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD PA HD
-http://list.deeplist.nl:80/wer16520/16520/47555
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD PA SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD PA SD 1
-http://list.deeplist.nl:80/wer16520/16520/47553
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD PA SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD PA SD 2
-http://list.deeplist.nl:80/wer16520/16520/47552
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD PA SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD PA SD+
-http://list.deeplist.nl:80/wer16520/16520/47554
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ HD
-http://list.deeplist.nl:80/wer16520/16520/29371
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ SD 1
-http://list.deeplist.nl:80/wer16520/16520/38767
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ SD 2
-http://list.deeplist.nl:80/wer16520/16520/29370
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RJ SD+
-http://list.deeplist.nl:80/wer16520/16520/38419
-#EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS HD
-http://list.deeplist.nl:80/wer16520/16520/29373
-#EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS SD 1
-http://list.deeplist.nl:80/wer16520/16520/38838
-#EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS SD 2
-http://list.deeplist.nl:80/wer16520/16520/29372
-#EXTINF:-1 tvg-id="RECORD RS" tvg-name="RECORD RS SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD RS SD+
-http://list.deeplist.nl:80/wer16520/16520/38433
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP HD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP HD
-http://list.deeplist.nl:80/wer16520/16520/1210
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP SD 1
-http://list.deeplist.nl:80/wer16520/16520/38765
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP SD 2
-http://list.deeplist.nl:80/wer16520/16520/1710
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD SP SD+
-http://list.deeplist.nl:80/wer16520/16520/38429
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-name="REDE BRASIL" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559765800_8740620e54be3fbe06099508f0896df62c3daaa3.jpg" group-title="Canais Abertos",REDE BRASIL
-http://list.deeplist.nl:80/wer16520/16520/52676
-#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="http://img.starbr.in/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV
-http://list.deeplist.nl:80/wer16520/16520/963
-#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559765918_384ff04a3316bd4769202aacf0d5f7f3f7e942f9.png" group-title="Canais Abertos",REDE TV HD
-http://list.deeplist.nl:80/wer16520/16520/52587
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA" tvg-logo="http://img.starbr.in/1559765959_6d6a9aeb4b5c8eea3a431fdc2f1c70b433db0572.jpg" group-title="Religioso",REDE VIDA
-http://list.deeplist.nl:80/wer16520/16520/2499
-#EXTINF:-1 tvg-id="REDE VIDA" tvg-name="REDE VIDA HD" tvg-logo="http://img.starbr.in/1559765959_6d6a9aeb4b5c8eea3a431fdc2f1c70b433db0572.jpg" group-title="Religioso",REDE VIDA HD
-http://list.deeplist.nl:80/wer16520/16520/58705
-#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559766014_20fef172b57520055f289b2768c0dddf49c5e9e7.png" group-title="Religioso",RIT TV
-http://list.deeplist.nl:80/wer16520/16520/52680
-#EXTINF:-1 tvg-id="SBT DIFUSORA" tvg-name="SBT DIFUSORA" tvg-logo="http://img.starbr.in/1559766096_2afe16915481b045e888571e41f697ee42089a6f.png" group-title="Canais Abertos",SBT DIFUSORA
-http://list.deeplist.nl:80/wer16520/16520/37793
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT GOIAS HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT GOIAS HD
-http://list.deeplist.nl:80/wer16520/16520/58706
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT HD
-http://list.deeplist.nl:80/wer16520/16520/1208
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD+" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT HD+
-http://list.deeplist.nl:80/wer16520/16520/38919
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT NORDESTE HD" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT NORDESTE HD
-http://list.deeplist.nl:80/wer16520/16520/58707
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 1" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD 1
-http://list.deeplist.nl:80/wer16520/16520/38920
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 2" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD 2
-http://list.deeplist.nl:80/wer16520/16520/38921
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD 3" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD 3
-http://list.deeplist.nl:80/wer16520/16520/955
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD+" tvg-logo="http://img.starbr.in/1559766167_3e61ab4fa75ec2fa11ff17bc6d1886097d031795.png" group-title="Canais Abertos",SBT SD+
-http://list.deeplist.nl:80/wer16520/16520/38450
-#EXTINF:-1 tvg-id="SBT TV CIDADE VERDE" tvg-name="SBT TV CIDADE VERDE" tvg-logo="http://img.starbr.in/1559766249_5a20928a1547aacf9b03e1d9b06676b9035db913.png" group-title="Canais Abertos",SBT TV CIDADE VERDE
-http://list.deeplist.nl:80/wer16520/16520/37796
-#EXTINF:-1 tvg-id="SBT TV JORNAL" tvg-name="SBT TV JORNAL" tvg-logo="http://img.starbr.in/1559766312_7b420258a1ea039e2f2c4596d4505d9394da3636.jpg" group-title="Canais Abertos",SBT TV JORNAL
-http://list.deeplist.nl:80/wer16520/16520/37795
-#EXTINF:-1 tvg-id="SBT TV SERRA DOURADA" tvg-name="SBT TV SERRA DOURADA" tvg-logo="http://img.starbr.in/1559766370_8281233e785020d2ccb47dd70319f1a8cc05ea68.png" group-title="Canais Abertos",SBT TV SERRA DOURADA
-http://list.deeplist.nl:80/wer16520/16520/37843
-#EXTINF:-1 tvg-id="SBT TV SERRA DOURADA" tvg-name="SBT TV SERRA DOURADA HD" tvg-logo="http://img.starbr.in/1559766370_8281233e785020d2ccb47dd70319f1a8cc05ea68.png" group-title="Canais Abertos",SBT TV SERRA DOURADA HD
-http://list.deeplist.nl:80/wer16520/16520/37842
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="http://img.starbr.in/1559766866_9c82c923dafb334fa5a7b1b308b61a1a94cc1cd6.png" group-title="Filmes e Series",SONY
-http://list.deeplist.nl:80/wer16520/16520/1096
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY HD" tvg-logo="http://img.starbr.in/1559766866_9c82c923dafb334fa5a7b1b308b61a1a94cc1cd6.png" group-title="Filmes e Series",SONY HD
-http://list.deeplist.nl:80/wer16520/16520/2409
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title="Filmes e Series",SPACE
-http://list.deeplist.nl:80/wer16520/16520/2501
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE HD" tvg-logo="http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title="Filmes e Series",SPACE HD
-http://list.deeplist.nl:80/wer16520/16520/1327
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 HD" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 HD
-http://list.deeplist.nl:80/wer16520/16520/1203
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 SD 1" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD 1
-http://list.deeplist.nl:80/wer16520/16520/47528
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 SD 2" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD 2
-http://list.deeplist.nl:80/wer16520/16520/38706
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 SD 3" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD 3
-http://list.deeplist.nl:80/wer16520/16520/38707
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV 1 SD+" tvg-logo="http://img.starbr.in/1559766984_400420869701d90f1b3348ee115aa14467c403ec.png" group-title="Esportes",SPORTV 1 SD+
-http://list.deeplist.nl:80/wer16520/16520/47527
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 HD" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 HD
-http://list.deeplist.nl:80/wer16520/16520/2401
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 SD 1" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 SD 1
-http://list.deeplist.nl:80/wer16520/16520/38710
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 SD 2" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 SD 2
-http://list.deeplist.nl:80/wer16520/16520/38709
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 SD 3" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 SD 3
-http://list.deeplist.nl:80/wer16520/16520/38708
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SPORTV 2 SD+" tvg-logo="http://img.starbr.in/1559767136_beb250b47a8f261b8dc9f81c035ad059abf4b90d.jpg" group-title="Esportes",SPORTV 2 SD+
-http://list.deeplist.nl:80/wer16520/16520/22450
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 HD" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 HD
-http://list.deeplist.nl:80/wer16520/16520/2402
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 SD 1" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 SD 1
-http://list.deeplist.nl:80/wer16520/16520/38713
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 SD 2" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 SD 2
-http://list.deeplist.nl:80/wer16520/16520/38712
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 SD 3" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 SD 3
-http://list.deeplist.nl:80/wer16520/16520/38711
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SPORTV 3 SD+" tvg-logo="http://img.starbr.in/1559767279_50e3fb28e897b471b2d5ea3e671a2e62505ebc31.png" group-title="Esportes",SPORTV 3 SD+
-http://list.deeplist.nl:80/wer16520/16520/22454
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://img.starbr.in/1559767887_978f5018ea1c7b9a3b529306c6e90fcc9b4430b2.png" group-title="Filmes e Series",STUDIO UNIVERSAL
-http://list.deeplist.nl:80/wer16520/16520/2384
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://img.starbr.in/1559767887_978f5018ea1c7b9a3b529306c6e90fcc9b4430b2.png" group-title="Filmes e Series",STUDIO UNIVERSAL HD
-http://list.deeplist.nl:80/wer16520/16520/5094
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://img.starbr.in/1559767978_264d890564806d9bd4d65f24015abfd21d7d5edc.png" group-title="Filmes e Series",SYFY
-http://list.deeplist.nl:80/wer16520/16520/939
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY HD" tvg-logo="http://img.starbr.in/1559767978_264d890564806d9bd4d65f24015abfd21d7d5edc.png" group-title="Filmes e Series",SYFY HD
-http://list.deeplist.nl:80/wer16520/16520/18087
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://img.starbr.in/1559768045_dfb002c430a54d81e1872542455aecfbb8bd7a5b.png" group-title="Filmes e Series",TBS
-http://list.deeplist.nl:80/wer16520/16520/937
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://img.starbr.in/1559768045_dfb002c430a54d81e1872542455aecfbb8bd7a5b.png" group-title="Filmes e Series",TBS HD
-http://list.deeplist.nl:80/wer16520/16520/2473
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768471_301eda035c94a449755f1ea79b2208599af261b0.png" group-title="Filmes e Series",TCM
-http://list.deeplist.nl:80/wer16520/16520/52252
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION
-http://list.deeplist.nl:80/wer16520/16520/52589
-#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TELECINE ACTION HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Series",TELECINE ACTION HD
-http://list.deeplist.nl:80/wer16520/16520/52588
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Filmes e Series",TELECINE CULT
-http://list.deeplist.nl:80/wer16520/16520/933
-#EXTINF:-1 tvg-id="TC CULT" tvg-name="TELECINE CULT HD" tvg-logo="http://img.starbr.in/1559768182_1717ffef52357c6ffb97f32c3482c3e460e06287.jpg" group-title="Filmes e Series",TELECINE CULT HD
-http://list.deeplist.nl:80/wer16520/16520/5096
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Filmes e Series",TELECINE FUN
-http://list.deeplist.nl:80/wer16520/16520/931
-#EXTINF:-1 tvg-id="TC FUN" tvg-name="TELECINE FUN HD" tvg-logo="http://img.starbr.in/1559768244_cf9af94b93e3e9822e29adb9743aef3ed5802712.png" group-title="Filmes e Series",TELECINE FUN HD
-http://list.deeplist.nl:80/wer16520/16520/932
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA
-http://list.deeplist.nl:80/wer16520/16520/929
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA HD
-http://list.deeplist.nl:80/wer16520/16520/930
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM
-http://list.deeplist.nl:80/wer16520/16520/52591
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768374_3ab3da273f6376f805201173c21a95ebf05b9f28.png" group-title="Filmes e Series",TELECINE PREMIUM HD
-http://list.deeplist.nl:80/wer16520/16520/52590
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH
-http://list.deeplist.nl:80/wer16520/16520/926
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH HD" tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png" group-title="Filmes e Series",TELECINE TOUCH HD
-http://list.deeplist.nl:80/wer16520/16520/927
-#EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768549_d5280f7bfbf0918d0cf522c156b3f6f9b10aa3be.jpg" group-title="Variedades e Musicas",TERRA VIVA
-http://list.deeplist.nl:80/wer16520/16520/52689
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentarios",THE HISTORY CHANNEL
-http://list.deeplist.nl:80/wer16520/16520/923
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-name="THE HISTORY CHANNEL HD" tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png" group-title="Documentarios",THE HISTORY CHANNEL HD
-http://list.deeplist.nl:80/wer16520/16520/2468
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://img.starbr.in/1559768628_3c5f777fbb346843410bb847b692c0dab9968f0b.png" group-title="Variedades e Musicas",TLC
-http://list.deeplist.nl:80/wer16520/16520/922
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://img.starbr.in/1559768628_3c5f777fbb346843410bb847b692c0dab9968f0b.png" group-title="Variedades e Musicas",TLC HD
-http://list.deeplist.nl:80/wer16520/16520/5097
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title="Filmes e Series",TNT
-http://list.deeplist.nl:80/wer16520/16520/921
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title="Filmes e Series",TNT HD
-http://list.deeplist.nl:80/wer16520/16520/2383
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES" tvg-logo="http://img.starbr.in/1559768728_eb93074e60333bfa09df1e9f942483932fe75ee0.png" group-title="Filmes e Series",TNT SERIES
-http://list.deeplist.nl:80/wer16520/16520/1204
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-name="TNT SERIES HD" tvg-logo="http://img.starbr.in/1559768728_eb93074e60333bfa09df1e9f942483932fe75ee0.png" group-title="Filmes e Series",TNT SERIES HD
-http://list.deeplist.nl:80/wer16520/16520/2474
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://img.myapp.st/1559768777_383b0b099b79e33a1a2ec6fa9223c52e34de3da4.png" group-title="Infantil",TOONCAST
-http://list.deeplist.nl:80/wer16520/16520/50244
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST HD" tvg-logo="http://img.myapp.st/1559768777_383b0b099b79e33a1a2ec6fa9223c52e34de3da4.png" group-title="Infantil",TOONCAST HD
-http://list.deeplist.nl:80/wer16520/16520/58716
-#EXTINF:-1 tvg-id="TRU TV" tvg-name="TRU TV" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768819_eb6d0f6a18147e270934bd4e26735bdb7f7bbbf2.png" group-title="Filmes e Series",TRU TV
-http://list.deeplist.nl:80/wer16520/16520/52686
-#EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768868_9c1f8905531b9371a9b86e18b836b0bcb4b0e115.jpg" group-title="Canais Abertos",TV BRASIL
-http://list.deeplist.nl:80/wer16520/16520/52687
-#EXTINF:-1 tvg-id="TV EVANGELIZAR" tvg-name="TV EVANGELIZAR" tvg-logo="http://img.starbr.in/1559768926_a5c24561d966c1c21efa90db3b9a831c0d723c0a.jpg" group-title="Religioso",TV EVANGELIZAR
-http://list.deeplist.nl:80/wer16520/16520/11974
-#EXTINF:-1 tvg-id="TV MUNDIAL" tvg-name="TV MUNDIAL" tvg-logo="http://img.starbr.in/1559769034_0958ea8dcdff1ba5178a29a1e02fa3b1d3cc5856.jpg" group-title="Religioso",TV MUNDIAL
-http://list.deeplist.nl:80/wer16520/16520/11971
-#EXTINF:-1 tvg-id="AeE" tvg-name="TV PLAYKIDS" tvg-logo="http://img.myapp.st/1580651322_837128a0e44c86a6df495ddab9abe186e9c1e37a.jpg" group-title="Infantil",TV PLAYKIDS
-http://list.deeplist.nl:80/wer16520/16520/58766
-#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559769094_ba5a185ce0972deea92a8704e4122286223e79ee.png" group-title="Infantil",TV RA TIM BUM
-http://list.deeplist.nl:80/wer16520/16520/52248
-#EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559769228_febd1aa80929a7bc70a02accdeae625ab7d58004.png" group-title="Canais Abertos",TVE
-http://list.deeplist.nl:80/wer16520/16520/52688
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://img.starbr.in/1559769363_07757ac3ca69f90b02da98cb3214fe02462c89d7.png" group-title="Filmes e Series",UNIVERSAL CHANNEL
-http://list.deeplist.nl:80/wer16520/16520/940
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://img.starbr.in/1559769363_07757ac3ca69f90b02da98cb3214fe02462c89d7.png" group-title="Filmes e Series",UNIVERSAL CHANNEL HD
-http://list.deeplist.nl:80/wer16520/16520/2475
-#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-name="VH1 MEGA HITS" tvg-logo="http://img.starbr.in/1559769416_a51a51f9968d83ce169505e82221587e124a8094.png" group-title="Variedades e Musicas",VH1 MEGA HITS
-http://list.deeplist.nl:80/wer16520/16520/898
-#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-name="VH1 MEGA HITS HD" tvg-logo="http://img.starbr.in/1559769416_a51a51f9968d83ce169505e82221587e124a8094.png" group-title="Variedades e Musicas",VH1 MEGA HITS HD
-http://list.deeplist.nl:80/wer16520/16520/58718
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA HD" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Musicas",VIVA HD
-http://list.deeplist.nl:80/wer16520/16520/2476
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA SD 1" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Musicas",VIVA SD 1
-http://list.deeplist.nl:80/wer16520/16520/38722
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA SD 2" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Musicas",VIVA SD 2
-http://list.deeplist.nl:80/wer16520/16520/38721
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA SD 3" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Musicas",VIVA SD 3
-http://list.deeplist.nl:80/wer16520/16520/38720
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA SD+" tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg" group-title="Variedades e Musicas",VIVA SD+
-http://list.deeplist.nl:80/wer16520/16520/23984
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Series",WARNER CHANNEL
-http://list.deeplist.nl:80/wer16520/16520/896
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL HD" tvg-logo="http://img.starbr.in/1559769581_aa569a41e20a7b3833a7a28de6a221b7ac640138.png" group-title="Filmes e Series",WARNER CHANNEL HD
-http://list.deeplist.nl:80/wer16520/16520/2478
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://img.starbr.in/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Variedades e Musicas",WOOHOO
-http://list.deeplist.nl:80/wer16520/16520/894
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO HD" tvg-logo="http://img.starbr.in/1559769678_25ceb161ea2f20e368257c0852864cddca9aee96.jpg" group-title="Variedades e Musicas",WOOHOO HD
-http://list.deeplist.nl:80/wer16520/16520/16214
-#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-name="XxX: PLAYBOY TV" tvg-logo="http://img.starbr.in/1559769740_2e89abe45b95ba871009dd4e9ab94560da19a2ce.png" group-title="Adultos",XxX: PLAYBOY TV
-http://list.deeplist.nl:80/wer16520/16520/871
-#EXTINF:-1 tvg-id="SEXTREME" tvg-name="XxX: SEXTREME" tvg-logo="http://img.myapp.st/1559769850_59af1bf1be0a5f96477c86790cf2ea1226b1f1df.jpg" group-title="Adultos",XxX: SEXTREME
-http://list.deeplist.nl:80/wer16520/16520/853
-#EXTINF:-1 tvg-id="SEXY HOT" tvg-name="XxX: SEXY HOT HD" tvg-logo="http://img.starbr.in/1559769913_abb5ff7b55fb559f03b470118fe0a2ca4e30c23d.png" group-title="Adultos",XxX: SEXY HOT HD
-http://list.deeplist.nl:80/wer16520/16520/20825
-#EXTINF:-1 tvg-id="SEXY HOT" tvg-name="XxX: SEXY HOT SD 1" tvg-logo="http://img.starbr.in/1559769913_abb5ff7b55fb559f03b470118fe0a2ca4e30c23d.png" group-title="Adultos",XxX: SEXY HOT SD 1
-http://list.deeplist.nl:80/wer16520/16520/38734
-#EXTINF:-1 tvg-id="SEXY HOT" tvg-name="XxX: SEXY HOT SD 2" tvg-logo="http://img.starbr.in/1559769913_abb5ff7b55fb559f03b470118fe0a2ca4e30c23d.png" group-title="Adultos",XxX: SEXY HOT SD 2
-http://list.deeplist.nl:80/wer16520/16520/38733
-#EXTINF:-1 tvg-id="SEXY HOT" tvg-name="XxX: SEXY HOT SD 3" tvg-logo="http://img.starbr.in/1559769913_abb5ff7b55fb559f03b470118fe0a2ca4e30c23d.png" group-title="Adultos",XxX: SEXY HOT SD 3
-http://list.deeplist.nl:80/wer16520/16520/38732
-#EXTINF:-1 tvg-id="SEXY HOT" tvg-name="XxX: SEXY HOT SD+" tvg-logo="http://img.starbr.in/1559769913_abb5ff7b55fb559f03b470118fe0a2ca4e30c23d.png" group-title="Adultos",XxX: SEXY HOT SD+
-http://list.deeplist.nl:80/wer16520/16520/37772
-#EXTINF:-1 tvg-id="VENUS" tvg-name="XxX: VENUS" tvg-logo="http://img.starbr.in/1559770009_fe3e2aae75a00d561485067d4ccfe090b6552edd.png" group-title="Adultos",XxX: VENUS
-http://list.deeplist.nl:80/wer16520/16520/18088
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO" tvg-logo="http://img.starbr.in/1559770063_1f2de0bc4ead42eec4e7fb3abe980e54ed2cfd25.png" group-title="Infantil",ZOOMOO
-http://list.deeplist.nl:80/wer16520/16520/20833
-#EXTINF:-1 tvg-id="ZOOMOO" tvg-name="ZOOMOO HD" tvg-logo="http://img.starbr.in/1559770063_1f2de0bc4ead42eec4e7fb3abe980e54ed2cfd25.png" group-title="Infantil",ZOOMOO HD
-http://list.deeplist.nl:80/wer16520/16520/58720
+#EXTINF:-1,A&E
+http://list.deeplist.nl:80/live/wer51729/51729/1120.m3u8
+#EXTINF:-1,A&E HD
+http://list.deeplist.nl:80/live/wer51729/51729/5078.m3u8
+#EXTINF:-1,AMC
+http://list.deeplist.nl:80/live/wer51729/51729/9609.m3u8
+#EXTINF:-1,AMC HD
+http://list.deeplist.nl:80/live/wer51729/51729/15406.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://list.deeplist.nl:80/live/wer51729/51729/1719.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://list.deeplist.nl:80/live/wer51729/51729/52581.m3u8
+#EXTINF:-1,APARECIDA
+http://list.deeplist.nl:80/live/wer51729/51729/916.m3u8
+#EXTINF:-1,APARECIDA HD
+http://list.deeplist.nl:80/live/wer51729/51729/20831.m3u8
+#EXTINF:-1,ARTE 1
+http://list.deeplist.nl:80/live/wer51729/51729/52237.m3u8
+#EXTINF:-1,ARTE 1 HD
+http://list.deeplist.nl:80/live/wer51729/51729/58680.m3u8
+#EXTINF:-1,AXN
+http://list.deeplist.nl:80/live/wer51729/51729/1712.m3u8
+#EXTINF:-1,AXN HD
+http://list.deeplist.nl:80/live/wer51729/51729/1114.m3u8
+#EXTINF:-1,BABY TV
+http://list.deeplist.nl:80/live/wer51729/51729/52235.m3u8
+#EXTINF:-1,BABY TV HD
+http://list.deeplist.nl:80/live/wer51729/51729/58682.m3u8
+#EXTINF:-1,BAND NEWS
+http://list.deeplist.nl:80/live/wer51729/51729/1107.m3u8
+#EXTINF:-1,BAND NEWS HD
+http://list.deeplist.nl:80/live/wer51729/51729/58683.m3u8
+#EXTINF:-1,BAND SP
+http://list.deeplist.nl:80/live/wer51729/51729/1713.m3u8
+#EXTINF:-1,BAND SP HD
+http://list.deeplist.nl:80/live/wer51729/51729/52595.m3u8
+#EXTINF:-1,BAND SPORTS
+http://list.deeplist.nl:80/live/wer51729/51729/1106.m3u8
+#EXTINF:-1,BAND SPORTS HD
+http://list.deeplist.nl:80/live/wer51729/51729/2407.m3u8
+#EXTINF:-1,BBB 1 HD (A Casa)
+http://list.deeplist.nl:80/live/wer51729/51729/58218.m3u8
+#EXTINF:-1,BBB 1 SD 1 (A Casa)
+http://list.deeplist.nl:80/live/wer51729/51729/58214.m3u8
+#EXTINF:-1,BBB 1 SD 2 (A Casa)
+http://list.deeplist.nl:80/live/wer51729/51729/58215.m3u8
+#EXTINF:-1,BBB 1 SD 3 (A Casa)
+http://list.deeplist.nl:80/live/wer51729/51729/58216.m3u8
+#EXTINF:-1,BBB 1 SD+ (A Casa)
+http://list.deeplist.nl:80/live/wer51729/51729/58217.m3u8
+#EXTINF:-1,BBB 10 HD (Jardim Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58263.m3u8
+#EXTINF:-1,BBB 10 SD 1 (Jardim Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58259.m3u8
+#EXTINF:-1,BBB 10 SD 2 (Jardim Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58260.m3u8
+#EXTINF:-1,BBB 10 SD 3 (Jardim Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58261.m3u8
+#EXTINF:-1,BBB 10 SD+ (Jardim Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58262.m3u8
+#EXTINF:-1,BBB 2 HD (Confessionário)
+http://list.deeplist.nl:80/live/wer51729/51729/58223.m3u8
+#EXTINF:-1,BBB 2 SD 1 (Confessionário)
+http://list.deeplist.nl:80/live/wer51729/51729/58219.m3u8
+#EXTINF:-1,BBB 2 SD 2 (Confessionário)
+http://list.deeplist.nl:80/live/wer51729/51729/58220.m3u8
+#EXTINF:-1,BBB 2 SD 3 (Confessionário)
+http://list.deeplist.nl:80/live/wer51729/51729/58221.m3u8
+#EXTINF:-1,BBB 2 SD+ (Confessionário)
+http://list.deeplist.nl:80/live/wer51729/51729/58222.m3u8
+#EXTINF:-1,BBB 3 HD (Quarto Céu)
+http://list.deeplist.nl:80/live/wer51729/51729/58228.m3u8
+#EXTINF:-1,BBB 3 SD 1 (Quarto Céu)
+http://list.deeplist.nl:80/live/wer51729/51729/58224.m3u8
+#EXTINF:-1,BBB 3 SD 2 (Quarto Céu)
+http://list.deeplist.nl:80/live/wer51729/51729/58225.m3u8
+#EXTINF:-1,BBB 3 SD 3 (Quarto Céu)
+http://list.deeplist.nl:80/live/wer51729/51729/58226.m3u8
+#EXTINF:-1,BBB 3 SD+ (Quarto Céu)
+http://list.deeplist.nl:80/live/wer51729/51729/58227.m3u8
+#EXTINF:-1,BBB 4 HD (Sala)
+http://list.deeplist.nl:80/live/wer51729/51729/58233.m3u8
+#EXTINF:-1,BBB 4 SD 1 (Sala)
+http://list.deeplist.nl:80/live/wer51729/51729/58229.m3u8
+#EXTINF:-1,BBB 4 SD 2 (Sala)
+http://list.deeplist.nl:80/live/wer51729/51729/58230.m3u8
+#EXTINF:-1,BBB 4 SD 3 (Sala)
+http://list.deeplist.nl:80/live/wer51729/51729/58231.m3u8
+#EXTINF:-1,BBB 4 SD+ (Sala)
+http://list.deeplist.nl:80/live/wer51729/51729/58232.m3u8
+#EXTINF:-1,BBB 5 HD (Cozinha Vip)
+http://list.deeplist.nl:80/live/wer51729/51729/58238.m3u8
+#EXTINF:-1,BBB 5 SD 1 (Cozinha Vip)
+http://list.deeplist.nl:80/live/wer51729/51729/58234.m3u8
+#EXTINF:-1,BBB 5 SD 2 (Cozinha Vip)
+http://list.deeplist.nl:80/live/wer51729/51729/58235.m3u8
+#EXTINF:-1,BBB 5 SD 3 (Cozinha Vip)
+http://list.deeplist.nl:80/live/wer51729/51729/58236.m3u8
+#EXTINF:-1,BBB 5 SD+ (Cozinha Vip)
+http://list.deeplist.nl:80/live/wer51729/51729/58237.m3u8
+#EXTINF:-1,BBB 6 HD (Cozinha Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58243.m3u8
+#EXTINF:-1,BBB 6 SD 1 (Cozinha Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58239.m3u8
+#EXTINF:-1,BBB 6 SD 2 (Cozinha Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58240.m3u8
+#EXTINF:-1,BBB 6 SD 3 (Cozinha Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58241.m3u8
+#EXTINF:-1,BBB 6 SD+ (Cozinha Camarote)
+http://list.deeplist.nl:80/live/wer51729/51729/58242.m3u8
+#EXTINF:-1,BBB 7 HD (Quarto Camarote 1)
+http://list.deeplist.nl:80/live/wer51729/51729/58248.m3u8
+#EXTINF:-1,BBB 7 SD 1 (Quarto Camarote 1)
+http://list.deeplist.nl:80/live/wer51729/51729/58244.m3u8
+#EXTINF:-1,BBB 7 SD 2 (Quarto Camarote 1)
+http://list.deeplist.nl:80/live/wer51729/51729/58245.m3u8
+#EXTINF:-1,BBB 7 SD 3 (Quarto Camarote 1)
+http://list.deeplist.nl:80/live/wer51729/51729/58246.m3u8
+#EXTINF:-1,BBB 7 SD+ (Quarto Camarote 1)
+http://list.deeplist.nl:80/live/wer51729/51729/58247.m3u8
+#EXTINF:-1,BBB 8 HD (Piscina)
+http://list.deeplist.nl:80/live/wer51729/51729/58253.m3u8
+#EXTINF:-1,BBB 8 SD 1 (Piscina)
+http://list.deeplist.nl:80/live/wer51729/51729/58249.m3u8
+#EXTINF:-1,BBB 8 SD 2 (Piscina)
+http://list.deeplist.nl:80/live/wer51729/51729/58250.m3u8
+#EXTINF:-1,BBB 8 SD 3 (Piscina)
+http://list.deeplist.nl:80/live/wer51729/51729/58251.m3u8
+#EXTINF:-1,BBB 8 SD+ (Piscina)
+http://list.deeplist.nl:80/live/wer51729/51729/58252.m3u8
+#EXTINF:-1,BBB 9 HD (Quarto Camarote 2)
+http://list.deeplist.nl:80/live/wer51729/51729/58258.m3u8
+#EXTINF:-1,BBB 9 SD 1 (Quarto Camarote 2)
+http://list.deeplist.nl:80/live/wer51729/51729/58254.m3u8
+#EXTINF:-1,BBB 9 SD 2 (Quarto Camarote 2)
+http://list.deeplist.nl:80/live/wer51729/51729/58255.m3u8
+#EXTINF:-1,BBB 9 SD 3 (Quarto Camarote 2)
+http://list.deeplist.nl:80/live/wer51729/51729/58256.m3u8
+#EXTINF:-1,BBB 9 SD+ (Quarto Camarote 2)
+http://list.deeplist.nl:80/live/wer51729/51729/58257.m3u8
+#EXTINF:-1,BIS HD
+http://list.deeplist.nl:80/live/wer51729/51729/1104.m3u8
+#EXTINF:-1,BIS SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38740.m3u8
+#EXTINF:-1,BIS SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38739.m3u8
+#EXTINF:-1,BIS SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38738.m3u8
+#EXTINF:-1,BIS SD+
+http://list.deeplist.nl:80/live/wer51729/51729/24187.m3u8
+#EXTINF:-1,BOOMERANG
+http://list.deeplist.nl:80/live/wer51729/51729/1102.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://list.deeplist.nl:80/live/wer51729/51729/20801.m3u8
+#EXTINF:-1,CANAL BRASIL HD
+http://list.deeplist.nl:80/live/wer51729/51729/5079.m3u8
+#EXTINF:-1,CANAL BRASIL SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38743.m3u8
+#EXTINF:-1,CANAL BRASIL SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38742.m3u8
+#EXTINF:-1,CANAL BRASIL SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38741.m3u8
+#EXTINF:-1,CANAL BRASIL SD+
+http://list.deeplist.nl:80/live/wer51729/51729/24745.m3u8
+#EXTINF:-1,CANAL DO BOI
+http://list.deeplist.nl:80/live/wer51729/51729/2382.m3u8
+#EXTINF:-1,CANAL RURAL
+http://list.deeplist.nl:80/live/wer51729/51729/52677.m3u8
+#EXTINF:-1,CANCAO NOVA
+http://list.deeplist.nl:80/live/wer51729/51729/1220.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://list.deeplist.nl:80/live/wer51729/51729/1095.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://list.deeplist.nl:80/live/wer51729/51729/43516.m3u8
+#EXTINF:-1,CINEMAX
+http://list.deeplist.nl:80/live/wer51729/51729/2483.m3u8
+#EXTINF:-1,CINEMAX HD
+http://list.deeplist.nl:80/live/wer51729/51729/5080.m3u8
+#EXTINF:-1,COMBATE HD
+http://list.deeplist.nl:80/live/wer51729/51729/1088.m3u8
+#EXTINF:-1,COMBATE SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38746.m3u8
+#EXTINF:-1,COMBATE SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38745.m3u8
+#EXTINF:-1,COMBATE SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38744.m3u8
+#EXTINF:-1,COMBATE SD+
+http://list.deeplist.nl:80/live/wer51729/51729/22442.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://list.deeplist.nl:80/live/wer51729/51729/52240.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://list.deeplist.nl:80/live/wer51729/51729/58687.m3u8
+#EXTINF:-1,CULTURA
+http://list.deeplist.nl:80/live/wer51729/51729/52238.m3u8
+#EXTINF:-1,CURTA !
+http://list.deeplist.nl:80/live/wer51729/51729/52241.m3u8
+#EXTINF:-1,CURTA ! HD
+http://list.deeplist.nl:80/live/wer51729/51729/58688.m3u8
+#EXTINF:-1,DAZN
+http://list.deeplist.nl:80/live/wer51729/51729/56437.m3u8
+#EXTINF:-1,DEUTSCH
+http://list.deeplist.nl:80/live/wer51729/51729/18034.m3u8
+#EXTINF:-1,DEUTSCH HD
+http://list.deeplist.nl:80/live/wer51729/51729/37776.m3u8
+#EXTINF:-1,DEUTSCH SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38471.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://list.deeplist.nl:80/live/wer51729/51729/1084.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://list.deeplist.nl:80/live/wer51729/51729/2410.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://list.deeplist.nl:80/live/wer51729/51729/2399.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://list.deeplist.nl:80/live/wer51729/51729/1082.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://list.deeplist.nl:80/live/wer51729/51729/1080.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://list.deeplist.nl:80/live/wer51729/51729/5081.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://list.deeplist.nl:80/live/wer51729/51729/20806.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://list.deeplist.nl:80/live/wer51729/51729/16006.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://list.deeplist.nl:80/live/wer51729/51729/20807.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+http://list.deeplist.nl:80/live/wer51729/51729/2460.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://list.deeplist.nl:80/live/wer51729/51729/1072.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://list.deeplist.nl:80/live/wer51729/51729/2411.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://list.deeplist.nl:80/live/wer51729/51729/20808.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://list.deeplist.nl:80/live/wer51729/51729/2461.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38438.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD 2
+http://list.deeplist.nl:80/live/wer51729/51729/5082.m3u8
+#EXTINF:-1,DISNEY CHANNEL SD
+http://list.deeplist.nl:80/live/wer51729/51729/38763.m3u8
+#EXTINF:-1,DISNEY CHANNEL SD+
+http://list.deeplist.nl:80/live/wer51729/51729/1071.m3u8
+#EXTINF:-1,DISNEY JR HD
+http://list.deeplist.nl:80/live/wer51729/51729/20809.m3u8
+#EXTINF:-1,DISNEY JR SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38783.m3u8
+#EXTINF:-1,DISNEY JR SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/1068.m3u8
+#EXTINF:-1,DISNEY JR SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38441.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://list.deeplist.nl:80/live/wer51729/51729/20810.m3u8
+#EXTINF:-1,DISNEY XD SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38761.m3u8
+#EXTINF:-1,DISNEY XD SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/1065.m3u8
+#EXTINF:-1,DISNEY XD SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38440.m3u8
+#EXTINF:-1,E!
+http://list.deeplist.nl:80/live/wer51729/51729/1063.m3u8
+#EXTINF:-1,E! HD
+http://list.deeplist.nl:80/live/wer51729/51729/52246.m3u8
+#EXTINF:-1,ESPN 1 HD
+http://list.deeplist.nl:80/live/wer51729/51729/1129.m3u8
+#EXTINF:-1,ESPN 1 SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38754.m3u8
+#EXTINF:-1,ESPN 1 SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/1718.m3u8
+#EXTINF:-1,ESPN 1 SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38387.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://list.deeplist.nl:80/live/wer51729/51729/2394.m3u8
+#EXTINF:-1,ESPN 2 SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38756.m3u8
+#EXTINF:-1,ESPN 2 SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/2395.m3u8
+#EXTINF:-1,ESPN 2 SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38416.m3u8
+#EXTINF:-1,ESPN BRASIL HD
+http://list.deeplist.nl:80/live/wer51729/51729/2387.m3u8
+#EXTINF:-1,ESPN BRASIL SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38758.m3u8
+#EXTINF:-1,ESPN BRASIL SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/1060.m3u8
+#EXTINF:-1,ESPN BRASIL SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38415.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://list.deeplist.nl:80/live/wer51729/51729/20813.m3u8
+#EXTINF:-1,ESPN EXTRA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/20812.m3u8
+#EXTINF:-1,ESPN EXTRA SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/40435.m3u8
+#EXTINF:-1,ESPN EXTRA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38417.m3u8
+#EXTINF:-1,FISH TV
+http://list.deeplist.nl:80/live/wer51729/51729/52244.m3u8
+#EXTINF:-1,FISH TV HD
+http://list.deeplist.nl:80/live/wer51729/51729/52245.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://list.deeplist.nl:80/live/wer51729/51729/1049.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://list.deeplist.nl:80/live/wer51729/51729/5084.m3u8
+#EXTINF:-1,FOX
+http://list.deeplist.nl:80/live/wer51729/51729/1329.m3u8
+#EXTINF:-1,FOX HD
+http://list.deeplist.nl:80/live/wer51729/51729/1047.m3u8
+#EXTINF:-1,FOX LIFE
+http://list.deeplist.nl:80/live/wer51729/51729/1038.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://list.deeplist.nl:80/live/wer51729/51729/1037.m3u8
+#EXTINF:-1,FOX PREMIUM 1
+http://list.deeplist.nl:80/live/wer51729/51729/20815.m3u8
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://list.deeplist.nl:80/live/wer51729/51729/2464.m3u8
+#EXTINF:-1,FOX PREMIUM 2
+http://list.deeplist.nl:80/live/wer51729/51729/20816.m3u8
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://list.deeplist.nl:80/live/wer51729/51729/2465.m3u8
+#EXTINF:-1,FOX SPORTS
+http://list.deeplist.nl:80/live/wer51729/51729/2391.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://list.deeplist.nl:80/live/wer51729/51729/1717.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://list.deeplist.nl:80/live/wer51729/51729/1031.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://list.deeplist.nl:80/live/wer51729/51729/50188.m3u8
+#EXTINF:-1,FUTURA HD
+http://list.deeplist.nl:80/live/wer51729/51729/20803.m3u8
+#EXTINF:-1,FUTURA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38735.m3u8
+#EXTINF:-1,FUTURA SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38736.m3u8
+#EXTINF:-1,FUTURA SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38737.m3u8
+#EXTINF:-1,FUTURA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38484.m3u8
+#EXTINF:-1,FX
+http://list.deeplist.nl:80/live/wer51729/51729/1028.m3u8
+#EXTINF:-1,FX HD
+http://list.deeplist.nl:80/live/wer51729/51729/2386.m3u8
+#EXTINF:-1,GLOBO ACRE HD
+http://list.deeplist.nl:80/live/wer51729/51729/49721.m3u8
+#EXTINF:-1,GLOBO ACRE SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/49720.m3u8
+#EXTINF:-1,GLOBO ACRE SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/49722.m3u8
+#EXTINF:-1,GLOBO ACRE SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/49723.m3u8
+#EXTINF:-1,GLOBO ACRE SD+
+http://list.deeplist.nl:80/live/wer51729/51729/49724.m3u8
+#EXTINF:-1,GLOBO AMAPÁ HD
+http://list.deeplist.nl:80/live/wer51729/51729/49729.m3u8
+#EXTINF:-1,GLOBO AMAPÁ SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/49725.m3u8
+#EXTINF:-1,GLOBO AMAPÁ SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/49726.m3u8
+#EXTINF:-1,GLOBO AMAPÁ SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/49727.m3u8
+#EXTINF:-1,GLOBO AMAPÁ SD+
+http://list.deeplist.nl:80/live/wer51729/51729/49728.m3u8
+#EXTINF:-1,GLOBO AMAZONAS HD
+http://list.deeplist.nl:80/live/wer51729/51729/38452.m3u8
+#EXTINF:-1,GLOBO AMAZONAS SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38670.m3u8
+#EXTINF:-1,GLOBO AMAZONAS SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38671.m3u8
+#EXTINF:-1,GLOBO AMAZONAS SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/9580.m3u8
+#EXTINF:-1,GLOBO AMAZONAS SD 4
+http://list.deeplist.nl:80/live/wer51729/51729/40436.m3u8
+#EXTINF:-1,GLOBO AMAZONAS SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38451.m3u8
+#EXTINF:-1,GLOBO BAHIA HD
+http://list.deeplist.nl:80/live/wer51729/51729/58122.m3u8
+#EXTINF:-1,GLOBO BAHIA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/52684.m3u8
+#EXTINF:-1,GLOBO BAHIA SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58119.m3u8
+#EXTINF:-1,GLOBO BAHIA SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58120.m3u8
+#EXTINF:-1,GLOBO BAHIA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58121.m3u8
+#EXTINF:-1,GLOBO BRASILIA HD
+http://list.deeplist.nl:80/live/wer51729/51729/17121.m3u8
+#EXTINF:-1,GLOBO BRASILIA HD+
+http://list.deeplist.nl:80/live/wer51729/51729/21804.m3u8
+#EXTINF:-1,GLOBO BRASILIA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38664.m3u8
+#EXTINF:-1,GLOBO BRASILIA SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38665.m3u8
+#EXTINF:-1,GLOBO BRASILIA SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38666.m3u8
+#EXTINF:-1,GLOBO BRASILIA SD 4
+http://list.deeplist.nl:80/live/wer51729/51729/2512.m3u8
+#EXTINF:-1,GLOBO BRASILIA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/22363.m3u8
+#EXTINF:-1,GLOBO CEARÁ HD
+http://list.deeplist.nl:80/live/wer51729/51729/58126.m3u8
+#EXTINF:-1,GLOBO CEARÁ SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/52681.m3u8
+#EXTINF:-1,GLOBO CEARÁ SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58123.m3u8
+#EXTINF:-1,GLOBO CEARÁ SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58124.m3u8
+#EXTINF:-1,GLOBO CEARÁ SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58125.m3u8
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://list.deeplist.nl:80/live/wer51729/51729/17962.m3u8
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO
+http://list.deeplist.nl:80/live/wer51729/51729/48800.m3u8
+#EXTINF:-1,GLOBO EPTV SAO CARLOS
+http://list.deeplist.nl:80/live/wer51729/51729/56877.m3u8
+#EXTINF:-1,GLOBO ESPÍRITO SANTO HD
+http://list.deeplist.nl:80/live/wer51729/51729/58131.m3u8
+#EXTINF:-1,GLOBO ESPÍRITO SANTO SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/58127.m3u8
+#EXTINF:-1,GLOBO ESPÍRITO SANTO SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58128.m3u8
+#EXTINF:-1,GLOBO ESPÍRITO SANTO SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58129.m3u8
+#EXTINF:-1,GLOBO ESPÍRITO SANTO SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58130.m3u8
+#EXTINF:-1,GLOBO GOIÁS HD
+http://list.deeplist.nl:80/live/wer51729/51729/49719.m3u8
+#EXTINF:-1,GLOBO GOIÁS SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/49716.m3u8
+#EXTINF:-1,GLOBO GOIÁS SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/49717.m3u8
+#EXTINF:-1,GLOBO GOIÁS SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/2511.m3u8
+#EXTINF:-1,GLOBO GOIÁS SD+
+http://list.deeplist.nl:80/live/wer51729/51729/49718.m3u8
+#EXTINF:-1,GLOBO MARANHÃO HD
+http://list.deeplist.nl:80/live/wer51729/51729/58140.m3u8
+#EXTINF:-1,GLOBO MARANHÃO SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/58136.m3u8
+#EXTINF:-1,GLOBO MARANHÃO SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58137.m3u8
+#EXTINF:-1,GLOBO MARANHÃO SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58138.m3u8
+#EXTINF:-1,GLOBO MARANHÃO SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58139.m3u8
+#EXTINF:-1,GLOBO MINAS GERAIS HD
+http://list.deeplist.nl:80/live/wer51729/51729/17129.m3u8
+#EXTINF:-1,GLOBO MINAS GERAIS HD+
+http://list.deeplist.nl:80/live/wer51729/51729/21803.m3u8
+#EXTINF:-1,GLOBO MINAS GERAIS SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38654.m3u8
+#EXTINF:-1,GLOBO MINAS GERAIS SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38655.m3u8
+#EXTINF:-1,GLOBO MINAS GERAIS SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38656.m3u8
+#EXTINF:-1,GLOBO MINAS GERAIS SD 4
+http://list.deeplist.nl:80/live/wer51729/51729/2412.m3u8
+#EXTINF:-1,GLOBO MINAS GERAIS SD+
+http://list.deeplist.nl:80/live/wer51729/51729/22367.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+http://list.deeplist.nl:80/live/wer51729/51729/5085.m3u8
+#EXTINF:-1,GLOBO NEWS SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38716.m3u8
+#EXTINF:-1,GLOBO NEWS SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38715.m3u8
+#EXTINF:-1,GLOBO NEWS SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38714.m3u8
+#EXTINF:-1,GLOBO NEWS SD+
+http://list.deeplist.nl:80/live/wer51729/51729/23980.m3u8
+#EXTINF:-1,GLOBO PARÁ HD
+http://list.deeplist.nl:80/live/wer51729/51729/58105.m3u8
+#EXTINF:-1,GLOBO PARÁ SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/58101.m3u8
+#EXTINF:-1,GLOBO PARÁ SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58102.m3u8
+#EXTINF:-1,GLOBO PARÁ SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58103.m3u8
+#EXTINF:-1,GLOBO PARÁ SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58104.m3u8
+#EXTINF:-1,GLOBO PARANÁ HD
+http://list.deeplist.nl:80/live/wer51729/51729/58113.m3u8
+#EXTINF:-1,GLOBO PARANÁ SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/52606.m3u8
+#EXTINF:-1,GLOBO PARANÁ SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58060.m3u8
+#EXTINF:-1,GLOBO PARANÁ SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58111.m3u8
+#EXTINF:-1,GLOBO PARANÁ SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58112.m3u8
+#EXTINF:-1,GLOBO PERNAMBUCO HD
+http://list.deeplist.nl:80/live/wer51729/51729/17130.m3u8
+#EXTINF:-1,GLOBO PERNAMBUCO SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38667.m3u8
+#EXTINF:-1,GLOBO PERNAMBUCO SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38668.m3u8
+#EXTINF:-1,GLOBO PERNAMBUCO SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38669.m3u8
+#EXTINF:-1,GLOBO PERNAMBUCO SD 4
+http://list.deeplist.nl:80/live/wer51729/51729/15405.m3u8
+#EXTINF:-1,GLOBO PERNAMBUCO SD+
+http://list.deeplist.nl:80/live/wer51729/51729/22371.m3u8
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
+http://list.deeplist.nl:80/live/wer51729/51729/58695.m3u8
+#EXTINF:-1,GLOBO RIO DE JANEIRO HD
+http://list.deeplist.nl:80/live/wer51729/51729/1207.m3u8
+#EXTINF:-1,GLOBO RIO DE JANEIRO HD+
+http://list.deeplist.nl:80/live/wer51729/51729/21801.m3u8
+#EXTINF:-1,GLOBO RIO DE JANEIRO SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38661.m3u8
+#EXTINF:-1,GLOBO RIO DE JANEIRO SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38662.m3u8
+#EXTINF:-1,GLOBO RIO DE JANEIRO SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38663.m3u8
+#EXTINF:-1,GLOBO RIO DE JANEIRO SD 4
+http://list.deeplist.nl:80/live/wer51729/51729/2508.m3u8
+#EXTINF:-1,GLOBO RIO DE JANEIRO SD+
+http://list.deeplist.nl:80/live/wer51729/51729/22209.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO NORTE HD
+http://list.deeplist.nl:80/live/wer51729/51729/58135.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO NORTE SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/52685.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO NORTE SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58132.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO NORTE SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58133.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO NORTE SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58134.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL HD
+http://list.deeplist.nl:80/live/wer51729/51729/58110.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/58106.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58107.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58108.m3u8
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58109.m3u8
+#EXTINF:-1,GLOBO RONDÔNIA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/49715.m3u8
+#EXTINF:-1,GLOBO RONDÔNIA SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/49714.m3u8
+#EXTINF:-1,GLOBO RONDÔNIA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/49713.m3u8
+#EXTINF:-1,GLOBO RORAIMA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/49730.m3u8
+#EXTINF:-1,GLOBO RORAIMA SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/49731.m3u8
+#EXTINF:-1,GLOBO RORAIMA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/49732.m3u8
+#EXTINF:-1,GLOBO RPC
+http://list.deeplist.nl:80/live/wer51729/51729/58696.m3u8
+#EXTINF:-1,GLOBO RPC HD
+http://list.deeplist.nl:80/live/wer51729/51729/58719.m3u8
+#EXTINF:-1,GLOBO SANTA CATARINA HD
+http://list.deeplist.nl:80/live/wer51729/51729/58118.m3u8
+#EXTINF:-1,GLOBO SANTA CATARINA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/58114.m3u8
+#EXTINF:-1,GLOBO SANTA CATARINA SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/58115.m3u8
+#EXTINF:-1,GLOBO SANTA CATARINA SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/58116.m3u8
+#EXTINF:-1,GLOBO SANTA CATARINA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/58117.m3u8
+#EXTINF:-1,GLOBO SÃO PAULO HD
+http://list.deeplist.nl:80/live/wer51729/51729/17122.m3u8
+#EXTINF:-1,GLOBO SÃO PAULO HD+
+http://list.deeplist.nl:80/live/wer51729/51729/21800.m3u8
+#EXTINF:-1,GLOBO SÃO PAULO SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38657.m3u8
+#EXTINF:-1,GLOBO SÃO PAULO SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38658.m3u8
+#EXTINF:-1,GLOBO SÃO PAULO SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38659.m3u8
+#EXTINF:-1,GLOBO SÃO PAULO SD 4
+http://list.deeplist.nl:80/live/wer51729/51729/1024.m3u8
+#EXTINF:-1,GLOBO SÃO PAULO SD+
+http://list.deeplist.nl:80/live/wer51729/51729/22359.m3u8
+#EXTINF:-1,GLOBO TV CENTRO AMERICA
+http://list.deeplist.nl:80/live/wer51729/51729/52683.m3u8
+#EXTINF:-1,GLOBO TV GAZETA
+http://list.deeplist.nl:80/live/wer51729/51729/58717.m3u8
+#EXTINF:-1,GLOBO TV SERGIPE
+http://list.deeplist.nl:80/live/wer51729/51729/58697.m3u8
+#EXTINF:-1,GLOBO TV VANGUARDA
+http://list.deeplist.nl:80/live/wer51729/51729/52682.m3u8
+#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
+http://list.deeplist.nl:80/live/wer51729/51729/58699.m3u8
+#EXTINF:-1,GLOOB HD
+http://list.deeplist.nl:80/live/wer51729/51729/5086.m3u8
+#EXTINF:-1,GLOOB SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38719.m3u8
+#EXTINF:-1,GLOOB SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38718.m3u8
+#EXTINF:-1,GLOOB SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38717.m3u8
+#EXTINF:-1,GLOOB SD+
+http://list.deeplist.nl:80/live/wer51729/51729/28406.m3u8
+#EXTINF:-1,GLOOBINHO HD
+http://list.deeplist.nl:80/live/wer51729/51729/17136.m3u8
+#EXTINF:-1,GLOOBINHO SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38723.m3u8
+#EXTINF:-1,GLOOBINHO SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38724.m3u8
+#EXTINF:-1,GLOOBINHO SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38725.m3u8
+#EXTINF:-1,GLOOBINHO SD+
+http://list.deeplist.nl:80/live/wer51729/51729/23976.m3u8
+#EXTINF:-1,GNT HD
+http://list.deeplist.nl:80/live/wer51729/51729/2466.m3u8
+#EXTINF:-1,GNT SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38752.m3u8
+#EXTINF:-1,GNT SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38751.m3u8
+#EXTINF:-1,GNT SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38750.m3u8
+#EXTINF:-1,GNT SD+
+http://list.deeplist.nl:80/live/wer51729/51729/24290.m3u8
+#EXTINF:-1,H2
+http://list.deeplist.nl:80/live/wer51729/51729/2486.m3u8
+#EXTINF:-1,H2 HD
+http://list.deeplist.nl:80/live/wer51729/51729/1021.m3u8
+#EXTINF:-1,HBO
+http://list.deeplist.nl:80/live/wer51729/51729/1020.m3u8
+#EXTINF:-1,HBO 2
+http://list.deeplist.nl:80/live/wer51729/51729/2489.m3u8
+#EXTINF:-1,HBO 2 HD
+http://list.deeplist.nl:80/live/wer51729/51729/52583.m3u8
+#EXTINF:-1,HBO FAMILY
+http://list.deeplist.nl:80/live/wer51729/51729/1016.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://list.deeplist.nl:80/live/wer51729/51729/2392.m3u8
+#EXTINF:-1,HBO HD
+http://list.deeplist.nl:80/live/wer51729/51729/1209.m3u8
+#EXTINF:-1,HBO MUNDI
+http://list.deeplist.nl:80/live/wer51729/51729/1007.m3u8
+#EXTINF:-1,HBO MUNDI HD
+http://list.deeplist.nl:80/live/wer51729/51729/5089.m3u8
+#EXTINF:-1,HBO PLUS
+http://list.deeplist.nl:80/live/wer51729/51729/52672.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://list.deeplist.nl:80/live/wer51729/51729/52671.m3u8
+#EXTINF:-1,HBO POP
+http://list.deeplist.nl:80/live/wer51729/51729/1005.m3u8
+#EXTINF:-1,HBO POP HD
+http://list.deeplist.nl:80/live/wer51729/51729/58701.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://list.deeplist.nl:80/live/wer51729/51729/2488.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://list.deeplist.nl:80/live/wer51729/51729/1013.m3u8
+#EXTINF:-1,HBO XTREME
+http://list.deeplist.nl:80/live/wer51729/51729/1006.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://list.deeplist.nl:80/live/wer51729/51729/5090.m3u8
+#EXTINF:-1,IDEAL TV
+http://list.deeplist.nl:80/live/wer51729/51729/52673.m3u8
+#EXTINF:-1,INVESTIGACAO DISCOVERY
+http://list.deeplist.nl:80/live/wer51729/51729/1011.m3u8
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD
+http://list.deeplist.nl:80/live/wer51729/51729/2469.m3u8
+#EXTINF:-1,LIFETIME
+http://list.deeplist.nl:80/live/wer51729/51729/2492.m3u8
+#EXTINF:-1,LIFETIME HD
+http://list.deeplist.nl:80/live/wer51729/51729/5087.m3u8
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://list.deeplist.nl:80/live/wer51729/51729/5088.m3u8
+#EXTINF:-1,MAIS GLOBOSAT SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38749.m3u8
+#EXTINF:-1,MAIS GLOBOSAT SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38748.m3u8
+#EXTINF:-1,MAIS GLOBOSAT SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38747.m3u8
+#EXTINF:-1,MAIS GLOBOSAT SD+
+http://list.deeplist.nl:80/live/wer51729/51729/28398.m3u8
+#EXTINF:-1,MEGAPIX
+http://list.deeplist.nl:80/live/wer51729/51729/52585.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://list.deeplist.nl:80/live/wer51729/51729/52584.m3u8
+#EXTINF:-1,MTV
+http://list.deeplist.nl:80/live/wer51729/51729/5092.m3u8
+#EXTINF:-1,MULTISHOW HD
+http://list.deeplist.nl:80/live/wer51729/51729/2385.m3u8
+#EXTINF:-1,MULTISHOW SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38731.m3u8
+#EXTINF:-1,MULTISHOW SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38730.m3u8
+#EXTINF:-1,MULTISHOW SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38729.m3u8
+#EXTINF:-1,MULTISHOW SD+
+http://list.deeplist.nl:80/live/wer51729/51729/24286.m3u8
+#EXTINF:-1,MUSIC BOX BRASIL
+http://list.deeplist.nl:80/live/wer51729/51729/52674.m3u8
+#EXTINF:-1,NATGEO KIDS
+http://list.deeplist.nl:80/live/wer51729/51729/11965.m3u8
+#EXTINF:-1,NATGEO KIDS HD
+http://list.deeplist.nl:80/live/wer51729/51729/11996.m3u8
+#EXTINF:-1,NATGEO WILD
+http://list.deeplist.nl:80/live/wer51729/51729/995.m3u8
+#EXTINF:-1,NATGEO WILD HD
+http://list.deeplist.nl:80/live/wer51729/51729/994.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+http://list.deeplist.nl:80/live/wer51729/51729/991.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHICS HD
+http://list.deeplist.nl:80/live/wer51729/51729/52586.m3u8
+#EXTINF:-1,NBR
+http://list.deeplist.nl:80/live/wer51729/51729/52675.m3u8
+#EXTINF:-1,NHK
+http://list.deeplist.nl:80/live/wer51729/51729/2495.m3u8
+#EXTINF:-1,NICK
+http://list.deeplist.nl:80/live/wer51729/51729/1206.m3u8
+#EXTINF:-1,NICK HD
+http://list.deeplist.nl:80/live/wer51729/51729/5093.m3u8
+#EXTINF:-1,NICK JR
+http://list.deeplist.nl:80/live/wer51729/51729/986.m3u8
+#EXTINF:-1,NICK JR HD
+http://list.deeplist.nl:80/live/wer51729/51729/16210.m3u8
+#EXTINF:-1,NOVO TEMPO
+http://list.deeplist.nl:80/live/wer51729/51729/52678.m3u8
+#EXTINF:-1,OFF HD
+http://list.deeplist.nl:80/live/wer51729/51729/2471.m3u8
+#EXTINF:-1,OFF SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38728.m3u8
+#EXTINF:-1,OFF SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38727.m3u8
+#EXTINF:-1,OFF SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38726.m3u8
+#EXTINF:-1,OFF SD+
+http://list.deeplist.nl:80/live/wer51729/51729/28420.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://list.deeplist.nl:80/live/wer51729/51729/980.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://list.deeplist.nl:80/live/wer51729/51729/2472.m3u8
+#EXTINF:-1,PLAY TV
+http://list.deeplist.nl:80/live/wer51729/51729/52679.m3u8
+http://list.deeplist.nl:80/live/wer51729/51729/41351.m3u8
+#EXTINF:-1,PREMIERE CLUBES HD
+http://list.deeplist.nl:80/live/wer51729/51729/1714.m3u8
+#EXTINF:-1,PREMIERE CLUBES SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38672.m3u8
+#EXTINF:-1,PREMIERE CLUBES SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38673.m3u8
+#EXTINF:-1,PREMIERE CLUBES SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38674.m3u8
+#EXTINF:-1,PREMIERE CLUBES SD+
+http://list.deeplist.nl:80/live/wer51729/51729/25246.m3u8
+#EXTINF:-1,PRIME BOX BRASIL
+http://list.deeplist.nl:80/live/wer51729/51729/969.m3u8
+#EXTINF:-1,RECORD BA HD
+http://list.deeplist.nl:80/live/wer51729/51729/29367.m3u8
+#EXTINF:-1,RECORD BA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38836.m3u8
+#EXTINF:-1,RECORD BA SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/29366.m3u8
+#EXTINF:-1,RECORD BA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38431.m3u8
+#EXTINF:-1,RECORD DF HD
+http://list.deeplist.nl:80/live/wer51729/51729/29364.m3u8
+#EXTINF:-1,RECORD DF SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38780.m3u8
+#EXTINF:-1,RECORD DF SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/29365.m3u8
+#EXTINF:-1,RECORD DF SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38418.m3u8
+#EXTINF:-1,RECORD GO HD
+http://list.deeplist.nl:80/live/wer51729/51729/47529.m3u8
+#EXTINF:-1,RECORD GO SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/47532.m3u8
+#EXTINF:-1,RECORD GO SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/47531.m3u8
+#EXTINF:-1,RECORD GO SD+
+http://list.deeplist.nl:80/live/wer51729/51729/47530.m3u8
+#EXTINF:-1,RECORD MG HD
+http://list.deeplist.nl:80/live/wer51729/51729/29369.m3u8
+#EXTINF:-1,RECORD MG SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38782.m3u8
+#EXTINF:-1,RECORD MG SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/29368.m3u8
+#EXTINF:-1,RECORD MG SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38430.m3u8
+#EXTINF:-1,RECORD NEWS HD
+http://list.deeplist.nl:80/live/wer51729/51729/2400.m3u8
+#EXTINF:-1,RECORD NEWS SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38784.m3u8
+#EXTINF:-1,RECORD NEWS SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/966.m3u8
+#EXTINF:-1,RECORD NEWS SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38443.m3u8
+#EXTINF:-1,RECORD PA HD
+http://list.deeplist.nl:80/live/wer51729/51729/47555.m3u8
+#EXTINF:-1,RECORD PA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/47553.m3u8
+#EXTINF:-1,RECORD PA SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/47552.m3u8
+#EXTINF:-1,RECORD PA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/47554.m3u8
+#EXTINF:-1,RECORD RJ HD
+http://list.deeplist.nl:80/live/wer51729/51729/29371.m3u8
+#EXTINF:-1,RECORD RJ SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38767.m3u8
+#EXTINF:-1,RECORD RJ SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/29370.m3u8
+#EXTINF:-1,RECORD RJ SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38419.m3u8
+#EXTINF:-1,RECORD RS HD
+http://list.deeplist.nl:80/live/wer51729/51729/29373.m3u8
+#EXTINF:-1,RECORD RS SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38838.m3u8
+#EXTINF:-1,RECORD RS SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/29372.m3u8
+#EXTINF:-1,RECORD RS SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38433.m3u8
+#EXTINF:-1,RECORD SP HD
+http://list.deeplist.nl:80/live/wer51729/51729/1210.m3u8
+#EXTINF:-1,RECORD SP SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38765.m3u8
+#EXTINF:-1,RECORD SP SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/1710.m3u8
+#EXTINF:-1,RECORD SP SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38429.m3u8
+#EXTINF:-1,REDE BRASIL
+http://list.deeplist.nl:80/live/wer51729/51729/52676.m3u8
+#EXTINF:-1,REDE TV
+http://list.deeplist.nl:80/live/wer51729/51729/963.m3u8
+#EXTINF:-1,REDE TV HD
+http://list.deeplist.nl:80/live/wer51729/51729/52587.m3u8
+#EXTINF:-1,REDE VIDA
+http://list.deeplist.nl:80/live/wer51729/51729/2499.m3u8
+#EXTINF:-1,REDE VIDA HD
+http://list.deeplist.nl:80/live/wer51729/51729/58705.m3u8
+#EXTINF:-1,RIT TV
+http://list.deeplist.nl:80/live/wer51729/51729/52680.m3u8
+#EXTINF:-1,SBT DIFUSORA
+http://list.deeplist.nl:80/live/wer51729/51729/37793.m3u8
+#EXTINF:-1,SBT GOIAS HD
+http://list.deeplist.nl:80/live/wer51729/51729/58706.m3u8
+#EXTINF:-1,SBT HD
+http://list.deeplist.nl:80/live/wer51729/51729/1208.m3u8
+#EXTINF:-1,SBT HD+
+http://list.deeplist.nl:80/live/wer51729/51729/38919.m3u8
+#EXTINF:-1,SBT NORDESTE HD
+http://list.deeplist.nl:80/live/wer51729/51729/58707.m3u8
+#EXTINF:-1,SBT SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38920.m3u8
+#EXTINF:-1,SBT SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38921.m3u8
+#EXTINF:-1,SBT SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/955.m3u8
+#EXTINF:-1,SBT SD+
+http://list.deeplist.nl:80/live/wer51729/51729/38450.m3u8
+#EXTINF:-1,SBT TV CIDADE VERDE
+http://list.deeplist.nl:80/live/wer51729/51729/37796.m3u8
+#EXTINF:-1,SBT TV JORNAL
+http://list.deeplist.nl:80/live/wer51729/51729/37795.m3u8
+#EXTINF:-1,SBT TV SERRA DOURADA
+http://list.deeplist.nl:80/live/wer51729/51729/37843.m3u8
+#EXTINF:-1,SBT TV SERRA DOURADA HD
+http://list.deeplist.nl:80/live/wer51729/51729/37842.m3u8
+#EXTINF:-1,SONY
+http://list.deeplist.nl:80/live/wer51729/51729/1096.m3u8
+#EXTINF:-1,SONY HD
+http://list.deeplist.nl:80/live/wer51729/51729/2409.m3u8
+#EXTINF:-1,SPACE
+http://list.deeplist.nl:80/live/wer51729/51729/2501.m3u8
+#EXTINF:-1,SPACE HD
+http://list.deeplist.nl:80/live/wer51729/51729/1327.m3u8
+#EXTINF:-1,SPORTV 1 HD
+http://list.deeplist.nl:80/live/wer51729/51729/1203.m3u8
+#EXTINF:-1,SPORTV 1 SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/47528.m3u8
+#EXTINF:-1,SPORTV 1 SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38706.m3u8
+#EXTINF:-1,SPORTV 1 SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38707.m3u8
+#EXTINF:-1,SPORTV 1 SD+
+http://list.deeplist.nl:80/live/wer51729/51729/47527.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://list.deeplist.nl:80/live/wer51729/51729/2401.m3u8
+#EXTINF:-1,SPORTV 2 SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38710.m3u8
+#EXTINF:-1,SPORTV 2 SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38709.m3u8
+#EXTINF:-1,SPORTV 2 SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38708.m3u8
+#EXTINF:-1,SPORTV 2 SD+
+http://list.deeplist.nl:80/live/wer51729/51729/22450.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://list.deeplist.nl:80/live/wer51729/51729/2402.m3u8
+#EXTINF:-1,SPORTV 3 SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38713.m3u8
+#EXTINF:-1,SPORTV 3 SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38712.m3u8
+#EXTINF:-1,SPORTV 3 SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38711.m3u8
+#EXTINF:-1,SPORTV 3 SD+
+http://list.deeplist.nl:80/live/wer51729/51729/22454.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://list.deeplist.nl:80/live/wer51729/51729/2384.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://list.deeplist.nl:80/live/wer51729/51729/5094.m3u8
+#EXTINF:-1,SYFY
+http://list.deeplist.nl:80/live/wer51729/51729/939.m3u8
+#EXTINF:-1,SYFY HD
+http://list.deeplist.nl:80/live/wer51729/51729/18087.m3u8
+#EXTINF:-1,TBS
+http://list.deeplist.nl:80/live/wer51729/51729/937.m3u8
+#EXTINF:-1,TBS HD
+http://list.deeplist.nl:80/live/wer51729/51729/2473.m3u8
+#EXTINF:-1,TCM
+http://list.deeplist.nl:80/live/wer51729/51729/52252.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://list.deeplist.nl:80/live/wer51729/51729/52589.m3u8
+#EXTINF:-1,TELECINE ACTION HD
+http://list.deeplist.nl:80/live/wer51729/51729/52588.m3u8
+#EXTINF:-1,TELECINE CULT
+http://list.deeplist.nl:80/live/wer51729/51729/933.m3u8
+#EXTINF:-1,TELECINE CULT HD
+http://list.deeplist.nl:80/live/wer51729/51729/5096.m3u8
+#EXTINF:-1,TELECINE FUN
+http://list.deeplist.nl:80/live/wer51729/51729/931.m3u8
+#EXTINF:-1,TELECINE FUN HD
+http://list.deeplist.nl:80/live/wer51729/51729/932.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://list.deeplist.nl:80/live/wer51729/51729/929.m3u8
+#EXTINF:-1,TELECINE PIPOCA HD
+http://list.deeplist.nl:80/live/wer51729/51729/930.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+http://list.deeplist.nl:80/live/wer51729/51729/52591.m3u8
+#EXTINF:-1,TELECINE PREMIUM HD
+http://list.deeplist.nl:80/live/wer51729/51729/52590.m3u8
+#EXTINF:-1,TELECINE TOUCH
+http://list.deeplist.nl:80/live/wer51729/51729/926.m3u8
+#EXTINF:-1,TELECINE TOUCH HD
+http://list.deeplist.nl:80/live/wer51729/51729/927.m3u8
+#EXTINF:-1,TERRA VIVA
+http://list.deeplist.nl:80/live/wer51729/51729/52689.m3u8
+#EXTINF:-1,THE HISTORY CHANNEL
+http://list.deeplist.nl:80/live/wer51729/51729/923.m3u8
+#EXTINF:-1,THE HISTORY CHANNEL HD
+http://list.deeplist.nl:80/live/wer51729/51729/2468.m3u8
+#EXTINF:-1,TLC
+http://list.deeplist.nl:80/live/wer51729/51729/922.m3u8
+#EXTINF:-1,TLC HD
+http://list.deeplist.nl:80/live/wer51729/51729/5097.m3u8
+#EXTINF:-1,TNT
+http://list.deeplist.nl:80/live/wer51729/51729/921.m3u8
+#EXTINF:-1,TNT HD
+http://list.deeplist.nl:80/live/wer51729/51729/2383.m3u8
+#EXTINF:-1,TNT SERIES
+http://list.deeplist.nl:80/live/wer51729/51729/1204.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://list.deeplist.nl:80/live/wer51729/51729/2474.m3u8
+#EXTINF:-1,TOONCAST
+http://list.deeplist.nl:80/live/wer51729/51729/50244.m3u8
+#EXTINF:-1,TOONCAST HD
+http://list.deeplist.nl:80/live/wer51729/51729/58716.m3u8
+#EXTINF:-1,TRU TV
+http://list.deeplist.nl:80/live/wer51729/51729/52686.m3u8
+#EXTINF:-1,TV BRASIL
+http://list.deeplist.nl:80/live/wer51729/51729/52687.m3u8
+#EXTINF:-1,TV EVANGELIZAR
+http://list.deeplist.nl:80/live/wer51729/51729/11974.m3u8
+#EXTINF:-1,TV MUNDIAL
+http://list.deeplist.nl:80/live/wer51729/51729/11971.m3u8
+#EXTINF:-1,TV PLAYKIDS
+http://list.deeplist.nl:80/live/wer51729/51729/58766.m3u8
+#EXTINF:-1,TV RA TIM BUM
+http://list.deeplist.nl:80/live/wer51729/51729/52248.m3u8
+#EXTINF:-1,TVE
+http://list.deeplist.nl:80/live/wer51729/51729/52688.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://list.deeplist.nl:80/live/wer51729/51729/940.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://list.deeplist.nl:80/live/wer51729/51729/2475.m3u8
+#EXTINF:-1,VH1 MEGA HITS
+http://list.deeplist.nl:80/live/wer51729/51729/898.m3u8
+#EXTINF:-1,VH1 MEGA HITS HD
+http://list.deeplist.nl:80/live/wer51729/51729/58718.m3u8
+#EXTINF:-1,VIVA HD
+http://list.deeplist.nl:80/live/wer51729/51729/2476.m3u8
+#EXTINF:-1,VIVA SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38722.m3u8
+#EXTINF:-1,VIVA SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38721.m3u8
+#EXTINF:-1,VIVA SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38720.m3u8
+#EXTINF:-1,VIVA SD+
+http://list.deeplist.nl:80/live/wer51729/51729/23984.m3u8
+#EXTINF:-1,WARNER CHANNEL
+http://list.deeplist.nl:80/live/wer51729/51729/896.m3u8
+#EXTINF:-1,WARNER CHANNEL HD
+http://list.deeplist.nl:80/live/wer51729/51729/2478.m3u8
+#EXTINF:-1,WOOHOO
+http://list.deeplist.nl:80/live/wer51729/51729/894.m3u8
+#EXTINF:-1,WOOHOO HD
+http://list.deeplist.nl:80/live/wer51729/51729/16214.m3u8
+#EXTINF:-1,XxX: PLAYBOY TV
+http://list.deeplist.nl:80/live/wer51729/51729/871.m3u8
+#EXTINF:-1,XxX: SEXTREME
+http://list.deeplist.nl:80/live/wer51729/51729/853.m3u8
+#EXTINF:-1,XxX: SEXY HOT HD
+http://list.deeplist.nl:80/live/wer51729/51729/20825.m3u8
+#EXTINF:-1,XxX: SEXY HOT SD 1
+http://list.deeplist.nl:80/live/wer51729/51729/38734.m3u8
+#EXTINF:-1,XxX: SEXY HOT SD 2
+http://list.deeplist.nl:80/live/wer51729/51729/38733.m3u8
+#EXTINF:-1,XxX: SEXY HOT SD 3
+http://list.deeplist.nl:80/live/wer51729/51729/38732.m3u8
+#EXTINF:-1,XxX: SEXY HOT SD+
+http://list.deeplist.nl:80/live/wer51729/51729/37772.m3u8
+#EXTINF:-1,XxX: VENUS
+http://list.deeplist.nl:80/live/wer51729/51729/18088.m3u8
+#EXTINF:-1,ZOOMOO
+http://list.deeplist.nl:80/live/wer51729/51729/20833.m3u8
+#EXTINF:-1,ZOOMOO HD
+http://list.deeplist.nl:80/live/wer51729/51729/58720.m3u8
