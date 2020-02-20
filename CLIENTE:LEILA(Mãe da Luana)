@@ -765,6 +765,18 @@ http://list.deeplist.nl:80/mar03729/03729/38418
 http://list.deeplist.nl:80/mar03729/03729/47529
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD 1" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD 1
 http://list.deeplist.nl:80/mar03729/03729/47532
+#EXTINF:-1 type="stream" tvg-id="Record DF HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record DF HD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record FHD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record FHD
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record MG HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record MG HD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record MG HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record MG HDD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record RJ HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record RJ HDD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 type="stream" tvg-id="Record RS HD" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record RS HDD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_480_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD 2" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD 2
 http://list.deeplist.nl:80/mar03729/03729/47531
 #EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD GO SD+" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD GO SD+
