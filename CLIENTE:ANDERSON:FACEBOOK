@@ -2093,3 +2093,13 @@ http://csrv.me:80/live/XyteD/VGFcs/2104.m3u8
 http://csrv.me:80/live/XyteD/VGFcs/25365.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/Wtx" group-title="Canais | Adultos",[+18] Venus SD
 http://csrv.me:80/live/XyteD/VGFcs/1646.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/N2f" group-title="Canais | 24 Horas",[24H] OS CAVALEIROS DOS ZODIACOS COMPLETO
+http://csrv.me:80/live/XyteD/VGFcs/30009.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/3We" group-title="Canais | 24 Horas",[24H] OS CAVALEIROS DOS ZODIACOS SAGA DE ASGARD
+http://csrv.me:80/live/XyteD/VGFcs/30010.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/7nd" group-title="Canais | 24 Horas",[24H] OS CAVALEIROS DOS ZODIACOS SAGA DE HADES
+http://csrv.me:80/live/XyteD/VGFcs/30011.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Mdw" group-title="Canais | 24 Horas",[24H] OS CAVALEIROS DOS ZODIACOS SAGA DE POSEIDON
+http://csrv.me:80/live/XyteD/VGFcs/30012.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/c3R" group-title="Canais | 24 Horas",[24H] OS CAVALEIROS DOS ZODIACOS SAGA DO SANTUARIO
+http://csrv.me:80/live/XyteD/VGFcs/30013.m3u8
