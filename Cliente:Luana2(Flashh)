@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U size="big
 #EXTINF:-1 tvg-id="" tvg-name=" Miami" tvg-logo="https://ik.imagekit.io/grgdihc3l/Miami/media/Locations/Miami%20Beach/miami-beach-aerial-1440x900.jpg?ext=.jpg" group-title=" Canais | Cameras Ao Vivo", Miami
 http://udq.me:80/live/VHKEd/TbuaF/22263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Times Square (Nova York)" tvg-logo="https://gd-newyork.sfo2.cdn.digitaloceanspaces.com/2014/04/Times-Square-Nova-Iorque.jpg" group-title=" Canais | Cameras Ao Vivo", Times Square (Nova York)
