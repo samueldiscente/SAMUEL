@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U size="Medium"
 #EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
 http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=6d713329a0841ca2804a43288f75dbdc
 #EXTINF:-1 type="stream" tvg-id="A&E FHD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E FHD
