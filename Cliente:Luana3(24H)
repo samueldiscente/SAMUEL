@@ -37,3 +37,5 @@ http://unidaque.me:80/live/DgKTp/3CrNU/13551.m3u8
 http://unidaque.me:80/live/DgKTp/3CrNU/13549.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry 24HS" tvg-logo="https://cdn.imgbin.com/15/8/24/imgbin-jerry-mouse-tom-cat-tom-and-jerry-tom-and-jerry-free-tom-jerry-illustration-hMMCsnM6BgzsYBTtxeK66HqMC.jpg" group-title="Canais | 24 Horas",Tom & Jerry 24HS
 http://unidaque.me:80/live/DgKTp/3CrNU/13550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24HS: THUNDERCATS" tvg-logo="https://www.pngkey.com/png/full/140-1406097_tv-fanart-thunder-cats-png-hd.png" group-title="Canais | 24 Horas",24HS: THUNDERCATS
+http://unidaque.me:80/live/DgKTp/3CrNU/13222.m3u8
