@@ -25,3 +25,5 @@ http://unidaque.me:80/live/d9KmN/CaNc9/13531.m3u8
 http://unidaque.me:80/live/d9KmN/CaNc9/13536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 24HS" tvg-logo="" group-title="Canais | 24 Horas",PERNALONGA 24HS
 http://unidaque.me:80/live/d9KmN/CaNc9/13533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA 2 24HS" tvg-logo="" group-title="Canais | 24 Horas",PERNALONGA 2 24HS
+http://csrv.me:80/live/q9bp3/nFbJS/30038.m3u8
