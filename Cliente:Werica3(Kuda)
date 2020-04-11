@@ -1,5 +1,4 @@
 #EXTM3U size="Medium"
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Canais | Variedades",A&E FHD
 http://csrv.me:80/live/Qk8tf/NFa7s/2025.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/rU0" group-title="Canais | Variedades",A&E FHD [H265]
