@@ -1,5 +1,4 @@
 #EXTM3U size="Medium"
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Canais | Variedades",A&E FHD
 http://csrv.me:80/live/HPS3Y/7j2vg/2025.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/rU0" group-title="Canais | Variedades",A&E FHD [H265]
@@ -2100,3 +2099,131 @@ http://csrv.me:80/live/HPS3Y/7j2vg/2137.m3u8
 http://csrv.me:80/live/HPS3Y/7j2vg/40374.m3u8
 #EXTINF:-1 tvg-logo="http://iv.pe/oQx" group-title="Canais | Estados Unidos",US: A&E Network
 http://csrv.me:80/live/HPS3Y/7j2vg/40372.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/9oK" group-title="Canais | Estados Unidos",US: Zona Futbol
+http://csrv.me:80/live/HPS3Y/7j2vg/40138.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/vwN" group-title="Canais | Variedades",VH1 FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/1958.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/hIK" group-title="Canais | Variedades",VH1 FHD [H265]
+http://csrv.me:80/live/HPS3Y/7j2vg/25403.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/PoH" group-title="Canais | Alternativos",VH1 FHD [H265] [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/29425.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/diD" group-title="Canais | Variedades",VH1 HD
+http://csrv.me:80/live/HPS3Y/7j2vg/1686.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/y4S" group-title="Canais | Variedades",VH1 MegaHits SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1685.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/IG9" group-title="Canais | Alternativos",VH1 MegaHits SD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2136.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/5dh" group-title="Canais | Variedades",VH1 SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1687.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/g8Y" group-title="Canais | Variedades",Viva FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/1922.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/17T" group-title="Canais | Variedades",Viva FHD [H265]
+http://csrv.me:80/live/HPS3Y/7j2vg/25402.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/FVn" group-title="Canais | Variedades",Viva HD
+http://csrv.me:80/live/HPS3Y/7j2vg/1683.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Beb" group-title="Canais | Alternativos",Viva HD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2314.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/s8u" group-title="Canais | Variedades",Viva SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1684.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/M8v" group-title="Canais | Alternativos",Viva SD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2135.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/kuW" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/1957.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rzp" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+http://csrv.me:80/live/HPS3Y/7j2vg/25401.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/kic" group-title="Canais | Alternativos",Warner Channel FHD [H265] [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/29424.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/yfF" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://csrv.me:80/live/HPS3Y/7j2vg/1681.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/jaD" group-title="Canais | Alternativos",Warner Channel HD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2313.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/nnh" group-title="Canais | Legendados",Warner Channel HD [Legendado]
+http://csrv.me:80/live/HPS3Y/7j2vg/1497.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/NCm" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1682.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/yQf" group-title="Canais | Alternativos",Warner Channel SD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2134.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/dFC" group-title="Canais | Legendados",Warner Channel SD [Legendado]
+http://csrv.me:80/live/HPS3Y/7j2vg/1496.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/bXo" group-title="Canais | Variedades",WooHoo FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/1956.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/EhD" group-title="Canais | Variedades",WooHoo FHD [H265]
+http://csrv.me:80/live/HPS3Y/7j2vg/25364.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Juw" group-title="Canais | Alternativos",WooHoo FHD [H265] [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/29397.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/12D" group-title="Canais | Variedades",WooHoo HD
+http://csrv.me:80/live/HPS3Y/7j2vg/1679.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/ypn" group-title="Canais | Variedades",WooHoo SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1680.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/OQ4" group-title="Canais | Alternativos",WooHoo SD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2133.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Aline Barros - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43834.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Bruno e Marrone  - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43778.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Cesar Menotti e Fabiano - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/44162.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Guilherme e Benuto - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43794.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Gusttavo Lima - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43781.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Jorge e Mateus - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43779.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - KLB - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43798.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/XWo" group-title="Canais | YouTube",YouTube - Live 20H Wesley Safadao FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/44173.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Live 22H Fernando e Sorocaba FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43771.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/XWo" group-title="Canais | YouTube",YouTube - Live Alexandre Pires FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/42940.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/XWo" group-title="Canais | YouTube",YouTube - Live Bruno e Barreto FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/42961.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Live Cavaleiros do Forró FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43770.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Marcos e Belutti - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43795.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Marilia Mendonca - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43777.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Matheus e Kauan - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43780.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Michel Telo - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43785.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Pericles - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43835.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Turma do Pagode - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43799.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/u2Z" group-title="Canais | YouTube",YouTube - Ze Neto e Cristiano - Reprise FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/43800.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/X8t" group-title="Canais | Infantis",ZooMoo SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1653.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/T9k" group-title="Canais | Alternativos",ZooMoo SD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2111.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/IK3" group-title="Canais | Adultos",[+18] PlayboyTV FHD
+http://csrv.me:80/live/HPS3Y/7j2vg/1954.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/v7l" group-title="Canais | Adultos",[+18] PlayboyTV FHD [H265]
+http://csrv.me:80/live/HPS3Y/7j2vg/25423.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/fvZ" group-title="Canais | Adultos",[+18] PlayboyTV HD
+http://csrv.me:80/live/HPS3Y/7j2vg/1649.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/rlh" group-title="Canais | Alternativos",[+18] PlayboyTV HD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2309.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/XjL" group-title="Canais | Adultos",[+18] PlayboyTV SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1650.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/xmU" group-title="Canais | Alternativos",[+18] PlayboyTV SD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2166.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Nob" group-title="Canais | Adultos",[+18] Sextreme FHD [H265]
+http://csrv.me:80/live/HPS3Y/7j2vg/25368.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/fSf" group-title="Canais | Adultos",[+18] Sextreme SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1648.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/VTR" group-title="Canais | Alternativos",[+18] Sextreme SD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2105.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/UrZ" group-title="Canais | Adultos",[+18] SexyHot FHD [H265]
+http://csrv.me:80/live/HPS3Y/7j2vg/25369.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/5px" group-title="Canais | Adultos",[+18] SexyHot SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1647.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/lqW" group-title="Canais | Alternativos",[+18] SexyHot SD [Alter]
+http://csrv.me:80/live/HPS3Y/7j2vg/2104.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/oEZ" group-title="Canais | Adultos",[+18] Venus FHD [H265]
+http://csrv.me:80/live/HPS3Y/7j2vg/25365.m3u8
+#EXTINF:-1 tvg-logo="http://iv.pe/Wtx" group-title="Canais | Adultos",[+18] Venus SD
+http://csrv.me:80/live/HPS3Y/7j2vg/1646.m3u8
