@@ -153,9 +153,9 @@ http://canais.servidor.tv:8080/onm9yk/vjtehi/306
 http://canais.servidor.tv:8080/onm9yk/vjtehi/1473
 #EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="http://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD+
 http://canais.servidor.tv:8080/onm9yk/vjtehi/304
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Filme e Série",Fox Life HD
 http://canais.servidor.tv:8080/onm9yk/vjtehi/1472
-#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD+
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Filme e Série",Fox Life HD+
 http://canais.servidor.tv:8080/onm9yk/vjtehi/303
 #EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://logos.servidor.tv/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD
 http://canais.servidor.tv:8080/onm9yk/vjtehi/1505
