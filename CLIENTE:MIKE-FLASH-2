@@ -1,3 +1,4 @@
+#EXTM3U size="Medium"
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E ALTERNATIVO" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFjY2Vkby5hZS5hbmRyb2lkLmRlYnVnX2ljb25fMTUyMTg4NTU1NF8wNzg/icon.png?w=170&fakeurl=1" group-title=" Canais | Filmes e Séries",A&E ALTERNATIVO
 http://udq.me:80/live/r6bV7/vx8m4/13359.m3u8
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFjY2Vkby5hZS5hbmRyb2lkLmRlYnVnX2ljb25fMTUyMTg4NTU1NF8wNzg/icon.png?w=170&fakeurl=1" group-title="Canais | Filmes e Séries",A&E FHD
