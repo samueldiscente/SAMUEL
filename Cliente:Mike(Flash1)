@@ -17,6 +17,26 @@ http://udq.me:80/live/FB1B8/5RJFx/13482.m3u8
 http://udq.me:80/live/FB1B8/5RJFx/22693.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC H265" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Canais | Filmes e Séries",AMC H265
 http://udq.me:80/live/FB1B8/5RJFx/9276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY 01 HD
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58175
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY 02 HD
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58176
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY 03 HD
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58177
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY 04 HD
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58178
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY 05 HD
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58179
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 06" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY HD 06
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58206
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 07" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY HD 07
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58207
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 08" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY HD 08
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58208
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 09" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY HD 09
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58209
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY HD 10" tvg-logo="https://i.imgur.com/fcp3w4Z.png" group-title="Canais | Filmes e Séries",CINE SKY HD 10
+http://srv.tvprodigital.net:80/ZJPmte/Rmt3sl/58210
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC H265 ALTERNATIVO" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title=" Canais | Filmes e Séries",AMC H265 ALTERNATIVO
 http://udq.me:80/live/FB1B8/5RJFx/9277.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="https://www.freepnglogos.com/uploads/amc-png-logo/amc-media-png-logo-1.png" group-title="Canais | Filmes e Séries",AMC HD
