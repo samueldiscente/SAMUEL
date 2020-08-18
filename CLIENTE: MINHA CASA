@@ -165,8 +165,6 @@ http://srvx.io:80/live/p3px3/QksnK/25467.m3u8
 http://srvx.io:80/live/p3px3/QksnK/29421.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS HD
 http://srvx.io:80/live/p3px3/QksnK/1889.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Alternativos",BIS HD [Alter]
-http://srvx.io:80/live/p3px3/QksnK/2396.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS SD
 http://srvx.io:80/live/p3px3/QksnK/1890.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Alternativos",BIS SD [Alter]
