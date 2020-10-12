@@ -79,8 +79,20 @@ http://udq.me:80/live/3w1m8/TRCCm/7037.m3u8
 http://udq.me:80/live/3w1m8/TRCCm/7036.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL  PLANET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title=" Canais | Documentários",ANIMAL  PLANET FHD
 http://udq.me:80/live/3w1m8/TRCCm/13093.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
+http://list.deeplist.nl:80/xcxs2491/rxuj3651/1719
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET FULL HD" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET FULL HD
+http://list.deeplist.nl:80/xcxs2491/rxuj3651/68282
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
+http://list.deeplist.nl:80/xcxs2491/rxuj3651/52581
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL  PLANET FHD [ALTERNATIVO]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title=" Canais | Documentários",ANIMAL  PLANET FHD [ALTERNATIVO]
 http://udq.me:80/live/3w1m8/TRCCm/52798.m3u8
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET
+http://list.deeplist.nl:80/xcxs2491/rxuj3651/1719
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET FULL HD" tvg-logo="http://img.starbr.in/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET FULL HD
+http://list.deeplist.nl:80/xcxs2491/rxuj3651/68282
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET HD" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559753303_f60845b1da65730c4221605d157659a6205baa87.png" group-title="Documentarios",ANIMAL PLANET HD
+http://list.deeplist.nl:80/xcxs2491/rxuj3651/52581
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET H265" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="Canais | H265",ANIMAL PLANET H265
 http://udq.me:80/live/3w1m8/TRCCm/284.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="ANIMAL PLANET H265 [ALTERNATIVO]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet2019.png" group-title="Canais | H265",ANIMAL PLANET H265 [ALTERNATIVO]
